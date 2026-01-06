@@ -1,0 +1,78 @@
+[
+  {
+    "day": "Montag",
+    "date": "06.01.2026",
+    "events": [
+      {
+        "time": "19:00",
+        "title": "Mythic+ Viewer Keys",
+        "games": ["World of Warcraft"],
+        "description": "keine ahnung was keys sind aber google hat das vorgeschlagen."
+      },
+      {
+        "time": "22:00",
+        "title": "Raids",
+        "games": ["World of Warcraft"],
+        "description": "man raided in WoW doch, oder?"
+      }
+    ]
+  },
+  {
+    "day": "Dienstag",
+    "date": "07.01.2026",
+    "events": []
+  },
+  {
+    "day": "Mittwoch",
+    "date": "08.01.2026",
+    "events": [
+      {
+        "time": "22:00",
+        "title": "Horror Night",
+        "games": ["Phasmophobia", "Resident Evil"],
+        "description": "weil, ihr spielt safe doch auch mal was anderes?"
+      }
+    ]
+  },
+  {
+    "day": "Donnerstag",
+    "date": "09.01.2026",
+    "events": []
+  },
+  {
+    "day": "Freitag",
+    "date": "10.01.2026",
+    "events": [
+      {
+        "time": "20:00",
+        "title": "M+ Push",
+        "games": ["World of Warcraft"],
+        "description": "besser als L+ Push sage ich immer"
+      }
+    ]
+  },
+  {
+    "day": "Samstag",
+    "date": "11.01.2026",
+    "events": [
+      {
+        "time": "15:00",
+        "title": "Community Games",
+        "games": ["Minecraft", "Among Us", "Fall Guys"],
+        "description": "HNL"
+      }
+    ]
+  },
+  {
+    "day": "Sonntag",
+    "date": "12.01.2026",
+    "events": [
+      {
+        "time": "17:00",
+        "title": "React-Stream",
+        "games": ["Just Chatting"],
+        "description": "content von anderen gönnen."
+      }
+    ]
+  }
+]

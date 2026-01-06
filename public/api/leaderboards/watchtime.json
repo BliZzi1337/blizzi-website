@@ -1,0 +1,75 @@
+{
+  "config": {
+    "displayName": "WATCHTIME",
+    "columns": [
+      {
+        "key": "Watchtime",
+        "label": "Watchtime",
+        "format": "time"
+      }
+    ],
+    "defaultSortColumn": "Watchtime"
+  },
+  "data": [
+    {
+      "UserName": "StreamAddict",
+      "UserLogin": "streamaddict",
+      "Watchtime": "2568000"
+    },
+    {
+      "UserName": "SrA86",
+      "UserLogin": "sra86",
+      "Watchtime": "2145000"
+    },
+    {
+      "UserName": "ChatLurker",
+      "UserLogin": "chatlurker",
+      "Watchtime": "1987000"
+    },
+    {
+      "UserName": "fabrikfehler",
+      "UserLogin": "fabrikfehler",
+      "Watchtime": "1832000"
+    },
+    {
+      "UserName": "Schmidiiii",
+      "UserLogin": "schmidiiii",
+      "Watchtime": "1654000"
+    },
+    {
+      "UserName": "AlwaysWatching",
+      "UserLogin": "alwayswatching",
+      "Watchtime": "1523000"
+    },
+    {
+      "UserName": "Chrabby",
+      "UserLogin": "chrabby",
+      "Watchtime": "1489000"
+    },
+    {
+      "UserName": "MythicMaster",
+      "UserLogin": "mythicmaster",
+      "Watchtime": "1321000"
+    },
+    {
+      "UserName": "GigaChadGamer",
+      "UserLogin": "gigachadgamer",
+      "Watchtime": "1245000"
+    },
+    {
+      "UserName": "WoWWarrior",
+      "UserLogin": "wowwarrior",
+      "Watchtime": "1168000"
+    },
+    {
+      "UserName": "KeyTimerPro",
+      "UserLogin": "keytimerpro",
+      "Watchtime": "1032000"
+    },
+    {
+      "UserName": "DungeonRunner",
+      "UserLogin": "dungeonrunner",
+      "Watchtime": "987000"
+    }
+  ]
+}

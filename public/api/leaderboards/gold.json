@@ -1,0 +1,75 @@
+{
+  "config": {
+    "displayName": "GOLD",
+    "columns": [
+      {
+        "key": "Gold",
+        "label": "Gold",
+        "format": "number"
+      }
+    ],
+    "defaultSortColumn": "Gold"
+  },
+  "data": [
+    {
+      "UserName": "GoldMiner",
+      "UserLogin": "goldminer",
+      "Gold": "1500000"
+    },
+    {
+      "UserName": "fabrikfehler",
+      "UserLogin": "fabrikfehler",
+      "Gold": "1250000"
+    },
+    {
+      "UserName": "SrA86",
+      "UserLogin": "sra86",
+      "Gold": "980000"
+    },
+    {
+      "UserName": "Schmidiiii",
+      "UserLogin": "schmidiiii",
+      "Gold": "875000"
+    },
+    {
+      "UserName": "RichViewer",
+      "UserLogin": "richviewer",
+      "Gold": "750000"
+    },
+    {
+      "UserName": "Chrabby",
+      "UserLogin": "chrabby",
+      "Gold": "680000"
+    },
+    {
+      "UserName": "GigaChadGamer",
+      "UserLogin": "gigachadgamer",
+      "Gold": "565000"
+    },
+    {
+      "UserName": "WealthyWatcher",
+      "UserLogin": "wealthywatcher",
+      "Gold": "490000"
+    },
+    {
+      "UserName": "CoinCollector",
+      "UserLogin": "coincollector",
+      "Gold": "425000"
+    },
+    {
+      "UserName": "TreasureHunter",
+      "UserLogin": "treasurehunter",
+      "Gold": "380000"
+    },
+    {
+      "UserName": "GoldDigger",
+      "UserLogin": "golddigger",
+      "Gold": "315000"
+    },
+    {
+      "UserName": "MoneyMaker",
+      "UserLogin": "moneymaker",
+      "Gold": "275000"
+    }
+  ]
+}

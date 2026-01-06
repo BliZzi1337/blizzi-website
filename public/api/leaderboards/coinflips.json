@@ -1,0 +1,109 @@
+{
+  "config": {
+    "displayName": "COINFLIPS",
+    "columns": [
+      {
+        "key": "Gesamt",
+        "label": "Gesamt",
+        "format": "number"
+      },
+      {
+        "key": "Gewonnen",
+        "label": "Gewonnen",
+        "format": "number"
+      },
+      {
+        "key": "Verloren",
+        "label": "Verloren",
+        "format": "number"
+      }
+    ],
+    "defaultSortColumn": "Gesamt"
+  },
+  "data": [
+    {
+      "UserName": "DuelMaster",
+      "UserLogin": "duelmaster",
+      "Gesamt": "450",
+      "Gewonnen": "320",
+      "Verloren": "130"
+    },
+    {
+      "UserName": "fabrikfehler",
+      "UserLogin": "fabrikfehler",
+      "Gesamt": "380",
+      "Gewonnen": "245",
+      "Verloren": "135"
+    },
+    {
+      "UserName": "SrA86",
+      "UserLogin": "sra86",
+      "Gesamt": "325",
+      "Gewonnen": "210",
+      "Verloren": "115"
+    },
+    {
+      "UserName": "Schmidiiii",
+      "UserLogin": "schmidiiii",
+      "Gesamt": "298",
+      "Gewonnen": "189",
+      "Verloren": "109"
+    },
+    {
+      "UserName": "FightChampion",
+      "UserLogin": "fightchampion",
+      "Gesamt": "275",
+      "Gewonnen": "198",
+      "Verloren": "77"
+    },
+    {
+      "UserName": "Chrabby",
+      "UserLogin": "chrabby",
+      "Gesamt": "250",
+      "Gewonnen": "145",
+      "Verloren": "105"
+    },
+    {
+      "UserName": "GigaChadGamer",
+      "UserLogin": "gigachadgamer",
+      "Gesamt": "215",
+      "Gewonnen": "132",
+      "Verloren": "83"
+    },
+    {
+      "UserName": "WarriorKing",
+      "UserLogin": "warriorking",
+      "Gesamt": "198",
+      "Gewonnen": "124",
+      "Verloren": "74"
+    },
+    {
+      "UserName": "BattleLord",
+      "UserLogin": "battlelord",
+      "Gesamt": "175",
+      "Gewonnen": "98",
+      "Verloren": "77"
+    },
+    {
+      "UserName": "CombatPro",
+      "UserLogin": "combatpro",
+      "Gesamt": "156",
+      "Gewonnen": "89",
+      "Verloren": "67"
+    },
+    {
+      "UserName": "ArenaBoss",
+      "UserLogin": "arenaboss",
+      "Gesamt": "142",
+      "Gewonnen": "75",
+      "Verloren": "67"
+    },
+    {
+      "UserName": "PvPKing",
+      "UserLogin": "pvpking",
+      "Gesamt": "128",
+      "Gewonnen": "68",
+      "Verloren": "60"
+    }
+  ]
+}
