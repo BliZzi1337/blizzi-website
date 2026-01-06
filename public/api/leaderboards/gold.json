@@ -12,64 +12,289 @@
   },
   "data": [
     {
-      "UserName": "GoldMiner",
-      "UserLogin": "goldminer",
-      "Gold": "1500000"
+      "UserName": "pokimane",
+      "UserLogin": "pokimane",
+      "Gold": "5441868"
     },
     {
-      "UserName": "fabrikfehler",
-      "UserLogin": "fabrikfehler",
-      "Gold": "1250000"
+      "UserName": "AnniTheDuck",
+      "UserLogin": "annitheduck",
+      "Gold": "5195340"
     },
     {
-      "UserName": "SrA86",
-      "UserLogin": "sra86",
-      "Gold": "980000"
+      "UserName": "PietSmiet",
+      "UserLogin": "pietsmiet",
+      "Gold": "4058955"
     },
     {
-      "UserName": "Schmidiiii",
-      "UserLogin": "schmidiiii",
-      "Gold": "875000"
+      "UserName": "tawmae",
+      "UserLogin": "tawmae",
+      "Gold": "480208"
     },
     {
-      "UserName": "RichViewer",
-      "UserLogin": "richviewer",
-      "Gold": "750000"
+      "UserName": "Emiru",
+      "UserLogin": "emiru",
+      "Gold": "28026"
     },
     {
-      "UserName": "Chrabby",
-      "UserLogin": "chrabby",
-      "Gold": "680000"
+      "UserName": "AMOURANTH",
+      "UserLogin": "amouranth",
+      "Gold": "24300"
     },
     {
-      "UserName": "GigaChadGamer",
-      "UserLogin": "gigachadgamer",
-      "Gold": "565000"
+      "UserName": "nutty",
+      "UserLogin": "nutty",
+      "Gold": "22275"
     },
     {
-      "UserName": "WealthyWatcher",
-      "UserLogin": "wealthywatcher",
-      "Gold": "490000"
+      "UserName": "testing029",
+      "UserLogin": "testing029",
+      "Gold": "18081"
     },
     {
-      "UserName": "CoinCollector",
-      "UserLogin": "coincollector",
-      "Gold": "425000"
+      "UserName": "イビテスト",
+      "UserLogin": "tawmae_test",
+      "Gold": "17055"
     },
     {
-      "UserName": "TreasureHunter",
-      "UserLogin": "treasurehunter",
-      "Gold": "380000"
+      "UserName": "Maniac_M3chan1c",
+      "UserLogin": "maniac_m3chan1c",
+      "Gold": "16767"
     },
     {
-      "UserName": "GoldDigger",
-      "UserLogin": "golddigger",
-      "Gold": "315000"
+      "UserName": "dontaskaster",
+      "UserLogin": "dontaskaster",
+      "Gold": "16362"
     },
     {
-      "UserName": "MoneyMaker",
-      "UserLogin": "moneymaker",
-      "Gold": "275000"
+      "UserName": "kaadbuks",
+      "UserLogin": "kaadbuks",
+      "Gold": "16362"
+    },
+    {
+      "UserName": "eminemrl5",
+      "UserLogin": "eminemrl5",
+      "Gold": "16362"
+    },
+    {
+      "UserName": "dynvudu",
+      "UserLogin": "dynvudu",
+      "Gold": "16200"
+    },
+    {
+      "UserName": "KittyKat513",
+      "UserLogin": "kittykat513",
+      "Gold": "12312"
+    },
+    {
+      "UserName": "officer_checker",
+      "UserLogin": "officer_checker",
+      "Gold": "9900"
+    },
+    {
+      "UserName": "Ashleighhy",
+      "UserLogin": "ashleighhy",
+      "Gold": "9900"
+    },
+    {
+      "UserName": "bigmini_tv",
+      "UserLogin": "bigmini_tv",
+      "Gold": "9900"
+    },
+    {
+      "UserName": "DireTheBunny",
+      "UserLogin": "direthebunny",
+      "Gold": "9900"
+    },
+    {
+      "UserName": "adriixRL",
+      "UserLogin": "adriixrl",
+      "Gold": "9900"
+    },
+    {
+      "UserName": "marwandjerroumi",
+      "UserLogin": "marwandjerroumi",
+      "Gold": "9900"
+    },
+    {
+      "UserName": "teyzyan",
+      "UserLogin": "teyzyan",
+      "Gold": "9900"
+    },
+    {
+      "UserName": "finnesse03",
+      "UserLogin": "finnesse03",
+      "Gold": "9675"
+    },
+    {
+      "UserName": "nennyrl",
+      "UserLogin": "nennyrl",
+      "Gold": "9675"
+    },
+    {
+      "UserName": "PewDiePie",
+      "UserLogin": "pewdiepie",
+      "Gold": "9671"
+    },
+    {
+      "UserName": "FiveArms",
+      "UserLogin": "fivearms",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "Dr_Trashbag",
+      "UserLogin": "dr_trashbag",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "ScrimLion",
+      "UserLogin": "scrimlion",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "shmoist",
+      "UserLogin": "shmoist",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "rusty21555",
+      "UserLogin": "rusty21555",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "سولار",
+      "UserLogin": "solaruniverse_x",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "mazen10010",
+      "UserLogin": "mazen10010",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "grootboy49",
+      "UserLogin": "grootboy49",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "TheAldarius",
+      "UserLogin": "thealdarius",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "AllRoadsLeadToTheFarm",
+      "UserLogin": "allroadsleadtothefarm",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "ttv_zappz",
+      "UserLogin": "ttv_zappz",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "Pawkzz",
+      "UserLogin": "pawkzz",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "Viewer_Of_IRL",
+      "UserLogin": "viewer_of_irl",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "srruben13",
+      "UserLogin": "srruben13",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "thyla_one",
+      "UserLogin": "thyla_one",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "artsicow",
+      "UserLogin": "artsicow",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "bnl_adam",
+      "UserLogin": "bnl_adam",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "thebeardedbulwark",
+      "UserLogin": "thebeardedbulwark",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "milogin_44",
+      "UserLogin": "milogin_44",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "newlifetime12333",
+      "UserLogin": "newlifetime12333",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "itsyaboydr_freezee",
+      "UserLogin": "itsyaboydr_freezee",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "notouriousman66",
+      "UserLogin": "notouriousman66",
+      "Gold": "9450"
+    },
+    {
+      "UserName": "tawmaestestaccount",
+      "UserLogin": "tawmaestestaccount",
+      "Gold": "9180"
+    },
+    {
+      "UserName": "FallenEminence",
+      "UserLogin": "falleneminence",
+      "Gold": "9180"
+    },
+    {
+      "UserName": "Persxican",
+      "UserLogin": "persxican",
+      "Gold": "9180"
+    },
+    {
+      "UserName": "TickleMyYoshi",
+      "UserLogin": "ticklemyyoshi",
+      "Gold": "9005"
+    },
+    {
+      "UserName": "KingAlcatrazTV",
+      "UserLogin": "kingalcatraztv",
+      "Gold": "500"
+    },
+    {
+      "UserName": "soarn_dev",
+      "UserLogin": "soarn_dev",
+      "Gold": "500"
+    },
+    {
+      "UserName": "S_M_9_",
+      "UserLogin": "s_m_9_",
+      "Gold": "500"
+    },
+    {
+      "UserName": "ExitN9ner",
+      "UserLogin": "exitn9ner",
+      "Gold": "500"
+    },
+    {
+      "UserName": "DIGIVINYL",
+      "UserLogin": "digivinyl",
+      "Gold": "500"
+    },
+    {
+      "UserName": "Grim_Deathscythe",
+      "UserLogin": "grim_deathscythe",
+      "Gold": "500"
     }
   ]
 }
