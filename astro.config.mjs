@@ -3,6 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://MODTOOLSSB.github.io',
+  site: 'https://tawmae.github.io/blizzi-website',
   base: '/blizzi-website',
 });
