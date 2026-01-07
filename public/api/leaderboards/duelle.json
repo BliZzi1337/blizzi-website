@@ -30,5 +30,24 @@
     ],
     "defaultSortColumn": "Gesamt"
   },
-  "data": []
+  "data": [
+    {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gesamt": "1",
+      "Gewonnen": "1",
+      "Verloren": "0",
+      "PunkteGewonnen": "1000",
+      "PunkteVerloren": "0"
+    },
+    {
+      "UserName": "SrH_x",
+      "UserLogin": "srh_x",
+      "Gesamt": "1",
+      "Gewonnen": "0",
+      "Verloren": "1",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "1000"
+    }
+  ]
 }
