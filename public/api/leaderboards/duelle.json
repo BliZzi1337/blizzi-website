@@ -16,6 +16,16 @@
         "key": "Verloren",
         "label": "Verloren",
         "format": "number"
+      },
+      {
+        "key": "PunkteGewonnen",
+        "label": "Punkte Gewonnen",
+        "format": "number"
+      },
+      {
+        "key": "PunkteVerloren",
+        "label": "Punkte Verloren",
+        "format": "number"
       }
     ],
     "defaultSortColumn": "Gesamt"
