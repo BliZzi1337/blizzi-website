@@ -38,7 +38,7 @@
       "Wochen": 6,
       "Tage": 46,
       "Stunden": 1124,
-      "WatchtimeSek": 4047960
+      "WatchtimeSek": 4048260
     },
     {
       "UserName": "SrA86",
@@ -56,7 +56,7 @@
       "Wochen": 5,
       "Tage": 35,
       "Stunden": 843,
-      "WatchtimeSek": 3037320
+      "WatchtimeSek": 3037620
     },
     {
       "UserName": "ToxicMonsti",
@@ -101,7 +101,7 @@
       "Wochen": 1,
       "Tage": 11,
       "Stunden": 268,
-      "WatchtimeSek": 966540
+      "WatchtimeSek": 966840
     },
     {
       "UserName": "J3loodyFe4r",
@@ -110,7 +110,7 @@
       "Wochen": 1,
       "Tage": 10,
       "Stunden": 252,
-      "WatchtimeSek": 908940
+      "WatchtimeSek": 909240
     },
     {
       "UserName": "xph1lo",
@@ -118,8 +118,8 @@
       "Monate": 0,
       "Wochen": 1,
       "Tage": 7,
-      "Stunden": 186,
-      "WatchtimeSek": 673080
+      "Stunden": 187,
+      "WatchtimeSek": 673380
     },
     {
       "UserName": "GrinchiSC",
@@ -163,8 +163,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 3,
-      "Stunden": 74,
-      "WatchtimeSek": 269700
+      "Stunden": 75,
+      "WatchtimeSek": 270000
     },
     {
       "UserName": "saddi_86",
@@ -199,8 +199,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 1,
-      "Stunden": 46,
-      "WatchtimeSek": 168900
+      "Stunden": 47,
+      "WatchtimeSek": 169200
     },
     {
       "UserName": "only_TK",
@@ -226,8 +226,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 1,
-      "Stunden": 38,
-      "WatchtimeSek": 140100
+      "Stunden": 39,
+      "WatchtimeSek": 140400
     },
     {
       "UserName": "morimo87",
@@ -254,7 +254,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 36,
-      "WatchtimeSek": 131100
+      "WatchtimeSek": 131400
     },
     {
       "UserName": "astoooooo",
@@ -308,7 +308,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 31,
-      "WatchtimeSek": 112500
+      "WatchtimeSek": 112800
     },
     {
       "UserName": "82Shinigami",
@@ -326,7 +326,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 29,
-      "WatchtimeSek": 107400
+      "WatchtimeSek": 107700
     },
     {
       "UserName": "Lunng",
@@ -344,7 +344,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 28,
-      "WatchtimeSek": 101400
+      "WatchtimeSek": 101700
     },
     {
       "UserName": "anti_engel",
@@ -496,8 +496,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
-      "Stunden": 10,
-      "WatchtimeSek": 39300
+      "Stunden": 11,
+      "WatchtimeSek": 39600
     },
     {
       "UserName": "eklyptic_die_erste",
@@ -533,7 +533,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 10,
-      "WatchtimeSek": 36600
+      "WatchtimeSek": 36900
     },
     {
       "UserName": "stardust_1984",
@@ -1535,6 +1535,15 @@
       "WatchtimeSek": 3900
     },
     {
+      "UserName": "heyesy1",
+      "UserLogin": "heyesy1",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 1,
+      "WatchtimeSek": 3600
+    },
+    {
       "UserName": "therealslimshady187",
       "UserLogin": "therealslimshady187",
       "Monate": 0,
@@ -1571,6 +1580,15 @@
       "WatchtimeSek": 3600
     },
     {
+      "UserName": "سر",
+      "UserLogin": "secretdot",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 1,
+      "WatchtimeSek": 3600
+    },
+    {
       "UserName": "adrea_x",
       "UserLogin": "adrea_x",
       "Monate": 0,
@@ -1582,15 +1600,6 @@
     {
       "UserName": "kokaintiger",
       "UserLogin": "kokaintiger",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 3300
-    },
-    {
-      "UserName": "heyesy1",
-      "UserLogin": "heyesy1",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -1627,15 +1636,6 @@
     {
       "UserName": "ladylucreziia",
       "UserLogin": "ladylucreziia",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 3300
-    },
-    {
-      "UserName": "سر",
-      "UserLogin": "secretdot",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -2624,6 +2624,15 @@
       "WatchtimeSek": 900
     },
     {
+      "UserName": "N1rtusTV",
+      "UserLogin": "n1rtustv",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 900
+    },
+    {
       "UserName": "maddy02_",
       "UserLogin": "maddy02_",
       "Monate": 0,
@@ -3058,15 +3067,6 @@
     {
       "UserName": "nagyg112",
       "UserLogin": "nagyg112",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 600
-    },
-    {
-      "UserName": "N1rtusTV",
-      "UserLogin": "n1rtustv",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
