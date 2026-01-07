@@ -42,6 +42,17 @@
   },
   "data": [
     {
+      "UserName": "91pitt91",
+      "UserLogin": "91pitt91",
+      "Gesamt": "5",
+      "Gewonnen": "2",
+      "Verloren": "3",
+      "PunkteGewonnen": "3500",
+      "PunkteVerloren": "6000",
+      "HoechsterSieg": "2500",
+      "HoechsteNiederlage": "3000"
+    },
+    {
       "UserName": "GrinchiSC",
       "UserLogin": "grinchisc",
       "Gesamt": "4",
@@ -86,17 +97,6 @@
       "HoechsteNiederlage": "0"
     },
     {
-      "UserName": "91pitt91",
-      "UserLogin": "91pitt91",
-      "Gesamt": "2",
-      "Gewonnen": "1",
-      "Verloren": "1",
-      "PunkteGewonnen": "2500",
-      "PunkteVerloren": "3000",
-      "HoechsterSieg": "2500",
-      "HoechsteNiederlage": "3000"
-    },
-    {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
       "Gesamt": "1",
@@ -105,6 +105,17 @@
       "PunkteGewonnen": "50000",
       "PunkteVerloren": "0",
       "HoechsterSieg": "50000",
+      "HoechsteNiederlage": "0"
+    },
+    {
+      "UserName": "rina_deepy",
+      "UserLogin": "rina_deepy",
+      "Gesamt": "1",
+      "Gewonnen": "1",
+      "Verloren": "0",
+      "PunkteGewonnen": "3333",
+      "PunkteVerloren": "0",
+      "HoechsterSieg": "3333",
       "HoechsteNiederlage": "0"
     },
     {
