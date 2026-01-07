@@ -82,13 +82,17 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
                         <th class="rank-col">Rang</th>
                         <th class="user-col">Benutzer</th>
                         {leaderboard.config.columns.map((column) => (
-                          <th class="value-col sortable" data-sort-key={column.key} data-section={leaderboard.id}>
-                            {column.label}
-                            <svg class="sort-icon" width="12" height="12" viewBox="0 0 12 12" fill="currentColor">
-                              <path d="M6 3l3 3H3zM6 9l3-3H3z" opacity="0.3"/>
-                            </svg>
-                          </th>
-                        ))}
+  <th 
+    class={`value-col sortable ${leaderboard.config.defaultSortColumn === column.key ? 'active desc' : ''}`} 
+    data-sort-key={column.key} 
+    data-section={leaderboard.id}
+  >
+    {column.label}
+    <svg class="sort-icon" width="12" height="12" viewBox="0 0 12 12" fill="currentColor">
+      <path d="M6 3l3 3H3zM6 9l3-3H3z" opacity="0.3"/>
+    </svg>
+  </th>
+))}
                       </tr>
                     </thead>
                     <tbody data-tbody={leaderboard.id}>
