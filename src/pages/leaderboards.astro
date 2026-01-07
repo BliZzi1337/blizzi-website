@@ -675,6 +675,31 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
       });
 
       enqueueInitialTop10Each();
+
+leaderboards.forEach(lb => {
+  const defCol = lb.config.defaultSortColumn;
+  if (!defCol) return;
+
+  const section = document.querySelector(`[data-section-id="${lb.id}"]`);
+  const tbody = section.querySelector(`[data-tbody="${lb.id}"]`);
+  const rows = Array.from(tbody.querySelectorAll('.leaderboard-row'));
+
+  rows.sort((a, b) => {
+    const aVal = parseInt(JSON.parse(a.getAttribute('data-row-data'))[defCol]);
+    const bVal = parseInt(JSON.parse(b.getAttribute('data-row-data'))[defCol]);
+    return bVal - aVal;
+  });
+
+  rows.forEach((row, index) => {
+    tbody.appendChild(row);
+    const badge = row.querySelector('.rank-badge');
+    badge.textContent = `#${index + 1}`;
+    badge.className = 'rank-badge';
+    if (index === 0) badge.classList.add('rank-1');
+    else if (index === 1) badge.classList.add('rank-2');
+    else if (index === 2) badge.classList.add('rank-3');
+  });
+});
     </script>
   </body>
 </html>
