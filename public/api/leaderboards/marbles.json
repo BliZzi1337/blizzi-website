@@ -28,7 +28,7 @@
         "format": "number"
       }
     ],
-    "defaultSortColumn": "Gesamt"
+    "defaultSortColumn": "Points"
   },
   "data": [
     {
