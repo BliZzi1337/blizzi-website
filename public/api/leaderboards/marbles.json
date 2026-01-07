@@ -3,6 +3,11 @@
     "displayName": "MARBLES on Stream",
     "columns": [
       {
+        "key": "Points",
+        "label": "Points",
+        "format": "number"
+      },
+      {
         "key": "Gesamt",
         "label": "Gesamt",
         "format": "number"
@@ -16,16 +21,6 @@
         "key": "Eliminations",
         "label": "Eliminations",
         "format": "number"
-      },
-      {
-        "key": "Points",
-        "label": "Points",
-        "format": "number"
-      },
-      {
-        "key": "SeasonPoints",
-        "label": "Season Points",
-        "format": "number"
       }
     ],
     "defaultSortColumn": "Points"
@@ -34,308 +29,274 @@
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
+      "Points": "66",
       "Gesamt": "7",
       "Wins": "0",
-      "Eliminations": "1",
-      "Points": "66",
-      "SeasonPoints": "80"
+      "Eliminations": "1"
     },
     {
       "UserName": "SrA86",
       "UserLogin": "sra86",
+      "Points": "58",
       "Gesamt": "5",
       "Wins": "1",
-      "Eliminations": "0",
-      "Points": "58",
-      "SeasonPoints": "52"
+      "Eliminations": "0"
     },
     {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
+      "Points": "56",
       "Gesamt": "8",
       "Wins": "2",
-      "Eliminations": "3",
-      "Points": "56",
-      "SeasonPoints": "78"
+      "Eliminations": "3"
     },
     {
       "UserName": "schmidiiii_bot",
       "UserLogin": "schmidiiii_bot",
+      "Points": "55",
       "Gesamt": "8",
       "Wins": "1",
-      "Eliminations": "1",
-      "Points": "55",
-      "SeasonPoints": "50"
+      "Eliminations": "1"
     },
     {
       "UserName": "rivorium",
       "UserLogin": "rivorium",
+      "Points": "52",
       "Gesamt": "4",
       "Wins": "2",
-      "Eliminations": "0",
-      "Points": "52",
-      "SeasonPoints": "100"
+      "Eliminations": "0"
     },
     {
       "UserName": "chrabby_",
       "UserLogin": "chrabby_",
+      "Points": "46",
       "Gesamt": "5",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "46",
-      "SeasonPoints": "66"
+      "Eliminations": "0"
     },
     {
       "UserName": "Moonfeder4",
       "UserLogin": "moonfeder4",
+      "Points": "45",
       "Gesamt": "5",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "45",
-      "SeasonPoints": "38"
+      "Eliminations": "0"
     },
     {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
+      "Points": "38",
       "Gesamt": "4",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "38",
-      "SeasonPoints": "46"
+      "Eliminations": "0"
     },
     {
       "UserName": "Minathron00",
       "UserLogin": "minathron00",
+      "Points": "33",
       "Gesamt": "4",
       "Wins": "0",
-      "Eliminations": "1",
-      "Points": "33",
-      "SeasonPoints": "78"
+      "Eliminations": "1"
     },
     {
       "UserName": "spindi_86",
       "UserLogin": "spindi_86",
+      "Points": "33",
       "Gesamt": "3",
       "Wins": "1",
-      "Eliminations": "0",
-      "Points": "33",
-      "SeasonPoints": "60"
+      "Eliminations": "0"
     },
     {
       "UserName": "lucky_luki95",
       "UserLogin": "lucky_luki95",
+      "Points": "27",
       "Gesamt": "3",
       "Wins": "1",
-      "Eliminations": "0",
-      "Points": "27",
-      "SeasonPoints": "40"
+      "Eliminations": "0"
     },
     {
       "UserName": "Whatsnew0101",
       "UserLogin": "whatsnew0101",
+      "Points": "27",
       "Gesamt": "2",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "27",
-      "SeasonPoints": "58"
+      "Eliminations": "0"
     },
     {
       "UserName": "x_kinglouie_x",
       "UserLogin": "x_kinglouie_x",
+      "Points": "24",
       "Gesamt": "4",
       "Wins": "0",
-      "Eliminations": "1",
-      "Points": "24",
-      "SeasonPoints": "24"
+      "Eliminations": "1"
     },
     {
       "UserName": "Skytecc",
       "UserLogin": "skytecc",
+      "Points": "23",
       "Gesamt": "4",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "23",
-      "SeasonPoints": "0"
+      "Eliminations": "0"
     },
     {
       "UserName": "saddi_86",
       "UserLogin": "saddi_86",
+      "Points": "22",
       "Gesamt": "3",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "22",
-      "SeasonPoints": "26"
+      "Eliminations": "0"
     },
     {
       "UserName": "aryaa_qt",
       "UserLogin": "aryaa_qt",
+      "Points": "20",
       "Gesamt": "5",
       "Wins": "0",
-      "Eliminations": "1",
-      "Points": "20",
-      "SeasonPoints": "0"
+      "Eliminations": "1"
     },
     {
       "UserName": "siimmiilein",
       "UserLogin": "siimmiilein",
+      "Points": "18",
       "Gesamt": "3",
       "Wins": "0",
-      "Eliminations": "2",
-      "Points": "18",
-      "SeasonPoints": "32"
+      "Eliminations": "2"
     },
     {
       "UserName": "doedchen",
       "UserLogin": "doedchen",
+      "Points": "18",
       "Gesamt": "2",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "18",
-      "SeasonPoints": "16"
+      "Eliminations": "0"
     },
     {
       "UserName": "82Shinigami",
       "UserLogin": "82shinigami",
+      "Points": "18",
       "Gesamt": "1",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "18",
-      "SeasonPoints": "26"
+      "Eliminations": "0"
     },
     {
       "UserName": "bloodycruel",
       "UserLogin": "bloodycruel",
+      "Points": "17",
       "Gesamt": "3",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "17",
-      "SeasonPoints": "0"
+      "Eliminations": "0"
     },
     {
       "UserName": "kensg0908",
       "UserLogin": "kensg0908",
+      "Points": "15",
       "Gesamt": "2",
       "Wins": "0",
-      "Eliminations": "1",
-      "Points": "15",
-      "SeasonPoints": "20"
+      "Eliminations": "1"
     },
     {
       "UserName": "calyypsoolein",
       "UserLogin": "calyypsoolein",
+      "Points": "15",
       "Gesamt": "2",
       "Wins": "0",
-      "Eliminations": "1",
-      "Points": "15",
-      "SeasonPoints": "38"
+      "Eliminations": "1"
     },
     {
       "UserName": "Xtreme391",
       "UserLogin": "xtreme391",
+      "Points": "13",
       "Gesamt": "2",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "13",
-      "SeasonPoints": "30"
+      "Eliminations": "0"
     },
     {
       "UserName": "Shendrasil",
       "UserLogin": "shendrasil",
+      "Points": "10",
       "Gesamt": "1",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "10",
-      "SeasonPoints": "0"
+      "Eliminations": "0"
     },
     {
       "UserName": "Baine_Bluthuf",
       "UserLogin": "baine_bluthuf",
+      "Points": "10",
       "Gesamt": "1",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "10",
-      "SeasonPoints": "0"
+      "Eliminations": "0"
     },
     {
       "UserName": "phil_aka_albi",
       "UserLogin": "phil_aka_albi",
+      "Points": "10",
       "Gesamt": "1",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "10",
-      "SeasonPoints": "0"
+      "Eliminations": "0"
     },
     {
       "UserName": "Daniel__1976",
       "UserLogin": "daniel__1976",
+      "Points": "8",
       "Gesamt": "1",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "8",
-      "SeasonPoints": "0"
+      "Eliminations": "0"
     },
     {
       "UserName": "GrinchiSC",
       "UserLogin": "grinchisc",
+      "Points": "6",
       "Gesamt": "3",
       "Wins": "0",
-      "Eliminations": "2",
-      "Points": "6",
-      "SeasonPoints": "0"
+      "Eliminations": "2"
     },
     {
       "UserName": "zelarn",
       "UserLogin": "zelarn",
+      "Points": "2",
       "Gesamt": "1",
       "Wins": "0",
-      "Eliminations": "0",
-      "Points": "2",
-      "SeasonPoints": "0"
+      "Eliminations": "0"
     },
     {
       "UserName": "J3loodyFe4r",
       "UserLogin": "j3loodyfe4r",
+      "Points": "0",
       "Gesamt": "3",
       "Wins": "0",
-      "Eliminations": "2",
-      "Points": "0",
-      "SeasonPoints": "0"
+      "Eliminations": "2"
     },
     {
       "UserName": "rina_deepy",
       "UserLogin": "rina_deepy",
+      "Points": "0",
       "Gesamt": "2",
       "Wins": "0",
-      "Eliminations": "2",
-      "Points": "0",
-      "SeasonPoints": "0"
+      "Eliminations": "2"
     },
     {
       "UserName": "crazy__minds",
       "UserLogin": "crazy__minds",
+      "Points": "0",
       "Gesamt": "1",
       "Wins": "0",
-      "Eliminations": "1",
-      "Points": "0",
-      "SeasonPoints": "0"
+      "Eliminations": "1"
     },
     {
       "UserName": "Fronter94",
       "UserLogin": "fronter94",
+      "Points": "0",
       "Gesamt": "1",
       "Wins": "0",
-      "Eliminations": "1",
-      "Points": "0",
-      "SeasonPoints": "0"
+      "Eliminations": "1"
     },
     {
       "UserName": "anti_engel",
       "UserLogin": "anti_engel",
+      "Points": "0",
       "Gesamt": "1",
       "Wins": "0",
-      "Eliminations": "1",
-      "Points": "0",
-      "SeasonPoints": "0"
+      "Eliminations": "1"
     }
   ]
 }
