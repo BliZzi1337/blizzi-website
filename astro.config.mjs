@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://blizzi1337.github.io',
-  base: '/blizzi-website',
+  site: 'https://twitch.blizzi1337.de',
+  base: '/',
 });
