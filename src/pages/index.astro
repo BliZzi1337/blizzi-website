@@ -107,12 +107,24 @@ const randomBg =
         <section class="stream-section">
           <div class="stream-wrapper">
             <iframe
-              src={`https://player.twitch.tv/?channel=${twitchUsername}&parent=twitch.blizzi1337.de&parent=blizzi1337.github.io`}
-              allowfullscreen
-              allow="autoplay; encrypted-media; fullscreen; picture-in-picture"
-              class="twitch-player"
-            >
-            </iframe>
+  data-channel={twitchUsername}
+  allowfullscreen
+  allow="autoplay; encrypted-media; fullscreen; picture-in-picture"
+  class="twitch-player"
+></iframe>
+
+<script>
+  const iframe = document.querySelector(".twitch-player");
+  const channel = iframe?.dataset?.channel;
+  const host = window.location.hostname;
+
+  const params = new URLSearchParams();
+  params.set("channel", channel);
+  params.append("parent", host);
+
+  iframe.src = `https://player.twitch.tv/?${params.toString()}`;
+</script>
+
           </div>
         </section>
 
