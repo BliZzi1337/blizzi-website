@@ -16,6 +16,26 @@
         "key": "Verloren",
         "label": "Verloren",
         "format": "number"
+      },
+      {
+        "key": "PunkteGewonnen",
+        "label": "Punkte Gewonnen",
+        "format": "number"
+      },
+      {
+        "key": "PunkteVerloren",
+        "label": "Punkte Verloren",
+        "format": "number"
+      },
+      {
+        "key": "HoechsterSieg",
+        "label": "Höchster Sieg",
+        "format": "number"
+      },
+      {
+        "key": "HoechsteNiederlage",
+        "label": "Höchste Niederlage",
+        "format": "number"
       }
     ],
     "defaultSortColumn": "Gesamt"
@@ -26,21 +46,33 @@
       "UserLogin": "xph1lo",
       "Gesamt": "2",
       "Gewonnen": "0",
-      "Verloren": "2"
+      "Verloren": "2",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "50000",
+      "HoechsterSieg": "0",
+      "HoechsteNiederlage": "41500"
     },
     {
       "UserName": "spindi_86",
       "UserLogin": "spindi_86",
       "Gesamt": "2",
       "Gewonnen": "1",
-      "Verloren": "1"
+      "Verloren": "1",
+      "PunkteGewonnen": "30000",
+      "PunkteVerloren": "20000",
+      "HoechsterSieg": "30000",
+      "HoechsteNiederlage": "20000"
     },
     {
       "UserName": "x_kinglouie_x",
       "UserLogin": "x_kinglouie_x",
       "Gesamt": "1",
       "Gewonnen": "1",
-      "Verloren": "0"
+      "Verloren": "0",
+      "PunkteGewonnen": "50000",
+      "PunkteVerloren": "0",
+      "HoechsterSieg": "50000",
+      "HoechsteNiederlage": "0"
     }
   ]
 }
