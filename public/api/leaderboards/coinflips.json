@@ -44,12 +44,12 @@
     {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
-      "Gesamt": "2",
-      "Gewonnen": "0",
+      "Gesamt": "3",
+      "Gewonnen": "1",
       "Verloren": "2",
-      "PunkteGewonnen": "0",
+      "PunkteGewonnen": "25000",
       "PunkteVerloren": "50000",
-      "HoechsterSieg": "0",
+      "HoechsterSieg": "25000",
       "HoechsteNiederlage": "41500"
     },
     {
@@ -72,6 +72,39 @@
       "PunkteGewonnen": "50000",
       "PunkteVerloren": "0",
       "HoechsterSieg": "50000",
+      "HoechsteNiederlage": "0"
+    },
+    {
+      "UserName": "Jenny_Eleyna",
+      "UserLogin": "jenny_eleyna",
+      "Gesamt": "1",
+      "Gewonnen": "0",
+      "Verloren": "1",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "25000",
+      "HoechsterSieg": "0",
+      "HoechsteNiederlage": "25000"
+    },
+    {
+      "UserName": "J3loodyFe4r",
+      "UserLogin": "j3loodyfe4r",
+      "Gesamt": "1",
+      "Gewonnen": "1",
+      "Verloren": "0",
+      "PunkteGewonnen": "25000",
+      "PunkteVerloren": "0",
+      "HoechsterSieg": "25000",
+      "HoechsteNiederlage": "0"
+    },
+    {
+      "UserName": "SrH_x",
+      "UserLogin": "srh_x",
+      "Gesamt": "1",
+      "Gewonnen": "1",
+      "Verloren": "0",
+      "PunkteGewonnen": "25000",
+      "PunkteVerloren": "0",
+      "HoechsterSieg": "25000",
       "HoechsteNiederlage": "0"
     }
   ]
