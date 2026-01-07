@@ -20,20 +20,5 @@
     ],
     "defaultSortColumn": "Gesamt"
   },
-  "data": [
-    {
-      "UserName": "イビテスト",
-      "UserLogin": "tawmae_test",
-      "Gesamt": "2",
-      "Gewonnen": "1",
-      "Verloren": "1"
-    },
-    {
-      "UserName": "tawmae",
-      "UserLogin": "tawmae",
-      "Gesamt": "2",
-      "Gewonnen": "1",
-      "Verloren": "1"
-    }
-  ]
+  "data": []
 }
