@@ -32,6 +32,24 @@
   },
   "data": [
     {
+      "UserName": "Jenny_Eleyna",
+      "UserLogin": "jenny_eleyna",
+      "Gesamt": "7",
+      "Wins": "0",
+      "Eliminations": "1",
+      "Points": "66",
+      "SeasonPoints": "80"
+    },
+    {
+      "UserName": "SrA86",
+      "UserLogin": "sra86",
+      "Gesamt": "5",
+      "Wins": "1",
+      "Eliminations": "0",
+      "Points": "58",
+      "SeasonPoints": "52"
+    },
+    {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
       "Gesamt": "8",
@@ -50,22 +68,13 @@
       "SeasonPoints": "50"
     },
     {
-      "UserName": "Jenny_Eleyna",
-      "UserLogin": "jenny_eleyna",
-      "Gesamt": "7",
-      "Wins": "0",
-      "Eliminations": "1",
-      "Points": "66",
-      "SeasonPoints": "80"
-    },
-    {
-      "UserName": "SrA86",
-      "UserLogin": "sra86",
-      "Gesamt": "5",
-      "Wins": "1",
+      "UserName": "rivorium",
+      "UserLogin": "rivorium",
+      "Gesamt": "4",
+      "Wins": "2",
       "Eliminations": "0",
-      "Points": "58",
-      "SeasonPoints": "52"
+      "Points": "52",
+      "SeasonPoints": "100"
     },
     {
       "UserName": "chrabby_",
@@ -86,24 +95,6 @@
       "SeasonPoints": "38"
     },
     {
-      "UserName": "aryaa_qt",
-      "UserLogin": "aryaa_qt",
-      "Gesamt": "5",
-      "Wins": "0",
-      "Eliminations": "1",
-      "Points": "20",
-      "SeasonPoints": "0"
-    },
-    {
-      "UserName": "rivorium",
-      "UserLogin": "rivorium",
-      "Gesamt": "4",
-      "Wins": "2",
-      "Eliminations": "0",
-      "Points": "52",
-      "SeasonPoints": "100"
-    },
-    {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
       "Gesamt": "4",
@@ -120,24 +111,6 @@
       "Eliminations": "1",
       "Points": "33",
       "SeasonPoints": "78"
-    },
-    {
-      "UserName": "x_kinglouie_x",
-      "UserLogin": "x_kinglouie_x",
-      "Gesamt": "4",
-      "Wins": "0",
-      "Eliminations": "1",
-      "Points": "24",
-      "SeasonPoints": "24"
-    },
-    {
-      "UserName": "Skytecc",
-      "UserLogin": "skytecc",
-      "Gesamt": "4",
-      "Wins": "0",
-      "Eliminations": "0",
-      "Points": "23",
-      "SeasonPoints": "0"
     },
     {
       "UserName": "spindi_86",
@@ -158,6 +131,33 @@
       "SeasonPoints": "40"
     },
     {
+      "UserName": "Whatsnew0101",
+      "UserLogin": "whatsnew0101",
+      "Gesamt": "2",
+      "Wins": "0",
+      "Eliminations": "0",
+      "Points": "27",
+      "SeasonPoints": "58"
+    },
+    {
+      "UserName": "x_kinglouie_x",
+      "UserLogin": "x_kinglouie_x",
+      "Gesamt": "4",
+      "Wins": "0",
+      "Eliminations": "1",
+      "Points": "24",
+      "SeasonPoints": "24"
+    },
+    {
+      "UserName": "Skytecc",
+      "UserLogin": "skytecc",
+      "Gesamt": "4",
+      "Wins": "0",
+      "Eliminations": "0",
+      "Points": "23",
+      "SeasonPoints": "0"
+    },
+    {
       "UserName": "saddi_86",
       "UserLogin": "saddi_86",
       "Gesamt": "3",
@@ -165,6 +165,15 @@
       "Eliminations": "0",
       "Points": "22",
       "SeasonPoints": "26"
+    },
+    {
+      "UserName": "aryaa_qt",
+      "UserLogin": "aryaa_qt",
+      "Gesamt": "5",
+      "Wins": "0",
+      "Eliminations": "1",
+      "Points": "20",
+      "SeasonPoints": "0"
     },
     {
       "UserName": "siimmiilein",
@@ -176,42 +185,6 @@
       "SeasonPoints": "32"
     },
     {
-      "UserName": "bloodycruel",
-      "UserLogin": "bloodycruel",
-      "Gesamt": "3",
-      "Wins": "0",
-      "Eliminations": "0",
-      "Points": "17",
-      "SeasonPoints": "0"
-    },
-    {
-      "UserName": "GrinchiSC",
-      "UserLogin": "grinchisc",
-      "Gesamt": "3",
-      "Wins": "0",
-      "Eliminations": "2",
-      "Points": "6",
-      "SeasonPoints": "0"
-    },
-    {
-      "UserName": "J3loodyFe4r",
-      "UserLogin": "j3loodyfe4r",
-      "Gesamt": "3",
-      "Wins": "0",
-      "Eliminations": "2",
-      "Points": "0",
-      "SeasonPoints": "0"
-    },
-    {
-      "UserName": "Whatsnew0101",
-      "UserLogin": "whatsnew0101",
-      "Gesamt": "2",
-      "Wins": "0",
-      "Eliminations": "0",
-      "Points": "27",
-      "SeasonPoints": "58"
-    },
-    {
       "UserName": "doedchen",
       "UserLogin": "doedchen",
       "Gesamt": "2",
@@ -219,6 +192,24 @@
       "Eliminations": "0",
       "Points": "18",
       "SeasonPoints": "16"
+    },
+    {
+      "UserName": "82Shinigami",
+      "UserLogin": "82shinigami",
+      "Gesamt": "1",
+      "Wins": "0",
+      "Eliminations": "0",
+      "Points": "18",
+      "SeasonPoints": "26"
+    },
+    {
+      "UserName": "bloodycruel",
+      "UserLogin": "bloodycruel",
+      "Gesamt": "3",
+      "Wins": "0",
+      "Eliminations": "0",
+      "Points": "17",
+      "SeasonPoints": "0"
     },
     {
       "UserName": "kensg0908",
@@ -246,24 +237,6 @@
       "Eliminations": "0",
       "Points": "13",
       "SeasonPoints": "30"
-    },
-    {
-      "UserName": "rina_deepy",
-      "UserLogin": "rina_deepy",
-      "Gesamt": "2",
-      "Wins": "0",
-      "Eliminations": "2",
-      "Points": "0",
-      "SeasonPoints": "0"
-    },
-    {
-      "UserName": "82Shinigami",
-      "UserLogin": "82shinigami",
-      "Gesamt": "1",
-      "Wins": "0",
-      "Eliminations": "0",
-      "Points": "18",
-      "SeasonPoints": "26"
     },
     {
       "UserName": "Shendrasil",
@@ -302,12 +275,39 @@
       "SeasonPoints": "0"
     },
     {
+      "UserName": "GrinchiSC",
+      "UserLogin": "grinchisc",
+      "Gesamt": "3",
+      "Wins": "0",
+      "Eliminations": "2",
+      "Points": "6",
+      "SeasonPoints": "0"
+    },
+    {
       "UserName": "zelarn",
       "UserLogin": "zelarn",
       "Gesamt": "1",
       "Wins": "0",
       "Eliminations": "0",
       "Points": "2",
+      "SeasonPoints": "0"
+    },
+    {
+      "UserName": "J3loodyFe4r",
+      "UserLogin": "j3loodyfe4r",
+      "Gesamt": "3",
+      "Wins": "0",
+      "Eliminations": "2",
+      "Points": "0",
+      "SeasonPoints": "0"
+    },
+    {
+      "UserName": "rina_deepy",
+      "UserLogin": "rina_deepy",
+      "Gesamt": "2",
+      "Wins": "0",
+      "Eliminations": "2",
+      "Points": "0",
       "SeasonPoints": "0"
     },
     {
