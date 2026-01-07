@@ -42,6 +42,17 @@
   },
   "data": [
     {
+      "UserName": "GrinchiSC",
+      "UserLogin": "grinchisc",
+      "Gesamt": "4",
+      "Gewonnen": "2",
+      "Verloren": "2",
+      "PunkteGewonnen": "20000",
+      "PunkteVerloren": "30000",
+      "HoechsterSieg": "15000",
+      "HoechsteNiederlage": "15000"
+    },
+    {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
       "Gesamt": "3",
@@ -88,6 +99,17 @@
     {
       "UserName": "J3loodyFe4r",
       "UserLogin": "j3loodyfe4r",
+      "Gesamt": "1",
+      "Gewonnen": "1",
+      "Verloren": "0",
+      "PunkteGewonnen": "25000",
+      "PunkteVerloren": "0",
+      "HoechsterSieg": "25000",
+      "HoechsteNiederlage": "0"
+    },
+    {
+      "UserName": "SrA86",
+      "UserLogin": "sra86",
       "Gesamt": "1",
       "Gewonnen": "1",
       "Verloren": "0",
