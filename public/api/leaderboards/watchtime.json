@@ -38,7 +38,7 @@
       "Wochen": 6,
       "Tage": 46,
       "Stunden": 1121,
-      "WatchtimeSek": 4038060
+      "WatchtimeSek": 4038360
     },
     {
       "UserName": "SrA86",
@@ -47,7 +47,7 @@
       "Wochen": 5,
       "Tage": 36,
       "Stunden": 876,
-      "WatchtimeSek": 3156660
+      "WatchtimeSek": 3156960
     },
     {
       "UserName": "Jenny_Eleyna",
@@ -56,7 +56,7 @@
       "Wochen": 5,
       "Tage": 35,
       "Stunden": 841,
-      "WatchtimeSek": 3028020
+      "WatchtimeSek": 3028320
     },
     {
       "UserName": "ToxicMonsti",
@@ -101,7 +101,7 @@
       "Wochen": 1,
       "Tage": 11,
       "Stunden": 265,
-      "WatchtimeSek": 956640
+      "WatchtimeSek": 956940
     },
     {
       "UserName": "J3loodyFe4r",
@@ -110,7 +110,7 @@
       "Wochen": 1,
       "Tage": 10,
       "Stunden": 249,
-      "WatchtimeSek": 899040
+      "WatchtimeSek": 899340
     },
     {
       "UserName": "xph1lo",
@@ -119,7 +119,7 @@
       "Wochen": 1,
       "Tage": 7,
       "Stunden": 184,
-      "WatchtimeSek": 663180
+      "WatchtimeSek": 663480
     },
     {
       "UserName": "GrinchiSC",
@@ -128,7 +128,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 159,
-      "WatchtimeSek": 574980
+      "WatchtimeSek": 575280
     },
     {
       "UserName": "Talarock",
@@ -146,7 +146,7 @@
       "Wochen": 0,
       "Tage": 5,
       "Stunden": 140,
-      "WatchtimeSek": 504600
+      "WatchtimeSek": 504900
     },
     {
       "UserName": "Skytecc",
@@ -164,7 +164,7 @@
       "Wochen": 0,
       "Tage": 3,
       "Stunden": 72,
-      "WatchtimeSek": 259800
+      "WatchtimeSek": 260100
     },
     {
       "UserName": "saddi_86",
@@ -173,7 +173,7 @@
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 63,
-      "WatchtimeSek": 228900
+      "WatchtimeSek": 229200
     },
     {
       "UserName": "Minathron00",
@@ -182,7 +182,7 @@
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 51,
-      "WatchtimeSek": 184800
+      "WatchtimeSek": 185100
     },
     {
       "UserName": "chrabby_",
@@ -200,7 +200,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 44,
-      "WatchtimeSek": 159000
+      "WatchtimeSek": 159300
     },
     {
       "UserName": "only_TK",
@@ -245,7 +245,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 36,
-      "WatchtimeSek": 130200
+      "WatchtimeSek": 130500
     },
     {
       "UserName": "CallMeAdrk",
@@ -281,7 +281,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 31,
-      "WatchtimeSek": 114300
+      "WatchtimeSek": 114600
     },
     {
       "UserName": "Ahriman1234",
@@ -290,7 +290,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 31,
-      "WatchtimeSek": 113100
+      "WatchtimeSek": 113400
     },
     {
       "UserName": "eluutz",
@@ -299,7 +299,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 30,
-      "WatchtimeSek": 110700
+      "WatchtimeSek": 111000
     },
     {
       "UserName": "82Shinigami",
@@ -344,7 +344,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 27,
-      "WatchtimeSek": 97500
+      "WatchtimeSek": 97800
     },
     {
       "UserName": "kensg0908",
@@ -497,7 +497,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 10,
-      "WatchtimeSek": 37800
+      "WatchtimeSek": 38100
     },
     {
       "UserName": "Alessandro7994",
@@ -632,7 +632,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 6,
-      "WatchtimeSek": 23700
+      "WatchtimeSek": 24000
     },
     {
       "UserName": "OWN3D",
@@ -1472,6 +1472,15 @@
       "WatchtimeSek": 4500
     },
     {
+      "UserName": "Kapeykii",
+      "UserLogin": "kapeykii",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 1,
+      "WatchtimeSek": 4200
+    },
+    {
       "UserName": "twocrownz",
       "UserLogin": "twocrownz",
       "Monate": 0,
@@ -1492,15 +1501,6 @@
     {
       "UserName": "terrorwolf37",
       "UserLogin": "terrorwolf37",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 1,
-      "WatchtimeSek": 3900
-    },
-    {
-      "UserName": "Kapeykii",
-      "UserLogin": "kapeykii",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
