@@ -616,30 +616,6 @@ const randomBg =
       }
     </style>
 
-    <script>
-
-      if (typeof window !== "undefined") {
-        const iframe = document.querySelector(".twitch-player");
-        if (iframe) {
-          const hostname = window.location.hostname || "localhost";
-          const currentSrc = iframe.getAttribute("src");
-
-          if (currentSrc) {
-            let parentParams = `parent=${hostname}`;
-
-            if (hostname !== PRODUCTION_DOMAIN && hostname !== "localhost") {
-              parentParams += `&parent=${PRODUCTION_DOMAIN}`;
-            }
-
-            if (hostname !== "localhost") {
-              parentParams += `&parent=localhost`;
-            }
-
-            const newSrc = currentSrc.replace(/parent=[^&]*/, parentParams);
-            iframe.setAttribute("src", newSrc);
-          }
-        }
-      }
-    </script>
+  
   </body>
 </html>
