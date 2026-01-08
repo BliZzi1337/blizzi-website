@@ -1,44 +1,85 @@
 [
   {
-    "name": "!discord",
-    "aliases": ["!dc", "!community"],
-    "permission": "Everyone",
-    "cooldown": "5m (Global)",
-    "description": "Zeigt den Link zu unserem Community Discord Server an."
+    "category": "Allgemein",
+    "items": [
+      {
+        "name": "!discord",
+        "aliases": ["!dc", "!community"],
+        "permission": "Everyone",
+        "cooldown": "5m (Global)",
+        "description": "Zeigt den Link zu unserem Community Discord Server an."
+      },
+      {
+        "name": "!lurk",
+        "aliases": [],
+        "permission": "Everyone",
+        "cooldown": "Kein Cooldown",
+        "description": "Lass mich wissen, dass du da bist, aber gerade nicht aktiv chatten kannst."
+      },
+      {
+        "name": "!socials",
+        "aliases": ["!links"],
+        "permission": "Everyone",
+        "cooldown": "2m (Global)",
+        "description": "Listet alle meine Social Media Accounts auf."
+      }
+    ]
   },
   {
-    "name": "!lurk",
-    "aliases": [],
-    "permission": "Everyone",
-    "cooldown": "Kein Cooldown",
-    "description": "Lass mich wissen, dass du da bist, aber gerade nicht aktiv chatten kannst."
+    "category": "Hardware & Setup",
+    "items": [
+      {
+        "name": "!setup",
+        "aliases": ["!specs", "!pc"],
+        "permission": "Everyone",
+        "cooldown": "30s (User)",
+        "description": "Listet meine aktuelle Hardware und Peripherie auf."
+      },
+      {
+        "name": "!maus",
+        "aliases": ["!mouse", "!dpi"],
+        "permission": "Everyone",
+        "cooldown": "30s (User)",
+        "description": "Zeigt meine Maus-Settings und DPI an."
+      }
+    ]
   },
   {
-    "name": "!setup",
-    "aliases": ["!specs", "!pc"],
-    "permission": "Everyone",
-    "cooldown": "30s (User)",
-    "description": "Listet meine aktuelle Hardware und Peripherie auf."
+    "category": "Fun & Sounds",
+    "items": [
+      {
+        "name": "!gigachad",
+        "aliases": [],
+        "permission": "Everyone",
+        "cooldown": "1m (Global)",
+        "description": "Spielt den GigaChad Sound im Stream ab."
+      },
+      {
+        "name": "!vip",
+        "aliases": [],
+        "permission": "VIP",
+        "cooldown": "1h (User)",
+        "description": "Ein spezieller Sound-Alert nur für VIPs."
+      }
+    ]
   },
   {
-    "name": "!so",
-    "aliases": ["!shoutout"],
-    "permission": "Mod",
-    "cooldown": "None",
-    "description": "Gibt einem anderen Streamer einen Shoutout im Chat."
-  },
-  {
-    "name": "!vip",
-    "aliases": [],
-    "permission": "VIP",
-    "cooldown": "1h (User)",
-    "description": "Ein spezieller Sound-Alert nur für VIPs."
-  },
-  {
-    "name": "!sub",
-    "aliases": ["!prime"],
-    "permission": "Everyone",
-    "cooldown": "5m (Global)",
-    "description": "Erklärt die Vorteile eines Abos und wie man Prime Gaming nutzt."
+    "category": "Moderation",
+    "items": [
+      {
+        "name": "!so",
+        "aliases": ["!shoutout"],
+        "permission": "Mod",
+        "cooldown": "None",
+        "description": "Gibt einem anderen Streamer einen Shoutout im Chat."
+      },
+      {
+        "name": "!title",
+        "aliases": [],
+        "permission": "Mod",
+        "cooldown": "None",
+        "description": "Ändert den Streamtitel."
+      }
+    ]
   }
 ]
