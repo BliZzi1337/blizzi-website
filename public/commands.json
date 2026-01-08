@@ -9,6 +9,14 @@
         "inputRequired": false,
         "cooldown": "-",
         "description": "Postet den Link zum Discord in den Chat"
+      },
+      {
+        "name": "!com",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "-",
+        "description": "Postet den Link zu unserer Ingame Community in den Chat"
       }
     ]
   },
