@@ -5,21 +5,21 @@
       {
         "name": "!discord",
         "aliases": ["!dc", "!community"],
-        "permission": "Everyone",
+        "permission": "Alle",
         "cooldown": "5m (Global)",
         "description": "Zeigt den Link zu unserem Community Discord Server an."
       },
       {
         "name": "!lurk",
         "aliases": [],
-        "permission": "Everyone",
+        "permission": "Alle",
         "cooldown": "Kein Cooldown",
         "description": "Lass mich wissen, dass du da bist, aber gerade nicht aktiv chatten kannst."
       },
       {
         "name": "!socials",
         "aliases": ["!links"],
-        "permission": "Everyone",
+        "permission": "Alle",
         "cooldown": "2m (Global)",
         "description": "Listet alle meine Social Media Accounts auf."
       }
@@ -31,14 +31,14 @@
       {
         "name": "!setup",
         "aliases": ["!specs", "!pc"],
-        "permission": "Everyone",
+        "permission": "Alle",
         "cooldown": "30s (User)",
         "description": "Listet meine aktuelle Hardware und Peripherie auf."
       },
       {
         "name": "!maus",
         "aliases": ["!mouse", "!dpi"],
-        "permission": "Everyone",
+        "permission": "Alle",
         "cooldown": "30s (User)",
         "description": "Zeigt meine Maus-Settings und DPI an."
       }
@@ -50,7 +50,7 @@
       {
         "name": "!gigachad",
         "aliases": [],
-        "permission": "Everyone",
+        "permission": "Alle",
         "cooldown": "1m (Global)",
         "description": "Spielt den GigaChad Sound im Stream ab."
       },
