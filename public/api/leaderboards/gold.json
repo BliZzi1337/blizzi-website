@@ -12,11 +12,6 @@
   },
   "data": [
     {
-      "UserName": "BliZzi1337",
-      "UserLogin": "blizzi1337",
-      "Gold": "2000000"
-    },
-    {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
       "Gold": "1166001"
@@ -259,6 +254,11 @@
     {
       "UserName": "botzi1337",
       "UserLogin": "botzi1337",
+      "Gold": "0"
+    },
+    {
+      "UserName": "BliZzi1337",
+      "UserLogin": "blizzi1337",
       "Gold": "0"
     },
     {
