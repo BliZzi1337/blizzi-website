@@ -68,10 +68,10 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
                 <table class="commands-table">
                   <thead>
                     <tr>
-                      <th class="col-command">Befehl</th>
-                      <th class="col-permission">Rechte</th>
-                      <th class="col-cooldown">Cooldown</th>
+                      <th class="col-command">Command</th>
                       <th class="col-desc">Beschreibung</th>
+                      <th class="col-cooldown">Cooldown</th>
+                      <th class="col-permission">Permissions</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -90,16 +90,16 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
                             </div>
                           )}
                         </td>
-                        <td class="cell-permission">
-                          <span class={`perm-badge perm-${cmd.permission.toLowerCase()}`}>
-                            {cmd.permission}
-                          </span>
+                        <td class="cell-desc">
+                          {cmd.description}
                         </td>
                         <td class="cell-cooldown">
                           <span class="cooldown-text">{cmd.cooldown}</span>
                         </td>
-                        <td class="cell-desc">
-                          {cmd.description}
+                        <td class="cell-permission">
+                          <span class={`perm-badge perm-${cmd.permission.toLowerCase()}`}>
+                            {cmd.permission}
+                          </span>
                         </td>
                       </tr>
                     ))}
@@ -127,10 +127,10 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
         --twitch-purple: #9146ff;
         --font-primary: "Rubik", sans-serif;
         
-        --perm-everyone: #2ecc71;
-        --perm-vip: #e056fd;
-        --perm-sub: #f1c40f;
-        --perm-mod: #e74c3c;
+        --perm-alle: #50bceb;
+        --perm-vip: #fb17cd;
+        --perm-sub: #f0a337;
+        --perm-mod: #3ab115;
       }
 
       body {
@@ -317,9 +317,9 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
       }
 
       .col-command { width: 25%; }
-      .col-permission { width: 15%; }
-      .col-cooldown { width: 15%; }
       .col-desc { width: 45%; }
+      .col-cooldown { width: 15%; }
+      .col-permission { width: 15%; }
 
       .command-name {
         font-weight: 700;
@@ -345,10 +345,10 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
         color: #000;
       }
 
-      .perm-everyone { background-color: var(--perm-everyone); }
+      .perm-alle { background-color: var(--perm-alle); }
       .perm-vip { background-color: var(--perm-vip); }
       .perm-sub { background-color: var(--perm-sub); }
-      .perm-mod { background-color: var(--perm-mod); color: white; }
+      .perm-mod { background-color: var(--perm-mod); color: #000; }
 
       .cooldown-text {
         font-size: 0.9rem;
@@ -390,9 +390,9 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
           text-align: left;
         }
 
-        .col-command, .col-permission, .col-cooldown, .col-desc { width: 100%; }
+        .col-command, .col-desc, .col-cooldown, .col-permission { width: 100%; }
         
-        .cell-permission { margin-bottom: 0.5rem; }
+        .cell-permission { order: 4; }
         .cell-command { margin-bottom: 0.5rem; }
       }
     </style>
