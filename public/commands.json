@@ -4,9 +4,7 @@
     "items": [
       {
         "name": "!discord",
-        "aliases": [
-          "!dc"
-        ],
+        "aliases": ["!dc"],
         "permission": "Alle",
         "inputRequired": false,
         "cooldown": "-",
@@ -19,9 +17,7 @@
     "items": [
       {
         "name": "!shoutout <Username>",
-        "aliases": [
-          "!so"
-        ],
+        "aliases": ["!so"],
         "permission": "Mod",
         "inputRequired": true,
         "cooldown": "-",
@@ -34,10 +30,7 @@
     "items": [
       {
         "name": "!coinflip <Goldwert>",
-        "aliases": [
-          "!gamble",
-          "!cf"
-        ],
+        "aliases": ["!gamble", "!cf"],
         "permission": "Sub",
         "inputRequired": true,
         "cooldown": "5 Minuten",
@@ -62,7 +55,148 @@
         "permission": "Alle",
         "inputRequired": true,
         "cooldown": "60 sec",
-        "description": "Zeigt ein Gif im Stream.\nZum Beispiel \"!gif cat\""
+        "description": "Zeigt ein Gif im Stream. Beispiel: \"!gif cat\""
+      }
+    ]
+  },
+  {
+    "category": "Song Request",
+    "items": [
+      {
+        "name": "!sr <Song / Link>",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": true,
+        "cooldown": "30 sec",
+        "description": "Fügt einen Song zur Warteschlange hinzu"
+      },
+      {
+        "name": "!songLink",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "-",
+        "description": "Zeigt den Link zum aktuell laufenden Song"
+      },
+      {
+        "name": "!song",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "-",
+        "description": "Zeigt den aktuell laufenden Song an"
+      },
+      {
+        "name": "!myQueue",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "10 sec",
+        "description": "Zeigt deine eigenen Songs in der Queue"
+      },
+      {
+        "name": "!lastSong",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "-",
+        "description": "Zeigt den zuletzt gespielten Song"
+      },
+      {
+        "name": "!queue",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "10 sec",
+        "description": "Zeigt die aktuelle Song-Warteschlange"
+      },
+      {
+        "name": "!remove",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "30 sec",
+        "description": "Entfernt deinen zuletzt angefragten Song aus der Queue"
+      },
+      {
+        "name": "!skip",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "30 sec",
+        "description": "Überspringt den aktuellen Song. User können nur ihre eigenen Songs skippen, Mods alle Songs"
+      },
+      {
+        "name": "!voteskip",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "60 sec",
+        "description": "Startet eine Vote-Abstimmung zum Überspringen des aktuellen Songs"
+      },
+      {
+        "name": "!wrongsong",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "60 sec",
+        "description": "Entfernt deinen letzten Song, der über !sr requested wurde"
+      },
+      {
+        "name": "!playSong",
+        "aliases": [],
+        "permission": "Mod",
+        "inputRequired": false,
+        "cooldown": "-",
+        "description": "Startet die Wiedergabe des aktuellen Songs"
+      },
+      {
+        "name": "!pauseSong",
+        "aliases": [],
+        "permission": "Mod",
+        "inputRequired": false,
+        "cooldown": "-",
+        "description": "Pausiert die aktuelle Song-Wiedergabe"
+      },
+      {
+        "name": "!topArtists",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "60 sec",
+        "description": "Zeigt die meistgehörten Artists im Stream"
+      },
+      {
+        "name": "!myTopArtists",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "60 sec",
+        "description": "Zeigt deine meistgehörten Artists im Stream"
+      },
+      {
+        "name": "!topSongs",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "60 sec",
+        "description": "Zeigt die meistgespielten Songs im Stream"
+      },
+      {
+        "name": "!myTopSongs",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "60 sec",
+        "description": "Zeigt deine meistgespielten Songs im Stream"
+      },
+      {
+        "name": "!vol <Lautstärke>",
+        "aliases": [],
+        "permission": "Mod",
+        "inputRequired": true,
+        "cooldown": "-",
+        "description": "Setzt die Lautstärke des Song-Players (nur Mods)"
       }
     ]
   }
