@@ -1,0 +1,364 @@
+---
+import Header from '../components/Header.astro';
+import { readFile } from 'node:fs/promises';
+import { join } from 'node:path';
+
+let commands = [];
+try {
+  const commandsPath = join(process.cwd(), 'public', 'commands.json');
+  const fileContent = await readFile(commandsPath, 'utf-8');
+  commands = JSON.parse(fileContent);
+} catch (error) {
+  console.error("Error loading commands.json", error);
+}
+
+const backgroundImages = [1, 2, 3, 4, 5, 6, 7];
+const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.length)];
+---
+
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>BliZzi1337 - Commands</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700;900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.cdnfonts.com/css/couture" rel="stylesheet" />
+    <link href="https://fonts.cdnfonts.com/css/friz-quadrata" rel="stylesheet" />
+    <link href="https://fonts.cdnfonts.com/css/morpheus" rel="stylesheet" />
+  </head>
+  <body style={`background-image: url('/backgrounds/${randomBg}.jpg')`}>
+    <Header currentPath="/commands" />
+
+    <div class="container">
+      <main>
+        <h2 class="page-title">Chat Commands</h2>
+
+        <div class="commands-section">
+          <div class="search-container">
+            <input
+              type="text"
+              id="command-search"
+              class="search-input"
+              placeholder="Suche nach Befehl, Alias oder Beschreibung..."
+            />
+            <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"></circle>
+              <path d="m21 21-4.35-4.35"></path>
+            </svg>
+          </div>
+
+          <div class="table-wrapper">
+            <table class="commands-table">
+              <thead>
+                <tr>
+                  <th class="col-command">Befehl</th>
+                  <th class="col-permission">Rechte</th>
+                  <th class="col-cooldown">Cooldown</th>
+                  <th class="col-desc">Beschreibung</th>
+                </tr>
+              </thead>
+              <tbody id="commands-body">
+                {commands.map((cmd) => (
+                  <tr 
+                    class="command-row" 
+                    data-name={cmd.name.toLowerCase()} 
+                    data-aliases={cmd.aliases.join(' ').toLowerCase()}
+                    data-desc={cmd.description.toLowerCase()}
+                  >
+                    <td class="cell-command">
+                      <div class="command-name">{cmd.name}</div>
+                      {cmd.aliases && cmd.aliases.length > 0 && (
+                        <div class="command-aliases">
+                          {cmd.aliases.join(', ')}
+                        </div>
+                      )}
+                    </td>
+                    <td class="cell-permission">
+                      <span class={`perm-badge perm-${cmd.permission.toLowerCase()}`}>
+                        {cmd.permission}
+                      </span>
+                    </td>
+                    <td class="cell-cooldown">
+                      <span class="cooldown-text">{cmd.cooldown}</span>
+                    </td>
+                    <td class="cell-desc">
+                      {cmd.description}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+
+      :root {
+        --accent-blue: #0788ac;
+        --accent-blue-hover: #0a9ec7;
+        --text-primary: #ffffff;
+        --text-secondary: #e0e0e0;
+        --text-muted: #a0a0a0;
+        --bg-dark: #0d0d0d;
+        --bg-card: #1a1a1a;
+        --border-subtle: #2a2a2a;
+        --twitch-purple: #9146ff;
+        --font-primary: "Rubik", sans-serif;
+        
+        --perm-everyone: #2ecc71;
+        --perm-vip: #e056fd;
+        --perm-sub: #f1c40f;
+        --perm-mod: #e74c3c;
+      }
+
+      body {
+        font-family: var(--font-primary);
+        font-weight: 400;
+        background-color: var(--bg-dark);
+        background-position: center center;
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        color: var(--text-primary);
+        min-height: 100vh;
+        line-height: 1.6;
+        position: relative;
+      }
+
+      body::after {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(13, 13, 13, 0.9);
+        z-index: -1;
+        pointer-events: none;
+      }
+
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 3rem 2rem;
+      }
+
+      main { display: flex; flex-direction: column; gap: 2rem; }
+
+      .page-title {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: #ffd166;
+        font-family: 'Morpheus', serif;
+        text-align: center;
+        margin-bottom: 1rem;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+        animation: fadeInUp 0.6s ease-out backwards;
+      }
+
+      .commands-section {
+        animation: fadeInUp 0.6s ease-out backwards;
+        background: rgba(26, 26, 26, 0.85);
+        backdrop-filter: blur(10px);
+        border-radius: 8px;
+        border-bottom: 3px solid transparent;
+        border-image: linear-gradient(90deg,
+          transparent 0%,
+          rgba(205, 161, 84, 0.6) 10%,
+          rgba(205, 161, 84, 0.9) 50%,
+          rgba(205, 161, 84, 0.6) 90%,
+          transparent 100%
+        ) 1;
+        box-shadow:
+          0 2px 10px rgba(0, 0, 0, 0.5),
+          inset 0 1px 0 rgba(255, 255, 255, 0.1),
+          inset 0 -1px 0 rgba(0, 0, 0, 0.5);
+        overflow: hidden;
+      }
+
+      .search-container {
+        position: relative;
+        padding: 1.5rem;
+        border-bottom: 1px solid rgba(205, 161, 84, 0.2);
+        background: rgba(0, 0, 0, 0.2);
+      }
+
+      .search-input {
+        width: 100%;
+        padding: 0.75rem 1rem 0.75rem 2.75rem;
+        background: rgba(0, 0, 0, 0.3);
+        border: 1px solid rgba(205, 161, 84, 0.3);
+        border-radius: 6px;
+        color: var(--text-primary);
+        font-family: var(--font-primary);
+        font-size: 0.95rem;
+        transition: all 0.3s ease;
+      }
+
+      .search-input:focus {
+        outline: none;
+        border-color: rgba(205, 161, 84, 0.6);
+        background: rgba(0, 0, 0, 0.4);
+      }
+
+      .search-input::placeholder { color: #888; }
+
+      .search-icon {
+        position: absolute;
+        left: 2rem;
+        top: 50%;
+        transform: translateY(-50%);
+        color: #888;
+        pointer-events: none;
+      }
+
+      .table-wrapper { overflow-x: auto; }
+      
+      .commands-table { width: 100%; border-collapse: collapse; }
+
+      .commands-table thead {
+        background: rgba(0, 0, 0, 0.3);
+        border-bottom: 2px solid rgba(205, 161, 84, 0.3);
+      }
+
+      .commands-table th {
+        padding: 1rem 1.5rem;
+        text-align: left;
+        font-weight: 600;
+        color: #ffd166;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        white-space: nowrap;
+      }
+
+      .command-row { 
+        border-bottom: 1px solid rgba(205, 161, 84, 0.1); 
+        transition: background-color 0.2s ease;
+      }
+
+      .command-row:last-child { border-bottom: none; }
+      .command-row:hover { background: rgba(205, 161, 84, 0.05); }
+
+      .commands-table td {
+        padding: 1rem 1.5rem;
+        vertical-align: top;
+      }
+
+      .col-command { width: 20%; }
+      .col-permission { width: 15%; }
+      .col-cooldown { width: 15%; }
+      .col-desc { width: 50%; }
+
+      .command-name {
+        font-weight: 700;
+        font-size: 1.1rem;
+        color: var(--accent-blue);
+        margin-bottom: 0.25rem;
+      }
+
+      .command-aliases {
+        font-size: 0.8rem;
+        color: var(--text-muted);
+        font-style: italic;
+      }
+
+      .perm-badge {
+        display: inline-block;
+        padding: 0.25rem 0.6rem;
+        border-radius: 4px;
+        font-size: 0.75rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: #000;
+      }
+
+      .perm-everyone { background-color: var(--perm-everyone); }
+      .perm-vip { background-color: var(--perm-vip); }
+      .perm-sub { background-color: var(--perm-sub); }
+      .perm-mod { background-color: var(--perm-mod); color: white; }
+
+      .cooldown-text {
+        font-size: 0.9rem;
+        color: var(--text-secondary);
+        font-family: monospace;
+        background: rgba(0,0,0,0.3);
+        padding: 0.2rem 0.4rem;
+        border-radius: 4px;
+      }
+
+      .cell-desc {
+        color: var(--text-secondary);
+        font-size: 0.95rem;
+      }
+
+      @keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      @media (max-width: 768px) {
+        .container { padding: 2rem 1rem; }
+        .page-title { font-size: 2rem; }
+        
+        .commands-table thead { display: none; }
+        .commands-table, .commands-table tbody, .commands-table tr, .commands-table td {
+          display: block;
+          width: 100%;
+        }
+
+        .command-row {
+          padding: 1.5rem;
+          margin-bottom: 1rem;
+          background: rgba(0,0,0,0.2);
+          border: 1px solid rgba(205, 161, 84, 0.2);
+          border-radius: 8px;
+        }
+
+        .commands-table td {
+          padding: 0.5rem 0;
+          text-align: left;
+        }
+
+        .col-command, .col-permission, .col-cooldown, .col-desc { width: 100%; }
+        
+        .cell-permission { margin-bottom: 0.5rem; }
+        .cell-command { margin-bottom: 0.5rem; }
+      }
+    </style>
+
+    <script is:inline>
+      document.addEventListener('DOMContentLoaded', () => {
+        const searchInput = document.getElementById('command-search');
+        const tableBody = document.getElementById('commands-body');
+        const rows = Array.from(tableBody.querySelectorAll('.command-row'));
+
+        searchInput.addEventListener('input', (e) => {
+          const term = e.target.value.toLowerCase().trim();
+
+          rows.forEach(row => {
+            const name = row.dataset.name;
+            const aliases = row.dataset.aliases;
+            const desc = row.dataset.desc;
+
+            if (term === '' || name.includes(term) || aliases.includes(term) || desc.includes(term)) {
+              row.style.display = '';
+            } else {
+              row.style.display = 'none';
+            }
+          });
+        });
+      });
+    </script>
+  </body>
+</html>
