@@ -43,6 +43,22 @@
         "inputRequired": false,
         "cooldown": "-",
         "description": ""
+      },
+      {
+        "name": "!duell <Name des Gegners>",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": true,
+        "cooldown": "2 Minuten",
+        "description": "Fordere einen anderen User zu einem Gold-Duell heraus. Höhere Zufallszahl gewinnt"
+      },
+      {
+        "name": "!play <Murmel Zahl>",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": true,
+        "cooldown": "-",
+        "description": "Nimmt mit der gewählten Murmel an Marbles on Stream teil"
       }
     ]
   },
@@ -56,6 +72,46 @@
         "inputRequired": true,
         "cooldown": "60 sec",
         "description": "Zeigt ein Gif im Stream. Beispiel: \"!gif cat\""
+      },
+      {
+        "name": "!sendGold <Name des Empfängers> <Goldmenge>",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": true,
+        "cooldown": "30 sec",
+        "description": "Sendet Gold an einen anderen User"
+      },
+      {
+        "name": "!gold",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "10 sec",
+        "description": "Zeigt deinen aktuellen Gold-Kontostand an"
+      },
+      {
+        "name": "!goldLeaderboard",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "60 sec",
+        "description": "Zeigt das aktuelle Gold-Leaderboard"
+      },
+      {
+        "name": "!watchtime",
+        "aliases": ["!wt"],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "10 sec",
+        "description": "Zeigt deine aktuelle Watchtime an"
+      },
+      {
+        "name": "!wtLeaderboard",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "60 sec",
+        "description": "Zeigt das aktuelle Watchtime-Leaderboard"
       }
     ]
   },
