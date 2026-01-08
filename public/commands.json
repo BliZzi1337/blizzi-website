@@ -11,17 +11,6 @@
         "inputRequired": false,
         "cooldown": "-",
         "description": "Postet den Link zum Discord in den Chat"
-      },
-      {
-        "name": "!setup",
-        "aliases": [
-          "!gear",
-          "!pc"
-        ],
-        "permission": "Alle",
-        "inputRequired": false,
-        "cooldown": "-",
-        "description": "Postet mein aktuelles PC-Setup in den Chat"
       }
     ]
   },
@@ -44,15 +33,36 @@
     "category": "Spiele",
     "items": [
       {
-        "name": "!coinflip <Punktewert>",
+        "name": "!coinflip <Goldwert>",
         "aliases": [
           "!gamble",
           "!cf"
         ],
-        "permission": "Alle",
+        "permission": "Sub",
         "inputRequired": true,
         "cooldown": "5 Minuten",
         "description": "50% auf Gewinn, 100% auf Spielsucht"
+      },
+      {
+        "name": "!rubbeln",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": false,
+        "cooldown": "-",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "category": "Features",
+    "items": [
+      {
+        "name": "!gif <Name des Gif>",
+        "aliases": [],
+        "permission": "Alle",
+        "inputRequired": true,
+        "cooldown": "60 sec",
+        "description": "Zeigt ein Gif im Stream.\nZum Beispiel \"!gif cat\""
       }
     ]
   }
