@@ -91,7 +91,7 @@
       },
       {
         "name": "!gold",
-        "aliases": [],
+        "aliases": ["!bank"],
         "permission": "Alle",
         "inputRequired": false,
         "cooldown": "10 sec",
