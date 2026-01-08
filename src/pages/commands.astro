@@ -3,11 +3,11 @@ import Header from '../components/Header.astro';
 import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
-let commands = [];
+let commandGroups = [];
 try {
   const commandsPath = join(process.cwd(), 'public', 'commands.json');
   const fileContent = await readFile(commandsPath, 'utf-8');
-  commands = JSON.parse(fileContent);
+  commandGroups = JSON.parse(fileContent);
 } catch (error) {
   console.error("Error loading commands.json", error);
 }
@@ -39,7 +39,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
       <main>
         <h2 class="page-title">Chat Commands</h2>
 
-        <div class="commands-section">
+        <div class="search-section">
           <div class="search-container">
             <input
               type="text"
@@ -52,50 +52,63 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
               <path d="m21 21-4.35-4.35"></path>
             </svg>
           </div>
-
-          <div class="table-wrapper">
-            <table class="commands-table">
-              <thead>
-                <tr>
-                  <th class="col-command">Befehl</th>
-                  <th class="col-permission">Rechte</th>
-                  <th class="col-cooldown">Cooldown</th>
-                  <th class="col-desc">Beschreibung</th>
-                </tr>
-              </thead>
-              <tbody id="commands-body">
-                {commands.map((cmd) => (
-                  <tr 
-                    class="command-row" 
-                    data-name={cmd.name.toLowerCase()} 
-                    data-aliases={cmd.aliases.join(' ').toLowerCase()}
-                    data-desc={cmd.description.toLowerCase()}
-                  >
-                    <td class="cell-command">
-                      <div class="command-name">{cmd.name}</div>
-                      {cmd.aliases && cmd.aliases.length > 0 && (
-                        <div class="command-aliases">
-                          {cmd.aliases.join(', ')}
-                        </div>
-                      )}
-                    </td>
-                    <td class="cell-permission">
-                      <span class={`perm-badge perm-${cmd.permission.toLowerCase()}`}>
-                        {cmd.permission}
-                      </span>
-                    </td>
-                    <td class="cell-cooldown">
-                      <span class="cooldown-text">{cmd.cooldown}</span>
-                    </td>
-                    <td class="cell-desc">
-                      {cmd.description}
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
         </div>
+
+        {commandGroups.map((group, index) => (
+          <div class="command-group" data-group-name={group.category}>
+            <button class={`section-header ${index === 0 ? 'expanded' : ''}`}>
+              <h3 class="section-title">{group.category}</h3>
+              <svg class="section-chevron" width="24" height="24" viewBox="0 0 16 16" fill="currentColor">
+                <path d="M4.5 6l3.5 3.5L11.5 6" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+
+            <div class={`section-content ${index === 0 ? 'expanded' : 'collapsed'}`}>
+              <div class="table-wrapper">
+                <table class="commands-table">
+                  <thead>
+                    <tr>
+                      <th class="col-command">Befehl</th>
+                      <th class="col-permission">Rechte</th>
+                      <th class="col-cooldown">Cooldown</th>
+                      <th class="col-desc">Beschreibung</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {group.items.map((cmd) => (
+                      <tr 
+                        class="command-row" 
+                        data-name={cmd.name.toLowerCase()} 
+                        data-aliases={cmd.aliases.join(' ').toLowerCase()}
+                        data-desc={cmd.description.toLowerCase()}
+                      >
+                        <td class="cell-command">
+                          <div class="command-name">{cmd.name}</div>
+                          {cmd.aliases && cmd.aliases.length > 0 && (
+                            <div class="command-aliases">
+                              {cmd.aliases.join(', ')}
+                            </div>
+                          )}
+                        </td>
+                        <td class="cell-permission">
+                          <span class={`perm-badge perm-${cmd.permission.toLowerCase()}`}>
+                            {cmd.permission}
+                          </span>
+                        </td>
+                        <td class="cell-cooldown">
+                          <span class="cooldown-text">{cmd.cooldown}</span>
+                        </td>
+                        <td class="cell-desc">
+                          {cmd.description}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        ))}
       </main>
     </div>
 
@@ -160,36 +173,24 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
         color: #ffd166;
         font-family: 'Morpheus', serif;
         text-align: center;
-        margin-bottom: 1rem;
+        margin-bottom: 0.5rem;
         text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
         animation: fadeInUp 0.6s ease-out backwards;
       }
 
-      .commands-section {
-        animation: fadeInUp 0.6s ease-out backwards;
-        background: rgba(26, 26, 26, 0.85);
-        backdrop-filter: blur(10px);
-        border-radius: 8px;
-        border-bottom: 3px solid transparent;
-        border-image: linear-gradient(90deg,
-          transparent 0%,
-          rgba(205, 161, 84, 0.6) 10%,
-          rgba(205, 161, 84, 0.9) 50%,
-          rgba(205, 161, 84, 0.6) 90%,
-          transparent 100%
-        ) 1;
-        box-shadow:
-          0 2px 10px rgba(0, 0, 0, 0.5),
-          inset 0 1px 0 rgba(255, 255, 255, 0.1),
-          inset 0 -1px 0 rgba(0, 0, 0, 0.5);
-        overflow: hidden;
+      .search-section {
+        animation: fadeInUp 0.6s ease-out 0.1s backwards;
+        margin-bottom: 1rem;
       }
 
       .search-container {
         position: relative;
+        background: rgba(26, 26, 26, 0.85);
+        backdrop-filter: blur(10px);
+        border-radius: 8px;
         padding: 1.5rem;
-        border-bottom: 1px solid rgba(205, 161, 84, 0.2);
-        background: rgba(0, 0, 0, 0.2);
+        border: 1px solid rgba(205, 161, 84, 0.2);
+        box-shadow: 0 4px 15px rgba(0,0,0,0.3);
       }
 
       .search-input {
@@ -220,6 +221,67 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
         color: #888;
         pointer-events: none;
       }
+
+      .command-group {
+        animation: fadeInUp 0.6s ease-out backwards;
+        background: rgba(26, 26, 26, 0.85);
+        backdrop-filter: blur(10px);
+        border-radius: 8px;
+        border-bottom: 3px solid transparent;
+        border-image: linear-gradient(90deg,
+          transparent 0%,
+          rgba(205, 161, 84, 0.6) 10%,
+          rgba(205, 161, 84, 0.9) 50%,
+          rgba(205, 161, 84, 0.6) 90%,
+          transparent 100%
+        ) 1;
+        box-shadow:
+          0 2px 10px rgba(0, 0, 0, 0.5),
+          inset 0 1px 0 rgba(255, 255, 255, 0.1),
+          inset 0 -1px 0 rgba(0, 0, 0, 0.5);
+        overflow: hidden;
+      }
+
+      .section-header {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1.5rem 2rem;
+        background: rgba(0, 0, 0, 0.2);
+        border: none;
+        border-bottom: 1px solid rgba(205, 161, 84, 0.2);
+        cursor: pointer;
+        transition: all 0.3s ease;
+      }
+
+      .section-header:hover { background: rgba(205, 161, 84, 0.1); }
+
+      .section-title {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #ffd166;
+        font-family: 'Morpheus', serif;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+        margin: 0;
+      }
+
+      .section-chevron {
+        transition: transform 0.3s ease;
+        color: #ffd166;
+        flex-shrink: 0;
+      }
+
+      .section-header.expanded .section-chevron { transform: rotate(180deg); }
+
+      .section-content { 
+        max-height: 0; 
+        overflow: hidden; 
+        transition: max-height 0.4s ease-out; 
+      }
+      
+      .section-content.collapsed { max-height: 0; }
+      .section-content.expanded { max-height: 5000px; }
 
       .table-wrapper { overflow-x: auto; }
       
@@ -254,10 +316,10 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
         vertical-align: top;
       }
 
-      .col-command { width: 20%; }
+      .col-command { width: 25%; }
       .col-permission { width: 15%; }
       .col-cooldown { width: 15%; }
-      .col-desc { width: 50%; }
+      .col-desc { width: 45%; }
 
       .command-name {
         font-weight: 700;
@@ -319,10 +381,8 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
 
         .command-row {
           padding: 1.5rem;
-          margin-bottom: 1rem;
-          background: rgba(0,0,0,0.2);
-          border: 1px solid rgba(205, 161, 84, 0.2);
-          border-radius: 8px;
+          margin-bottom: 0;
+          border-bottom: 1px solid rgba(205, 161, 84, 0.2);
         }
 
         .commands-table td {
@@ -339,22 +399,59 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
 
     <script is:inline>
       document.addEventListener('DOMContentLoaded', () => {
+        
+        const headers = document.querySelectorAll('.section-header');
+        headers.forEach(header => {
+          header.addEventListener('click', () => {
+            const content = header.nextElementSibling;
+            const isExpanded = content.classList.contains('expanded');
+            
+            if (isExpanded) {
+              content.classList.remove('expanded');
+              content.classList.add('collapsed');
+              header.classList.remove('expanded');
+            } else {
+              content.classList.remove('collapsed');
+              content.classList.add('expanded');
+              header.classList.add('expanded');
+            }
+          });
+        });
+
         const searchInput = document.getElementById('command-search');
-        const tableBody = document.getElementById('commands-body');
-        const rows = Array.from(tableBody.querySelectorAll('.command-row'));
+        const groups = document.querySelectorAll('.command-group');
 
         searchInput.addEventListener('input', (e) => {
           const term = e.target.value.toLowerCase().trim();
 
-          rows.forEach(row => {
-            const name = row.dataset.name;
-            const aliases = row.dataset.aliases;
-            const desc = row.dataset.desc;
+          groups.forEach(group => {
+            const rows = group.querySelectorAll('.command-row');
+            let hasVisibleRows = false;
+            const content = group.querySelector('.section-content');
+            const header = group.querySelector('.section-header');
 
-            if (term === '' || name.includes(term) || aliases.includes(term) || desc.includes(term)) {
-              row.style.display = '';
+            rows.forEach(row => {
+              const name = row.dataset.name;
+              const aliases = row.dataset.aliases;
+              const desc = row.dataset.desc;
+
+              if (term === '' || name.includes(term) || aliases.includes(term) || desc.includes(term)) {
+                row.style.display = '';
+                hasVisibleRows = true;
+              } else {
+                row.style.display = 'none';
+              }
+            });
+
+            if (hasVisibleRows) {
+              group.style.display = '';
+              if (term !== '') {
+                content.classList.remove('collapsed');
+                content.classList.add('expanded');
+                header.classList.add('expanded');
+              }
             } else {
-              row.style.display = 'none';
+              group.style.display = 'none';
             }
           });
         });
