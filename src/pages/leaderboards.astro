@@ -1,26 +1,705 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import UpdateInfo from '../components/UpdateInfo.astro';
+import Header from '../components/Header.astro';
+import { readdir, readFile } from 'node:fs/promises';
+import { join } from 'node:path';
+
+const defaultAvatar = "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-70x70.png";
+
+const leaderboardsPath = join(process.cwd(), 'public', 'api', 'leaderboards');
+const files = await readdir(leaderboardsPath);
+const jsonFiles = files.filter(file => file.endsWith('.json'));
+
+const leaderboards = await Promise.all(
+  jsonFiles.map(async (file) => {
+    const filePath = join(leaderboardsPath, file);
+    const fileContent = await readFile(filePath, 'utf-8');
+    const jsonData = JSON.parse(fileContent);
+
+    return {
+      id: file.replace('.json', ''),
+      name: jsonData.config.displayName,
+      config: jsonData.config,
+      data: jsonData.data
+    };
+  })
+);
+
+const backgroundImages = [1, 2, 3, 4, 5, 6, 7];
+const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.length)];
 ---
 
-<Layout title="Leaderboards">
-  <main>
-    <h1>Leaderboards</h1>
-    <UpdateInfo />
-  </main>
-</Layout>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>BliZzi1337 - Leaderboards</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700;900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.cdnfonts.com/css/couture" rel="stylesheet" />
+    <link href="https://fonts.cdnfonts.com/css/friz-quadrata" rel="stylesheet" />
+    <link href="https://fonts.cdnfonts.com/css/morpheus" rel="stylesheet" />
+  </head>
+  <body style={`background-image: url('/backgrounds/${randomBg}.jpg')`}>
+    <Header currentPath="/leaderboards" />
 
-<style>
-  main {
-    margin: auto;
-    padding: 1rem;
-    width: 800px;
-    max-width: calc(100% - 2rem);
-    color: white;
-  }
-  h1 {
-    color: #ff6600;
-    text-align: center;
-    margin-bottom: 2rem;
-  }
-</style>
+    <div class="container">
+      <main>
+        <h2 class="page-title">Leaderboards</h2>
+
+        {leaderboards.map((leaderboard) => (
+          <div class="leaderboard-section" data-section-id={leaderboard.id}>
+            <button class="section-header" data-section={leaderboard.id}>
+              <h3 class="section-title">{leaderboard.name}</h3>
+              <svg class="section-chevron" width="24" height="24" viewBox="0 0 16 16" fill="currentColor">
+                <path d="M4.5 6l3.5 3.5L11.5 6" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+
+            <div class="section-content collapsed">
+              <div class="leaderboard-container">
+                <div class="search-container">
+                  <input
+                    type="text"
+                    class="search-input"
+                    data-search={leaderboard.id}
+                    placeholder="Suche nach Benutzername..."
+                  />
+                  <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                  </svg>
+                </div>
+
+                <div class="leaderboard-wrapper">
+                  <table class="leaderboard-table">
+                    <thead>
+                      <tr>
+                        <th class="rank-col">Rang</th>
+                        <th class="user-col">Benutzer</th>
+                        {leaderboard.config.columns.map((column) => (
+  <th 
+    class={`value-col sortable ${leaderboard.config.defaultSortColumn === column.key ? 'active desc' : ''}`} 
+    data-sort-key={column.key} 
+    data-section={leaderboard.id}
+  >
+    {column.label}
+    <svg class="sort-icon" width="12" height="12" viewBox="0 0 12 12" fill="currentColor">
+      <path d="M6 3l3 3H3zM6 9l3-3H3z" opacity="0.3"/>
+    </svg>
+  </th>
+))}
+                      </tr>
+                    </thead>
+                    <tbody data-tbody={leaderboard.id}>
+                      {leaderboard.data.map((entry, index) => (
+                        <tr
+                          class={`leaderboard-row ${index >= 10 ? 'hidden-row' : ''}`}
+                          data-username={entry.UserName.toLowerCase()}
+                          data-userlogin={entry.UserLogin.toLowerCase()}
+                          data-row-data={JSON.stringify(entry)}
+                        >
+                          <td class="rank-cell">
+                            <span class={`rank-badge ${index < 3 ? `rank-${index + 1}` : ''}`}>
+                              #{index + 1}
+                            </span>
+                          </td>
+                          <td class="user-cell">
+                            <img
+                              src={defaultAvatar}
+                              alt={entry.UserName}
+                              class="user-avatar"
+                              data-userlogin={entry.UserLogin.toLowerCase()}
+                            />
+                            <span class="user-name">{entry.UserName}</span>
+                          </td>
+                          {leaderboard.config.columns.map((column) => (
+                            <td class="value-cell" data-value={entry[column.key]} data-format={column.format}>
+                              {column.format === 'time'
+                                ? (() => {
+                                    const seconds = parseInt(entry[column.key]);
+                                    const hours = Math.floor(seconds / 3600);
+                                    const minutes = Math.floor((seconds % 3600) / 60);
+                                    return `${hours}h ${minutes}m`;
+                                  })()
+                                : parseInt(entry[column.key]).toLocaleString('de-DE')
+                              }
+                            </td>
+                          ))}
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+
+                {leaderboard.data.length > 10 && (
+                  <div class="button-container">
+                    <button class="toggle-button" data-toggle={leaderboard.id}>
+                      <span class="toggle-label">Mehr anzeigen</span>
+                      <svg class="chevron" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+                        <path d="M4.5 6l3.5 3.5L11.5 6" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                      </svg>
+                    </button>
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+        ))}
+      </main>
+    </div>
+
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+
+      :root {
+        --accent-blue: #0788ac;
+        --accent-blue-hover: #0a9ec7;
+        --text-primary: #ffffff;
+        --text-secondary: #e0e0e0;
+        --bg-dark: #0d0d0d;
+        --bg-card: #1a1a1a;
+        --border-subtle: #2a2a2a;
+        --twitch-purple: #9146ff;
+        --font-primary: "Rubik", sans-serif;
+      }
+
+      body {
+        font-family: var(--font-primary);
+        font-weight: 400;
+        background-color: var(--bg-dark);
+        background-position: center center;
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        color: var(--text-primary);
+        min-height: 100vh;
+        line-height: 1.6;
+        position: relative;
+      }
+
+      body::after {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(13, 13, 13, 0.9);
+        z-index: -1;
+        pointer-events: none;
+      }
+
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 3rem 2rem;
+      }
+
+      main { display: flex; flex-direction: column; gap: 2rem; }
+
+      .page-title {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: #ffd166;
+        font-family: 'Morpheus', serif;
+        text-align: center;
+        margin-bottom: 1rem;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+        animation: fadeInUp 0.6s ease-out backwards;
+      }
+
+      .leaderboard-section {
+        animation: fadeInUp 0.6s ease-out backwards;
+        background: rgba(26, 26, 26, 0.85);
+        backdrop-filter: blur(10px);
+        border-radius: 8px;
+        border-bottom: 3px solid transparent;
+        border-image: linear-gradient(90deg,
+          transparent 0%,
+          rgba(205, 161, 84, 0.6) 10%,
+          rgba(205, 161, 84, 0.9) 50%,
+          rgba(205, 161, 84, 0.6) 90%,
+          transparent 100%
+        ) 1;
+        box-shadow:
+          0 2px 10px rgba(0, 0, 0, 0.5),
+          inset 0 1px 0 rgba(255, 255, 255, 0.1),
+          inset 0 -1px 0 rgba(0, 0, 0, 0.5);
+        overflow: hidden;
+      }
+
+      .section-header {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1.5rem 2rem;
+        background: rgba(0, 0, 0, 0.2);
+        border: none;
+        border-bottom: 1px solid rgba(205, 161, 84, 0.2);
+        cursor: pointer;
+        transition: all 0.3s ease;
+      }
+
+      .section-header:hover { background: rgba(205, 161, 84, 0.1); }
+
+      .section-title {
+        font-size: 1.75rem;
+        font-weight: 700;
+        color: #ffd166;
+        font-family: 'Morpheus', serif;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+        margin: 0;
+      }
+
+      .section-chevron {
+        transition: transform 0.3s ease;
+        color: #ffd166;
+        flex-shrink: 0;
+      }
+
+      .section-header.expanded .section-chevron { transform: rotate(180deg); }
+
+      .section-content { max-height: 0; overflow: hidden; transition: max-height 0.4s ease; }
+      .section-content.collapsed { max-height: 0; }
+      .section-content.expanded { max-height: 5000px; }
+
+      .search-container {
+        position: relative;
+        padding: 1.5rem;
+        border-bottom: 1px solid rgba(205, 161, 84, 0.2);
+      }
+
+      .search-input {
+        width: 100%;
+        padding: 0.75rem 1rem 0.75rem 2.75rem;
+        background: rgba(0, 0, 0, 0.3);
+        border: 1px solid rgba(205, 161, 84, 0.3);
+        border-radius: 6px;
+        color: var(--text-primary);
+        font-family: var(--font-primary);
+        font-size: 0.95rem;
+        transition: all 0.3s ease;
+      }
+
+      .search-input:focus {
+        outline: none;
+        border-color: rgba(205, 161, 84, 0.6);
+        background: rgba(0, 0, 0, 0.4);
+      }
+
+      .search-input::placeholder { color: #888; }
+
+      .search-icon {
+        position: absolute;
+        left: 2rem;
+        top: 50%;
+        transform: translateY(-50%);
+        color: #888;
+        pointer-events: none;
+      }
+
+      .leaderboard-wrapper { overflow-x: auto; }
+      .leaderboard-table { width: 100%; border-collapse: collapse; }
+
+      .leaderboard-table thead {
+        background: rgba(0, 0, 0, 0.3);
+        border-bottom: 2px solid rgba(205, 161, 84, 0.3);
+      }
+
+      .leaderboard-table th {
+        padding: 1rem 1.5rem;
+        text-align: left;
+        font-weight: 600;
+        color: #ffd166;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+
+      .rank-col { width: 100px; }
+      .value-col { width: 150px; text-align: right !important; }
+
+      .sortable {
+        cursor: pointer;
+        user-select: none;
+        position: relative;
+        transition: all 0.2s ease;
+        white-space: nowrap;
+      }
+
+      .sortable:hover { background: rgba(205, 161, 84, 0.1); }
+      .sort-icon { display: inline-block; margin-left: 0.5rem; vertical-align: middle; }
+      .sortable.active .sort-icon { opacity: 1 !important; }
+      .sortable.asc .sort-icon path:last-child { opacity: 0.3; }
+      .sortable.asc .sort-icon path:first-child { opacity: 1; }
+      .sortable.desc .sort-icon path:first-child { opacity: 0.3; }
+      .sortable.desc .sort-icon path:last-child { opacity: 1; }
+
+      .leaderboard-row { border-bottom: 1px solid rgba(205, 161, 84, 0.1); transition: all 0.2s ease; }
+      .leaderboard-row:hover { background: rgba(205, 161, 84, 0.1); }
+      .leaderboard-row.hidden-row { display: none; }
+      .leaderboard-row.show-all { display: table-row; }
+
+      .leaderboard-table td { padding: 1rem 1.5rem; }
+      .rank-cell { font-weight: 600; }
+
+      .rank-badge {
+        display: inline-block;
+        padding: 0.25rem 0.75rem;
+        background: rgba(205, 161, 84, 0.2);
+        border: 1px solid rgba(205, 161, 84, 0.4);
+        border-radius: 12px;
+        font-size: 0.85rem;
+        color: #ffd166;
+      }
+
+      .rank-badge.rank-1 { background: rgba(255, 215, 0, 0.2); border-color: rgba(255, 215, 0, 0.5); color: #ffd700; font-weight: 700; }
+      .rank-badge.rank-2 { background: rgba(192, 192, 192, 0.2); border-color: rgba(192, 192, 192, 0.5); color: #c0c0c0; font-weight: 700; }
+      .rank-badge.rank-3 { background: rgba(205, 127, 50, 0.2); border-color: rgba(205, 127, 50, 0.5); color: #cd7f32; font-weight: 700; }
+
+      .user-cell { display: flex; align-items: center; gap: 1rem; }
+      .user-avatar { width: 40px; height: 40px; border-radius: 50%; border: 2px solid rgba(205, 161, 84, 0.3); }
+      .user-name { font-size: 0.95rem; color: var(--text-primary); font-weight: 500; }
+      .value-cell { font-size: 1rem; font-weight: 600; color: var(--text-primary); text-align: right; }
+
+      .button-container {
+        padding: 1.5rem;
+        border-top: 1px solid rgba(205, 161, 84, 0.2);
+        display: flex;
+        justify-content: center;
+      }
+
+      .toggle-button {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.75rem 1.5rem;
+        background: rgba(205, 161, 84, 0.2);
+        border: 1px solid rgba(205, 161, 84, 0.4);
+        border-radius: 6px;
+        color: #ffd166;
+        font-family: var(--font-primary);
+        font-size: 0.95rem;
+        font-weight: 500;
+        cursor: pointer;
+        transition: all 0.3s ease;
+      }
+
+      .toggle-button:hover {
+        background: rgba(205, 161, 84, 0.3);
+        border-color: rgba(205, 161, 84, 0.6);
+        transform: translateY(-1px);
+      }
+
+      .toggle-button .chevron { transition: transform 0.3s ease; }
+      .toggle-button.expanded .chevron { transform: rotate(180deg); }
+
+      @keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      @media (max-width: 768px) {
+        .container { padding: 2rem 1rem; }
+        .page-title { font-size: 1.75rem; }
+        .section-title { font-size: 1.35rem; }
+        .section-header { padding: 1.25rem 1.5rem; }
+        .leaderboard-table th, .leaderboard-table td { padding: 0.75rem 1rem; }
+        .rank-col { width: 70px; }
+        .value-col { width: 100px; }
+        .user-avatar { width: 32px; height: 32px; }
+        .user-name { font-size: 0.85rem; }
+        .value-cell { font-size: 0.9rem; }
+      }
+    </style>
+
+    <script define:vars={{ leaderboards, defaultAvatar }}>
+      const AVATAR_RATE_PER_MINUTE = 100;
+      const AVATAR_INTERVAL_MS = Math.ceil(60000 / AVATAR_RATE_PER_MINUTE);
+
+      const avatarQueue = [];
+      const queued = new Set();
+      const loaded = new Set();
+      const inflight = new Set();
+      const cache = new Map();
+
+      let lastTick = 0;
+      let pumpScheduled = false;
+
+      function normalizeLogin(v) {
+        return (v || '').toString().trim().toLowerCase();
+      }
+
+      function setAvatarEverywhere(userLogin, url) {
+        const login = normalizeLogin(userLogin);
+        const imgs = document.querySelectorAll('.user-avatar');
+        for (const img of imgs) {
+          const imgLogin = normalizeLogin(img.getAttribute('data-userlogin'));
+          if (imgLogin === login) img.src = url;
+        }
+      }
+
+      function enqueueUser(userLogin) {
+        const login = normalizeLogin(userLogin);
+        if (!login) return;
+        if (loaded.has(login)) return;
+        if (inflight.has(login)) return;
+        if (queued.has(login)) return;
+        queued.add(login);
+        avatarQueue.push(login);
+        pump();
+      }
+
+      function getVisibleRowsInSection(sectionId) {
+        const section = document.querySelector(`[data-section-id="${sectionId}"]`);
+        if (!section) return [];
+        const content = section.querySelector('.section-content');
+        if (!content || !content.classList.contains('expanded')) return [];
+        const rows = Array.from(section.querySelectorAll('.leaderboard-row'));
+        const visible = rows.filter(r => r.style.display !== 'none');
+        const topOnly = visible.filter(r => !r.classList.contains('hidden-row'));
+        const result = topOnly.length > 0 ? topOnly : visible;
+        return result.slice(0, 10);
+      }
+
+      function enqueueVisibleAvatarsForSection(sectionId) {
+        const rows = getVisibleRowsInSection(sectionId);
+        rows.forEach(row => {
+          const login = normalizeLogin(row.getAttribute('data-userlogin'));
+          if (login) enqueueUser(login);
+        });
+      }
+
+      function enqueueInitialTop10Each() {
+        document.querySelectorAll('.leaderboard-section').forEach(section => {
+          const rows = Array.from(section.querySelectorAll('.leaderboard-row'))
+            .filter(r => r.style.display !== 'none')
+            .slice(0, 10);
+          rows.forEach(row => {
+            const login = normalizeLogin(row.getAttribute('data-userlogin'));
+            if (login) enqueueUser(login);
+          });
+        });
+      }
+
+      async function fetchAvatar(login) {
+        const cached = cache.get(login);
+        if (cached) return cached;
+
+        const url = `https://decapi.me/twitch/avatar/${encodeURIComponent(login)}`;
+        const res = await fetch(url, { cache: 'no-store' });
+        if (!res.ok) return null;
+        const text = (await res.text()).trim();
+        if (!text) return null;
+        const t = text.toLowerCase();
+        if (t.includes('error')) return null;
+        if (t.includes('user not found')) return null;
+
+        cache.set(login, text);
+        return text;
+      }
+
+      async function processOne() {
+        while (avatarQueue.length > 0) {
+          const login = avatarQueue.shift();
+          queued.delete(login);
+          if (!login) continue;
+          if (loaded.has(login)) continue;
+          if (inflight.has(login)) continue;
+
+          inflight.add(login);
+
+          try {
+            const avatarUrl = await fetchAvatar(login);
+            loaded.add(login);
+            setAvatarEverywhere(login, avatarUrl || defaultAvatar);
+          } catch (_) {
+            loaded.add(login);
+            setAvatarEverywhere(login, defaultAvatar);
+          } finally {
+            inflight.delete(login);
+          }
+
+          break;
+        }
+      }
+
+      function scheduleNextPump() {
+        if (pumpScheduled) return;
+        pumpScheduled = true;
+        setTimeout(() => {
+          pumpScheduled = false;
+          pump();
+        }, AVATAR_INTERVAL_MS);
+      }
+
+      function pump(now = performance.now()) {
+        if (avatarQueue.length === 0) return;
+
+        const elapsed = now - lastTick;
+        if (elapsed < AVATAR_INTERVAL_MS) {
+          scheduleNextPump();
+          return;
+        }
+
+        lastTick = now;
+        processOne().finally(() => {
+          if (avatarQueue.length > 0) scheduleNextPump();
+        });
+      }
+
+      const sectionHeaders = document.querySelectorAll('.section-header');
+
+      sectionHeaders.forEach(header => {
+        header.addEventListener('click', () => {
+          const sectionId = header.getAttribute('data-section');
+          const content = header.nextElementSibling;
+          const isExpanded = content.classList.contains('expanded');
+
+          if (isExpanded) {
+            content.classList.remove('expanded');
+            content.classList.add('collapsed');
+            header.classList.remove('expanded');
+          } else {
+            content.classList.remove('collapsed');
+            content.classList.add('expanded');
+            header.classList.add('expanded');
+            setTimeout(() => enqueueVisibleAvatarsForSection(sectionId), 50);
+          }
+        });
+      });
+
+      const sortHeaders = document.querySelectorAll('.sortable');
+      const sortStates = {};
+
+      sortHeaders.forEach(header => {
+        const sectionId = header.getAttribute('data-section');
+        const sortKey = header.getAttribute('data-sort-key');
+        const stateKey = `${sectionId}-${sortKey}`;
+        sortStates[stateKey] = 'desc';
+
+        header.addEventListener('click', () => {
+          const section = document.querySelector(`[data-section-id="${sectionId}"]`);
+          const tbody = section.querySelector(`[data-tbody="${sectionId}"]`);
+          const rows = Array.from(tbody.querySelectorAll('.leaderboard-row'));
+
+          sortStates[stateKey] = sortStates[stateKey] === 'asc' ? 'desc' : 'asc';
+          const isAsc = sortStates[stateKey] === 'asc';
+
+          section.querySelectorAll('.sortable').forEach(h => h.classList.remove('active', 'asc', 'desc'));
+          header.classList.add('active', isAsc ? 'asc' : 'desc');
+
+          rows.sort((a, b) => {
+            const aData = JSON.parse(a.getAttribute('data-row-data'));
+            const bData = JSON.parse(b.getAttribute('data-row-data'));
+            const aValue = parseInt(aData[sortKey]);
+            const bValue = parseInt(bData[sortKey]);
+            return isAsc ? aValue - bValue : bValue - aValue;
+          });
+
+          rows.forEach((row, index) => {
+            tbody.appendChild(row);
+            const rankBadge = row.querySelector('.rank-badge');
+            rankBadge.textContent = `#${index + 1}`;
+            rankBadge.className = 'rank-badge';
+            if (index === 0) rankBadge.classList.add('rank-1');
+            else if (index === 1) rankBadge.classList.add('rank-2');
+            else if (index === 2) rankBadge.classList.add('rank-3');
+          });
+
+          enqueueVisibleAvatarsForSection(sectionId);
+        });
+      });
+
+      const toggleButtons = document.querySelectorAll('.toggle-button');
+
+      toggleButtons.forEach(button => {
+        const leaderboardId = button.getAttribute('data-toggle');
+        let isExpanded = false;
+
+        button.addEventListener('click', () => {
+          const section = document.querySelector(`[data-section-id="${leaderboardId}"]`);
+          const hiddenRows = section.querySelectorAll('.hidden-row');
+
+          isExpanded = !isExpanded;
+
+          hiddenRows.forEach(row => {
+            if (isExpanded) row.classList.add('show-all');
+            else row.classList.remove('show-all');
+          });
+
+          const label = button.querySelector('.toggle-label');
+          if (label) label.textContent = isExpanded ? 'Weniger anzeigen' : 'Mehr anzeigen';
+          button.classList.toggle('expanded', isExpanded);
+
+          enqueueVisibleAvatarsForSection(leaderboardId);
+        });
+      });
+
+      const searchInputs = document.querySelectorAll('.search-input');
+
+      searchInputs.forEach(input => {
+        const leaderboardId = input.getAttribute('data-search');
+        const section = document.querySelector(`[data-section-id="${leaderboardId}"]`);
+        const rows = Array.from(section.querySelectorAll('.leaderboard-row'));
+
+        input.addEventListener('input', (e) => {
+          const searchTerm = (e.target.value || '').toLowerCase().trim();
+
+          if (searchTerm === '') {
+            rows.forEach((row, index) => {
+              row.style.display = '';
+              if (index >= 10 && !row.classList.contains('show-all')) row.classList.add('hidden-row');
+            });
+          } else {
+            rows.forEach(row => {
+              const username = row.getAttribute('data-username') || '';
+              const userlogin = row.getAttribute('data-userlogin') || '';
+              if (username.includes(searchTerm) || userlogin.includes(searchTerm)) {
+                row.style.display = '';
+                row.classList.remove('hidden-row');
+              } else {
+                row.style.display = 'none';
+              }
+            });
+          }
+
+          enqueueVisibleAvatarsForSection(leaderboardId);
+        });
+      });
+
+      enqueueInitialTop10Each();
+
+leaderboards.forEach(lb => {
+  const defCol = lb.config.defaultSortColumn;
+  if (!defCol) return;
+
+  const section = document.querySelector(`[data-section-id="${lb.id}"]`);
+  const tbody = section.querySelector(`[data-tbody="${lb.id}"]`);
+  const rows = Array.from(tbody.querySelectorAll('.leaderboard-row'));
+
+  rows.sort((a, b) => {
+    const aVal = parseInt(JSON.parse(a.getAttribute('data-row-data'))[defCol]);
+    const bVal = parseInt(JSON.parse(b.getAttribute('data-row-data'))[defCol]);
+    return bVal - aVal;
+  });
+
+  rows.forEach((row, index) => {
+    tbody.appendChild(row);
+    const badge = row.querySelector('.rank-badge');
+    badge.textContent = `#${index + 1}`;
+    badge.className = 'rank-badge';
+    if (index === 0) badge.classList.add('rank-1');
+    else if (index === 1) badge.classList.add('rank-2');
+    else if (index === 2) badge.classList.add('rank-3');
+  });
+});
+    </script>
+  </body>
+</html>
