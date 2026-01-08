@@ -6,6 +6,7 @@
         "name": "!discord",
         "aliases": ["!dc", "!community"],
         "permission": "Alle",
+        "inputRequired": false,
         "cooldown": "5m (Global)",
         "description": "Zeigt den Link zu unserem Community Discord Server an."
       },
@@ -13,6 +14,7 @@
         "name": "!lurk",
         "aliases": [],
         "permission": "Alle",
+        "inputRequired": false,
         "cooldown": "Kein Cooldown",
         "description": "Lass mich wissen, dass du da bist, aber gerade nicht aktiv chatten kannst."
       },
@@ -20,6 +22,7 @@
         "name": "!socials",
         "aliases": ["!links"],
         "permission": "Alle",
+        "inputRequired": false,
         "cooldown": "2m (Global)",
         "description": "Listet alle meine Social Media Accounts auf."
       }
@@ -32,6 +35,7 @@
         "name": "!setup",
         "aliases": ["!specs", "!pc"],
         "permission": "Alle",
+        "inputRequired": false,
         "cooldown": "30s (User)",
         "description": "Listet meine aktuelle Hardware und Peripherie auf."
       },
@@ -39,6 +43,7 @@
         "name": "!maus",
         "aliases": ["!mouse", "!dpi"],
         "permission": "Alle",
+        "inputRequired": false,
         "cooldown": "30s (User)",
         "description": "Zeigt meine Maus-Settings und DPI an."
       }
@@ -51,6 +56,7 @@
         "name": "!gigachad",
         "aliases": [],
         "permission": "Alle",
+        "inputRequired": false,
         "cooldown": "1m (Global)",
         "description": "Spielt den GigaChad Sound im Stream ab."
       },
@@ -58,6 +64,7 @@
         "name": "!vip",
         "aliases": [],
         "permission": "VIP",
+        "inputRequired": false,
         "cooldown": "1h (User)",
         "description": "Ein spezieller Sound-Alert nur für VIPs."
       }
@@ -67,16 +74,18 @@
     "category": "Moderation",
     "items": [
       {
-        "name": "!so",
+        "name": "!so <Streamer>",
         "aliases": ["!shoutout"],
         "permission": "Mod",
+        "inputRequired": true,
         "cooldown": "None",
         "description": "Gibt einem anderen Streamer einen Shoutout im Chat."
       },
       {
-        "name": "!title",
+        "name": "!title <Titel>",
         "aliases": [],
         "permission": "Mod",
+        "inputRequired": true,
         "cooldown": "None",
         "description": "Ändert den Streamtitel."
       }
