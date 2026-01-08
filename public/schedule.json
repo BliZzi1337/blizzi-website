@@ -46,5 +46,19 @@
         "description": ""
       }
     ]
+  },
+  {
+    "day": "Freitag",
+    "date": "09.01.2026",
+    "events": [
+      {
+        "time": "14:00",
+        "title": "World of Warcraft Mythic+",
+        "games": [
+          "World of Warcraft"
+        ],
+        "description": "Wir daddeln wieder ein paar Community Keys!"
+      }
+    ]
   }
 ]
