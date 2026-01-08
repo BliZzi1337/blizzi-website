@@ -42,7 +42,7 @@
         "permission": "Alle",
         "inputRequired": false,
         "cooldown": "-",
-        "description": ""
+        "description": "Ziehe ein Rubbellos für 500 Gold und erhalte die Chance den Jackpot mit einer Chance von 2,5% zu gewinnen"
       },
       {
         "name": "!duell <Name des Gegners>",
