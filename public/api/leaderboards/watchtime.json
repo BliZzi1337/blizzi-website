@@ -38,7 +38,7 @@
       "Wochen": 6,
       "Tage": 46,
       "Stunden": 1125,
-      "WatchtimeSek": 4051560
+      "WatchtimeSek": 4051860
     },
     {
       "UserName": "SrA86",
@@ -155,7 +155,7 @@
       "Wochen": 0,
       "Tage": 4,
       "Stunden": 102,
-      "WatchtimeSek": 367620
+      "WatchtimeSek": 367920
     },
     {
       "UserName": "x_kinglouie_x",
@@ -164,7 +164,7 @@
       "Wochen": 0,
       "Tage": 3,
       "Stunden": 75,
-      "WatchtimeSek": 273000
+      "WatchtimeSek": 273300
     },
     {
       "UserName": "saddi_86",
@@ -173,7 +173,7 @@
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 65,
-      "WatchtimeSek": 234000
+      "WatchtimeSek": 234300
     },
     {
       "UserName": "Minathron00",
@@ -209,7 +209,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 42,
-      "WatchtimeSek": 152700
+      "WatchtimeSek": 153000
     },
     {
       "UserName": "Whatsnew0101",
@@ -226,8 +226,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 1,
-      "Stunden": 39,
-      "WatchtimeSek": 143700
+      "Stunden": 40,
+      "WatchtimeSek": 144000
     },
     {
       "UserName": "morimo87",
@@ -416,7 +416,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 16,
-      "WatchtimeSek": 59100
+      "WatchtimeSek": 59400
     },
     {
       "UserName": "da_Hosch",
@@ -1670,6 +1670,15 @@
       "WatchtimeSek": 3300
     },
     {
+      "UserName": "Huschee",
+      "UserLogin": "huschee",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 3300
+    },
+    {
       "UserName": "Heizo_Hattori",
       "UserLogin": "heizo_hattori",
       "Monate": 0,
@@ -1789,15 +1798,6 @@
     {
       "UserName": "Doowayscht",
       "UserLogin": "doowayscht",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 3000
-    },
-    {
-      "UserName": "Huschee",
-      "UserLogin": "huschee",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
