@@ -53,6 +53,17 @@
       "HoechsteNiederlage": "3000"
     },
     {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gesamt": "4",
+      "Gewonnen": "2",
+      "Verloren": "2",
+      "PunkteGewonnen": "50000",
+      "PunkteVerloren": "50000",
+      "HoechsterSieg": "25000",
+      "HoechsteNiederlage": "41500"
+    },
+    {
       "UserName": "GrinchiSC",
       "UserLogin": "grinchisc",
       "Gesamt": "4",
@@ -84,17 +95,6 @@
       "PunkteVerloren": "50000",
       "HoechsterSieg": "50000",
       "HoechsteNiederlage": "50000"
-    },
-    {
-      "UserName": "xph1lo",
-      "UserLogin": "xph1lo",
-      "Gesamt": "3",
-      "Gewonnen": "1",
-      "Verloren": "2",
-      "PunkteGewonnen": "25000",
-      "PunkteVerloren": "50000",
-      "HoechsterSieg": "25000",
-      "HoechsteNiederlage": "41500"
     },
     {
       "UserName": "spindi_86",
