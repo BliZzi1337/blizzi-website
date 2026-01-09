@@ -14,7 +14,7 @@
     {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
-      "Gold": "1216001"
+      "Gold": "1213501"
     },
     {
       "UserName": "Jenny_Eleyna",
@@ -57,14 +57,14 @@
       "Gold": "162500"
     },
     {
-      "UserName": "x_kinglouie_x",
-      "UserLogin": "x_kinglouie_x",
-      "Gold": "140000"
-    },
-    {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
-      "Gold": "131500"
+      "Gold": "154500"
+    },
+    {
+      "UserName": "x_kinglouie_x",
+      "UserLogin": "x_kinglouie_x",
+      "Gold": "138500"
     },
     {
       "UserName": "lucky_luki95",
@@ -227,11 +227,6 @@
       "Gold": "2000"
     },
     {
-      "UserName": "Moonfeder4",
-      "UserLogin": "moonfeder4",
-      "Gold": "500"
-    },
-    {
       "UserName": "CallMeAdrk",
       "UserLogin": "callmeadrk",
       "Gold": "500"
@@ -249,6 +244,11 @@
     {
       "UserName": "schmidiiii_bot",
       "UserLogin": "schmidiiii_bot",
+      "Gold": "0"
+    },
+    {
+      "UserName": "Moonfeder4",
+      "UserLogin": "moonfeder4",
       "Gold": "0"
     },
     {
