@@ -38,7 +38,7 @@
       "Wochen": 6,
       "Tage": 46,
       "Stunden": 1126,
-      "WatchtimeSek": 4053660
+      "WatchtimeSek": 4053960
     },
     {
       "UserName": "SrA86",
@@ -47,7 +47,7 @@
       "Wochen": 5,
       "Tage": 36,
       "Stunden": 877,
-      "WatchtimeSek": 3160260
+      "WatchtimeSek": 3160560
     },
     {
       "UserName": "Jenny_Eleyna",
@@ -110,7 +110,7 @@
       "Wochen": 1,
       "Tage": 10,
       "Stunden": 253,
-      "WatchtimeSek": 913740
+      "WatchtimeSek": 914040
     },
     {
       "UserName": "xph1lo",
@@ -146,7 +146,7 @@
       "Wochen": 0,
       "Tage": 5,
       "Stunden": 142,
-      "WatchtimeSek": 511200
+      "WatchtimeSek": 511500
     },
     {
       "UserName": "Skytecc",
@@ -164,7 +164,7 @@
       "Wochen": 0,
       "Tage": 3,
       "Stunden": 76,
-      "WatchtimeSek": 275100
+      "WatchtimeSek": 275400
     },
     {
       "UserName": "saddi_86",
@@ -173,7 +173,7 @@
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 65,
-      "WatchtimeSek": 236100
+      "WatchtimeSek": 236400
     },
     {
       "UserName": "Minathron00",
@@ -209,7 +209,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 43,
-      "WatchtimeSek": 154800
+      "WatchtimeSek": 155100
     },
     {
       "UserName": "Whatsnew0101",
@@ -227,7 +227,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 40,
-      "WatchtimeSek": 145800
+      "WatchtimeSek": 146100
     },
     {
       "UserName": "morimo87",
@@ -245,7 +245,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 37,
-      "WatchtimeSek": 135300
+      "WatchtimeSek": 135600
     },
     {
       "UserName": "KhaosK6",
@@ -416,7 +416,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 17,
-      "WatchtimeSek": 61200
+      "WatchtimeSek": 61500
     },
     {
       "UserName": "da_Hosch",
@@ -740,7 +740,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 4,
-      "WatchtimeSek": 16200
+      "WatchtimeSek": 16500
     },
     {
       "UserName": "AfroPanda955",
@@ -1364,6 +1364,15 @@
       "WatchtimeSek": 5400
     },
     {
+      "UserName": "Huschee",
+      "UserLogin": "huschee",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 1,
+      "WatchtimeSek": 5400
+    },
+    {
       "UserName": "Blackangelww",
       "UserLogin": "blackangelww",
       "Monate": 0,
@@ -1411,15 +1420,6 @@
     {
       "UserName": "ceekay_gaming",
       "UserLogin": "ceekay_gaming",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 1,
-      "WatchtimeSek": 5100
-    },
-    {
-      "UserName": "Huschee",
-      "UserLogin": "huschee",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
