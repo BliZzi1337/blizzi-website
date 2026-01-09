@@ -75,6 +75,17 @@
       "HoechsteNiederlage": "25000"
     },
     {
+      "UserName": "x_kinglouie_x",
+      "UserLogin": "x_kinglouie_x",
+      "Gesamt": "3",
+      "Gewonnen": "2",
+      "Verloren": "1",
+      "PunkteGewonnen": "100000",
+      "PunkteVerloren": "50000",
+      "HoechsterSieg": "50000",
+      "HoechsteNiederlage": "50000"
+    },
+    {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
       "Gesamt": "3",
@@ -97,10 +108,10 @@
       "HoechsteNiederlage": "20000"
     },
     {
-      "UserName": "x_kinglouie_x",
-      "UserLogin": "x_kinglouie_x",
-      "Gesamt": "2",
-      "Gewonnen": "2",
+      "UserName": "SrH_x",
+      "UserLogin": "srh_x",
+      "Gesamt": "3",
+      "Gewonnen": "3",
       "Verloren": "0",
       "PunkteGewonnen": "100000",
       "PunkteVerloren": "0",
@@ -108,8 +119,8 @@
       "HoechsteNiederlage": "0"
     },
     {
-      "UserName": "SrH_x",
-      "UserLogin": "srh_x",
+      "UserName": "Skytecc",
+      "UserLogin": "skytecc",
       "Gesamt": "2",
       "Gewonnen": "2",
       "Verloren": "0",
