@@ -38,7 +38,7 @@
       "Wochen": 6,
       "Tage": 46,
       "Stunden": 1125,
-      "WatchtimeSek": 4051260
+      "WatchtimeSek": 4051560
     },
     {
       "UserName": "SrA86",
@@ -227,7 +227,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 39,
-      "WatchtimeSek": 143400
+      "WatchtimeSek": 143700
     },
     {
       "UserName": "morimo87",
@@ -1796,6 +1796,15 @@
       "WatchtimeSek": 3000
     },
     {
+      "UserName": "Huschee",
+      "UserLogin": "huschee",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 3000
+    },
+    {
       "UserName": "hans_peters123",
       "UserLogin": "hans_peters123",
       "Monate": 0,
@@ -1852,15 +1861,6 @@
     {
       "UserName": "Rick_Less_",
       "UserLogin": "rick_less_",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 2700
-    },
-    {
-      "UserName": "Huschee",
-      "UserLogin": "huschee",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
