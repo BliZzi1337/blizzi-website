@@ -38,7 +38,7 @@
       "Wochen": 6,
       "Tage": 46,
       "Stunden": 1125,
-      "WatchtimeSek": 4052160
+      "WatchtimeSek": 4052460
     },
     {
       "UserName": "SrA86",
@@ -110,7 +110,7 @@
       "Wochen": 1,
       "Tage": 10,
       "Stunden": 253,
-      "WatchtimeSek": 912240
+      "WatchtimeSek": 912540
     },
     {
       "UserName": "xph1lo",
@@ -155,7 +155,7 @@
       "Wochen": 0,
       "Tage": 4,
       "Stunden": 102,
-      "WatchtimeSek": 368220
+      "WatchtimeSek": 368520
     },
     {
       "UserName": "x_kinglouie_x",
@@ -164,7 +164,7 @@
       "Wochen": 0,
       "Tage": 3,
       "Stunden": 76,
-      "WatchtimeSek": 273600
+      "WatchtimeSek": 273900
     },
     {
       "UserName": "saddi_86",
@@ -173,7 +173,7 @@
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 65,
-      "WatchtimeSek": 234600
+      "WatchtimeSek": 234900
     },
     {
       "UserName": "Minathron00",
@@ -209,7 +209,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 42,
-      "WatchtimeSek": 153300
+      "WatchtimeSek": 153600
     },
     {
       "UserName": "Whatsnew0101",
@@ -227,7 +227,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 40,
-      "WatchtimeSek": 144300
+      "WatchtimeSek": 144600
     },
     {
       "UserName": "morimo87",
@@ -416,7 +416,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 16,
-      "WatchtimeSek": 59700
+      "WatchtimeSek": 60000
     },
     {
       "UserName": "da_Hosch",
@@ -758,7 +758,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 4,
-      "WatchtimeSek": 14700
+      "WatchtimeSek": 15000
     },
     {
       "UserName": "xeon_1312_",
@@ -1562,6 +1562,15 @@
       "WatchtimeSek": 3900
     },
     {
+      "UserName": "Huschee",
+      "UserLogin": "huschee",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 1,
+      "WatchtimeSek": 3900
+    },
+    {
       "UserName": "therealslimshady187",
       "UserLogin": "therealslimshady187",
       "Monate": 0,
@@ -1582,15 +1591,6 @@
     {
       "UserName": "lalena30",
       "UserLogin": "lalena30",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 1,
-      "WatchtimeSek": 3600
-    },
-    {
-      "UserName": "Huschee",
-      "UserLogin": "huschee",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
