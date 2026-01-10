@@ -42,6 +42,17 @@
   },
   "data": [
     {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gesamt": "6",
+      "Gewonnen": "3",
+      "Verloren": "3",
+      "PunkteGewonnen": "62500",
+      "PunkteVerloren": "62500",
+      "HoechsterSieg": "25000",
+      "HoechsteNiederlage": "41500"
+    },
+    {
       "UserName": "91pitt91",
       "UserLogin": "91pitt91",
       "Gesamt": "5",
@@ -51,17 +62,6 @@
       "PunkteVerloren": "6000",
       "HoechsterSieg": "2500",
       "HoechsteNiederlage": "3000"
-    },
-    {
-      "UserName": "xph1lo",
-      "UserLogin": "xph1lo",
-      "Gesamt": "4",
-      "Gewonnen": "2",
-      "Verloren": "2",
-      "PunkteGewonnen": "50000",
-      "PunkteVerloren": "50000",
-      "HoechsterSieg": "25000",
-      "HoechsteNiederlage": "41500"
     },
     {
       "UserName": "GrinchiSC",
