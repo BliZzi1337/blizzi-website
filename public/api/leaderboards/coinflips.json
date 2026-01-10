@@ -42,6 +42,17 @@
   },
   "data": [
     {
+      "UserName": "GrinchiSC",
+      "UserLogin": "grinchisc",
+      "Gesamt": "7",
+      "Gewonnen": "5",
+      "Verloren": "2",
+      "PunkteGewonnen": "40000",
+      "PunkteVerloren": "30000",
+      "HoechsterSieg": "15000",
+      "HoechsteNiederlage": "15000"
+    },
+    {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
       "Gesamt": "6",
@@ -62,17 +73,6 @@
       "PunkteVerloren": "6000",
       "HoechsterSieg": "2500",
       "HoechsteNiederlage": "3000"
-    },
-    {
-      "UserName": "GrinchiSC",
-      "UserLogin": "grinchisc",
-      "Gesamt": "4",
-      "Gewonnen": "2",
-      "Verloren": "2",
-      "PunkteGewonnen": "20000",
-      "PunkteVerloren": "30000",
-      "HoechsterSieg": "15000",
-      "HoechsteNiederlage": "15000"
     },
     {
       "UserName": "kensg0908",
@@ -106,6 +106,17 @@
       "PunkteVerloren": "50000",
       "HoechsterSieg": "50000",
       "HoechsteNiederlage": "50000"
+    },
+    {
+      "UserName": "duese19931",
+      "UserLogin": "duese19931",
+      "Gesamt": "3",
+      "Gewonnen": "1",
+      "Verloren": "2",
+      "PunkteGewonnen": "2000",
+      "PunkteVerloren": "4000",
+      "HoechsterSieg": "2000",
+      "HoechsteNiederlage": "3000"
     },
     {
       "UserName": "J3loodyFe4r",
