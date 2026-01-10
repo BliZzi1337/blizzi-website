@@ -38,7 +38,7 @@
       "Wochen": 6,
       "Tage": 47,
       "Stunden": 1129,
-      "WatchtimeSek": 4065960
+      "WatchtimeSek": 4066260
     },
     {
       "UserName": "SrA86",
@@ -47,7 +47,7 @@
       "Wochen": 5,
       "Tage": 36,
       "Stunden": 880,
-      "WatchtimeSek": 3170460
+      "WatchtimeSek": 3170760
     },
     {
       "UserName": "Jenny_Eleyna",
@@ -56,7 +56,7 @@
       "Wochen": 5,
       "Tage": 35,
       "Stunden": 846,
-      "WatchtimeSek": 3047820
+      "WatchtimeSek": 3048120
     },
     {
       "UserName": "ToxicMonsti",
@@ -91,8 +91,8 @@
       "Monate": 0,
       "Wochen": 2,
       "Tage": 17,
-      "Stunden": 411,
-      "WatchtimeSek": 1482960
+      "Stunden": 412,
+      "WatchtimeSek": 1483260
     },
     {
       "UserName": "schmidiiii",
@@ -110,7 +110,7 @@
       "Wochen": 1,
       "Tage": 10,
       "Stunden": 257,
-      "WatchtimeSek": 925740
+      "WatchtimeSek": 926040
     },
     {
       "UserName": "xph1lo",
@@ -118,8 +118,8 @@
       "Monate": 0,
       "Wochen": 1,
       "Tage": 7,
-      "Stunden": 190,
-      "WatchtimeSek": 687480
+      "Stunden": 191,
+      "WatchtimeSek": 687780
     },
     {
       "UserName": "GrinchiSC",
@@ -127,8 +127,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 6,
-      "Stunden": 161,
-      "WatchtimeSek": 583080
+      "Stunden": 162,
+      "WatchtimeSek": 583380
     },
     {
       "UserName": "Talarock",
@@ -146,7 +146,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 145,
-      "WatchtimeSek": 522900
+      "WatchtimeSek": 523200
     },
     {
       "UserName": "Skytecc",
@@ -163,8 +163,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 3,
-      "Stunden": 78,
-      "WatchtimeSek": 284100
+      "Stunden": 79,
+      "WatchtimeSek": 284400
     },
     {
       "UserName": "saddi_86",
@@ -172,8 +172,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 2,
-      "Stunden": 67,
-      "WatchtimeSek": 244500
+      "Stunden": 68,
+      "WatchtimeSek": 244800
     },
     {
       "UserName": "Minathron00",
@@ -209,7 +209,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 46,
-      "WatchtimeSek": 166800
+      "WatchtimeSek": 167100
     },
     {
       "UserName": "lalalalalands",
@@ -217,8 +217,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 1,
-      "Stunden": 43,
-      "WatchtimeSek": 158100
+      "Stunden": 44,
+      "WatchtimeSek": 158400
     },
     {
       "UserName": "Whatsnew0101",
@@ -236,7 +236,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 38,
-      "WatchtimeSek": 138000
+      "WatchtimeSek": 138300
     },
     {
       "UserName": "morimo87",
@@ -374,8 +374,8 @@
       "WatchtimeSek": 76500
     },
     {
-      "UserName": "snoweye_",
-      "UserLogin": "snoweye_",
+      "UserName": "Daniel__1976",
+      "UserLogin": "daniel__1976",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -383,13 +383,13 @@
       "WatchtimeSek": 76200
     },
     {
-      "UserName": "Daniel__1976",
-      "UserLogin": "daniel__1976",
+      "UserName": "snoweye_",
+      "UserLogin": "snoweye_",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 21,
-      "WatchtimeSek": 75900
+      "WatchtimeSek": 76200
     },
     {
       "UserName": "91pitt91",
@@ -425,7 +425,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 16,
-      "WatchtimeSek": 59700
+      "WatchtimeSek": 60000
     },
     {
       "UserName": "da_Hosch",
@@ -1661,6 +1661,15 @@
       "WatchtimeSek": 3300
     },
     {
+      "UserName": "Angram42",
+      "UserLogin": "angram42",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 3300
+    },
+    {
       "UserName": "CalibboTV",
       "UserLogin": "calibbotv",
       "Monate": 0,
@@ -1780,15 +1789,6 @@
     {
       "UserName": "UnspokenFluffy",
       "UserLogin": "unspokenfluffy",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 3000
-    },
-    {
-      "UserName": "Angram42",
-      "UserLogin": "angram42",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
