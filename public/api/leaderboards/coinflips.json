@@ -130,6 +130,17 @@
       "HoechsteNiederlage": "0"
     },
     {
+      "UserName": "Jenny_Eleyna",
+      "UserLogin": "jenny_eleyna",
+      "Gesamt": "2",
+      "Gewonnen": "1",
+      "Verloren": "1",
+      "PunkteGewonnen": "25000",
+      "PunkteVerloren": "25000",
+      "HoechsterSieg": "25000",
+      "HoechsteNiederlage": "25000"
+    },
+    {
       "UserName": "Skytecc",
       "UserLogin": "skytecc",
       "Gesamt": "2",
@@ -139,6 +150,17 @@
       "PunkteVerloren": "0",
       "HoechsterSieg": "25000",
       "HoechsteNiederlage": "0"
+    },
+    {
+      "UserName": "SrA86",
+      "UserLogin": "sra86",
+      "Gesamt": "2",
+      "Gewonnen": "1",
+      "Verloren": "1",
+      "PunkteGewonnen": "25000",
+      "PunkteVerloren": "25000",
+      "HoechsterSieg": "25000",
+      "HoechsteNiederlage": "25000"
     },
     {
       "UserName": "schmidiiii",
@@ -163,17 +185,6 @@
       "HoechsteNiederlage": "0"
     },
     {
-      "UserName": "Jenny_Eleyna",
-      "UserLogin": "jenny_eleyna",
-      "Gesamt": "1",
-      "Gewonnen": "0",
-      "Verloren": "1",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "25000",
-      "HoechsterSieg": "0",
-      "HoechsteNiederlage": "25000"
-    },
-    {
       "UserName": "Panu_No1",
       "UserLogin": "panu_no1",
       "Gesamt": "1",
@@ -182,17 +193,6 @@
       "PunkteGewonnen": "2000",
       "PunkteVerloren": "0",
       "HoechsterSieg": "2000",
-      "HoechsteNiederlage": "0"
-    },
-    {
-      "UserName": "SrA86",
-      "UserLogin": "sra86",
-      "Gesamt": "1",
-      "Gewonnen": "1",
-      "Verloren": "0",
-      "PunkteGewonnen": "25000",
-      "PunkteVerloren": "0",
-      "HoechsterSieg": "25000",
       "HoechsteNiederlage": "0"
     }
   ]
