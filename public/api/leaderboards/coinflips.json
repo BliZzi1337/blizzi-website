@@ -86,6 +86,17 @@
       "HoechsteNiederlage": "25000"
     },
     {
+      "UserName": "Skytecc",
+      "UserLogin": "skytecc",
+      "Gesamt": "4",
+      "Gewonnen": "3",
+      "Verloren": "1",
+      "PunkteGewonnen": "75000",
+      "PunkteVerloren": "25000",
+      "HoechsterSieg": "25000",
+      "HoechsteNiederlage": "25000"
+    },
+    {
       "UserName": "x_kinglouie_x",
       "UserLogin": "x_kinglouie_x",
       "Gesamt": "3",
@@ -139,17 +150,6 @@
       "PunkteVerloren": "25000",
       "HoechsterSieg": "25000",
       "HoechsteNiederlage": "25000"
-    },
-    {
-      "UserName": "Skytecc",
-      "UserLogin": "skytecc",
-      "Gesamt": "2",
-      "Gewonnen": "2",
-      "Verloren": "0",
-      "PunkteGewonnen": "50000",
-      "PunkteVerloren": "0",
-      "HoechsterSieg": "25000",
-      "HoechsteNiederlage": "0"
     },
     {
       "UserName": "SrA86",
