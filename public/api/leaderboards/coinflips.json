@@ -152,6 +152,17 @@
       "HoechsteNiederlage": "0"
     },
     {
+      "UserName": "schmidiiii",
+      "UserLogin": "schmidiiii",
+      "Gesamt": "2",
+      "Gewonnen": "1",
+      "Verloren": "1",
+      "PunkteGewonnen": "50000",
+      "PunkteVerloren": "20500",
+      "HoechsterSieg": "50000",
+      "HoechsteNiederlage": "20500"
+    },
+    {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
       "Gesamt": "2",
@@ -172,17 +183,6 @@
       "PunkteVerloren": "25000",
       "HoechsterSieg": "25000",
       "HoechsteNiederlage": "25000"
-    },
-    {
-      "UserName": "schmidiiii",
-      "UserLogin": "schmidiiii",
-      "Gesamt": "1",
-      "Gewonnen": "1",
-      "Verloren": "0",
-      "PunkteGewonnen": "50000",
-      "PunkteVerloren": "0",
-      "HoechsterSieg": "50000",
-      "HoechsteNiederlage": "0"
     },
     {
       "UserName": "rina_deepy",
