@@ -17,7 +17,7 @@ const leaderboards = await Promise.all(
 
     return {
       id: file.replace('.json', ''),
-      name: jsonData.config. displayName,
+      name: jsonData.config.displayName,
       config: jsonData.config,
       data: jsonData.data,
       updatedAt: jsonData.updatedAt || new Date().toISOString()
@@ -66,7 +66,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
                 </div>
               </div>
               <svg class="section-chevron" width="24" height="24" viewBox="0 0 16 16" fill="currentColor">
-                <path d="M4. 5 6l3. 5 3.5L11. 5 6" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M4. 5 6l3.5 3.5L11. 5 6" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
               </svg>
             </button>
 
@@ -91,9 +91,9 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
                       <tr>
                         <th class="rank-col">Rang</th>
                         <th class="user-col">Benutzer</th>
-                        {leaderboard.config.columns. map((column) => (
+                        {leaderboard.config.columns.map((column) => (
   <th 
-    class={`value-col sortable ${leaderboard.config.defaultSortColumn === column.key ?  'active desc' : ''}`} 
+    class={`value-col sortable ${leaderboard.config.defaultSortColumn === column.key ? 'active desc' : ''}`} 
     data-sort-key={column.key} 
     data-section={leaderboard.id}
   >
@@ -110,7 +110,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
                         <tr
                           class={`leaderboard-row ${index >= 10 ? 'hidden-row' : ''}`}
                           data-username={entry.UserName. toLowerCase()}
-                          data-userlogin={entry.UserLogin. toLowerCase()}
+                          data-userlogin={entry.UserLogin.toLowerCase()}
                           data-row-data={JSON.stringify(entry)}
                         >
                           <td class="rank-cell">
@@ -123,7 +123,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
                               src={defaultAvatar}
                               alt={entry.UserName}
                               class="user-avatar"
-                              data-userlogin={entry.UserLogin. toLowerCase()}
+                              data-userlogin={entry.UserLogin.toLowerCase()}
                             />
                             <span class="user-name">{entry.UserName}</span>
                           </td>
@@ -132,7 +132,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
                               {column.format === 'time'
                                 ? (() => {
                                     const seconds = parseInt(entry[column.key]);
-                                    const hours = Math.floor(seconds / 3600);
+                                    const hours = Math. floor(seconds / 3600);
                                     const minutes = Math.floor((seconds % 3600) / 60);
                                     return `${hours}h ${minutes}m`;
                                   })()
@@ -198,7 +198,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
         top: 0;
         left: 0;
         width: 100%;
-        height: 100%;
+        height:  100%;
         background: rgba(13, 13, 13, 0.9);
         z-index: -1;
         pointer-events: none;
@@ -213,7 +213,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
       main { display: flex; flex-direction: column; gap: 2rem; }
 
       .page-title {
-        font-size:  2.5rem;
+        font-size: 2.5rem;
         font-weight: 700;
         color: #ffd166;
         font-family: 'Morpheus', serif;
@@ -272,7 +272,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
         color: #ffd166;
         font-family: 'Morpheus', serif;
         text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
-        margin:  0;
+        margin: 0;
       }
 
       .update-badge {
@@ -400,7 +400,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
       .sortable.active . sort-icon { opacity: 1 !important; }
       .sortable.asc .sort-icon path: last-child { opacity: 0. 3; }
       .sortable.asc .sort-icon path:first-child { opacity: 1; }
-      .sortable.desc .sort-icon path:first-child { opacity: 0.3; }
+      .sortable. desc .sort-icon path:first-child { opacity: 0.3; }
       .sortable.desc .sort-icon path:last-child { opacity: 1; }
 
       .leaderboard-row { border-bottom: 1px solid rgba(205, 161, 84, 0.1); transition: all 0.2s ease; }
@@ -415,7 +415,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
         display: inline-block;
         padding: 0.25rem 0.75rem;
         background: rgba(205, 161, 84, 0.2);
-        border:  1px solid rgba(205, 161, 84, 0.4);
+        border: 1px solid rgba(205, 161, 84, 0.4);
         border-radius: 12px;
         font-size:  0.85rem;
         color: #ffd166;
@@ -423,15 +423,15 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
 
       .rank-badge.rank-1 { background: rgba(255, 215, 0, 0.2); border-color: rgba(255, 215, 0, 0.5); color: #ffd700; font-weight: 700; }
       .rank-badge.rank-2 { background: rgba(192, 192, 192, 0.2); border-color: rgba(192, 192, 192, 0.5); color: #c0c0c0; font-weight: 700; }
-      . rank-badge.rank-3 { background: rgba(205, 127, 50, 0.2); border-color: rgba(205, 127, 50, 0.5); color: #cd7f32; font-weight: 700; }
+      .rank-badge.rank-3 { background: rgba(205, 127, 50, 0.2); border-color: rgba(205, 127, 50, 0.5); color: #cd7f32; font-weight: 700; }
 
       .user-cell { display: flex; align-items: center; gap: 1rem; }
       .user-avatar { width: 40px; height: 40px; border-radius: 50%; border: 2px solid rgba(205, 161, 84, 0.3); }
       .user-name { font-size: 0.95rem; color: var(--text-primary); font-weight: 500; }
-      .value-cell { font-size: 1rem; font-weight: 600; color:  var(--text-primary); text-align: right; }
+      .value-cell { font-size: 1rem; font-weight: 600; color: var(--text-primary); text-align: right; }
 
       .button-container {
-        padding: 1.5rem;
+        padding: 1. 5rem;
         border-top: 1px solid rgba(205, 161, 84, 0.2);
         display: flex;
         justify-content: center;
@@ -559,7 +559,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
         const res = await fetch(url, { cache: 'no-store' });
         if (!res.ok) return null;
         const text = (await res.text()).trim();
-        if (! text) return null;
+        if (!text) return null;
         const t = text.toLowerCase();
         if (t.includes('error')) return null;
         if (t.includes('user not found')) return null;
@@ -613,7 +613,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
 
         lastTick = now;
         processOne().finally(() => {
-          if (avatarQueue. length > 0) scheduleNextPump();
+          if (avatarQueue.length > 0) scheduleNextPump();
         });
       }
 
@@ -653,7 +653,7 @@ const randomBg = backgroundImages[Math.floor(Math.random() * backgroundImages.le
             cssClass = 'very-old';
           }
 
-          badge.className = `update-badge ${cssClass}`;
+          badge. className = `update-badge ${cssClass}`;
           badge.querySelector('.update-text').textContent = timeText;
         });
       }
