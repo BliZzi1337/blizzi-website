@@ -44,10 +44,10 @@
     {
       "UserName": "saddi_86",
       "UserLogin": "saddi_86",
-      "Gesamt": "15",
-      "Gewonnen": "6",
+      "Gesamt": "16",
+      "Gewonnen": "7",
       "Verloren": "9",
-      "PunkteGewonnen": "390",
+      "PunkteGewonnen": "391",
       "PunkteVerloren": "137",
       "HoechsterSieg": "250",
       "HoechsteNiederlage": "100"
@@ -64,6 +64,17 @@
       "HoechsteNiederlage": "41500"
     },
     {
+      "UserName": "FlyingTrinker_Bell",
+      "UserLogin": "flyingtrinker_bell",
+      "Gesamt": "7",
+      "Gewonnen": "3",
+      "Verloren": "4",
+      "PunkteGewonnen": "390",
+      "PunkteVerloren": "450",
+      "HoechsterSieg": "220",
+      "HoechsteNiederlage": "200"
+    },
+    {
       "UserName": "GrinchiSC",
       "UserLogin": "grinchisc",
       "Gesamt": "7",
@@ -73,17 +84,6 @@
       "PunkteVerloren": "30000",
       "HoechsterSieg": "15000",
       "HoechsteNiederlage": "15000"
-    },
-    {
-      "UserName": "FlyingTrinker_Bell",
-      "UserLogin": "flyingtrinker_bell",
-      "Gesamt": "6",
-      "Gewonnen": "2",
-      "Verloren": "4",
-      "PunkteGewonnen": "170",
-      "PunkteVerloren": "450",
-      "HoechsterSieg": "110",
-      "HoechsteNiederlage": "200"
     },
     {
       "UserName": "91pitt91",
