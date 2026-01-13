@@ -139,7 +139,7 @@
     {
       "UserName": "FlyingTrinker_Bell",
       "UserLogin": "flyingtrinker_bell",
-      "Gold": "50220"
+      "Gold": "50440"
     },
     {
       "UserName": "Mantanismus",
@@ -149,11 +149,6 @@
     {
       "UserName": "Whatsnew0101",
       "UserLogin": "whatsnew0101",
-      "Gold": "50000"
-    },
-    {
-      "UserName": "chrabby_",
-      "UserLogin": "chrabby_",
       "Gold": "50000"
     },
     {
@@ -175,6 +170,11 @@
       "UserName": "82Shinigami",
       "UserLogin": "82shinigami",
       "Gold": "50000"
+    },
+    {
+      "UserName": "chrabby_",
+      "UserLogin": "chrabby_",
+      "Gold": "49000"
     },
     {
       "UserName": "SrA86",
@@ -249,7 +249,7 @@
     {
       "UserName": "saddi_86",
       "UserLogin": "saddi_86",
-      "Gold": "820"
+      "Gold": "821"
     },
     {
       "UserName": "only_TK",
