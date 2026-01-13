@@ -22,14 +22,14 @@
       "Gold": "376000"
     },
     {
+      "UserName": "J3loodyFe4r",
+      "UserLogin": "j3loodyfe4r",
+      "Gold": "325499"
+    },
+    {
       "UserName": "kensg0908",
       "UserLogin": "kensg0908",
       "Gold": "313500"
-    },
-    {
-      "UserName": "J3loodyFe4r",
-      "UserLogin": "j3loodyfe4r",
-      "Gold": "275499"
     },
     {
       "UserName": "Daniel__1976",
@@ -107,11 +107,6 @@
       "Gold": "96500"
     },
     {
-      "UserName": "chrabby_",
-      "UserLogin": "chrabby_",
-      "Gold": "75000"
-    },
-    {
       "UserName": "palone",
       "UserLogin": "palone",
       "Gold": "66000"
@@ -144,7 +139,7 @@
     {
       "UserName": "FlyingTrinker_Bell",
       "UserLogin": "flyingtrinker_bell",
-      "Gold": "50410"
+      "Gold": "50220"
     },
     {
       "UserName": "Mantanismus",
@@ -154,6 +149,11 @@
     {
       "UserName": "Whatsnew0101",
       "UserLogin": "whatsnew0101",
+      "Gold": "50000"
+    },
+    {
+      "UserName": "chrabby_",
+      "UserLogin": "chrabby_",
       "Gold": "50000"
     },
     {
@@ -175,11 +175,6 @@
       "UserName": "82Shinigami",
       "UserLogin": "82shinigami",
       "Gold": "50000"
-    },
-    {
-      "UserName": "bloodycruel",
-      "UserLogin": "bloodycruel",
-      "Gold": "49900"
     },
     {
       "UserName": "SrA86",
@@ -254,7 +249,7 @@
     {
       "UserName": "saddi_86",
       "UserLogin": "saddi_86",
-      "Gold": "573"
+      "Gold": "820"
     },
     {
       "UserName": "only_TK",
@@ -290,6 +285,11 @@
       "UserName": "doedchen",
       "UserLogin": "doedchen",
       "Gold": "500"
+    },
+    {
+      "UserName": "bloodycruel",
+      "UserLogin": "bloodycruel",
+      "Gold": "0"
     },
     {
       "UserName": "Shendrasil",
