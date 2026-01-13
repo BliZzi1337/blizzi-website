@@ -42,6 +42,17 @@
   },
   "data": [
     {
+      "UserName": "saddi_86",
+      "UserLogin": "saddi_86",
+      "Gesamt": "15",
+      "Gewonnen": "6",
+      "Verloren": "9",
+      "PunkteGewonnen": "390",
+      "PunkteVerloren": "137",
+      "HoechsterSieg": "250",
+      "HoechsteNiederlage": "100"
+    },
+    {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
       "Gesamt": "8",
@@ -64,15 +75,15 @@
       "HoechsteNiederlage": "15000"
     },
     {
-      "UserName": "saddi_86",
-      "UserLogin": "saddi_86",
+      "UserName": "FlyingTrinker_Bell",
+      "UserLogin": "flyingtrinker_bell",
       "Gesamt": "6",
       "Gewonnen": "2",
       "Verloren": "4",
-      "PunkteGewonnen": "13",
-      "PunkteVerloren": "32",
-      "HoechsterSieg": "10",
-      "HoechsteNiederlage": "25"
+      "PunkteGewonnen": "170",
+      "PunkteVerloren": "450",
+      "HoechsterSieg": "110",
+      "HoechsteNiederlage": "200"
     },
     {
       "UserName": "91pitt91",
@@ -141,17 +152,6 @@
       "HoechsteNiederlage": "25000"
     },
     {
-      "UserName": "FlyingTrinker_Bell",
-      "UserLogin": "flyingtrinker_bell",
-      "Gesamt": "3",
-      "Gewonnen": "1",
-      "Verloren": "2",
-      "PunkteGewonnen": "60",
-      "PunkteVerloren": "150",
-      "HoechsterSieg": "60",
-      "HoechsteNiederlage": "100"
-    },
-    {
       "UserName": "x_kinglouie_x",
       "UserLogin": "x_kinglouie_x",
       "Gesamt": "3",
@@ -196,6 +196,17 @@
       "HoechsteNiederlage": "25000"
     },
     {
+      "UserName": "bloodycruel",
+      "UserLogin": "bloodycruel",
+      "Gesamt": "2",
+      "Gewonnen": "0",
+      "Verloren": "2",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "50000",
+      "HoechsterSieg": "0",
+      "HoechsteNiederlage": "49900"
+    },
+    {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
       "Gesamt": "2",
@@ -218,15 +229,15 @@
       "HoechsteNiederlage": "2500"
     },
     {
-      "UserName": "bloodycruel",
-      "UserLogin": "bloodycruel",
-      "Gesamt": "1",
-      "Gewonnen": "0",
+      "UserName": "chrabby_",
+      "UserLogin": "chrabby_",
+      "Gesamt": "2",
+      "Gewonnen": "1",
       "Verloren": "1",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "100",
-      "HoechsterSieg": "0",
-      "HoechsteNiederlage": "100"
+      "PunkteGewonnen": "25000",
+      "PunkteVerloren": "25000",
+      "HoechsterSieg": "25000",
+      "HoechsteNiederlage": "25000"
     },
     {
       "UserName": "rina_deepy",
@@ -237,17 +248,6 @@
       "PunkteGewonnen": "3333",
       "PunkteVerloren": "0",
       "HoechsterSieg": "3333",
-      "HoechsteNiederlage": "0"
-    },
-    {
-      "UserName": "chrabby_",
-      "UserLogin": "chrabby_",
-      "Gesamt": "1",
-      "Gewonnen": "1",
-      "Verloren": "0",
-      "PunkteGewonnen": "25000",
-      "PunkteVerloren": "0",
-      "HoechsterSieg": "25000",
       "HoechsteNiederlage": "0"
     },
     {
