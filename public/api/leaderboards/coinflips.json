@@ -44,13 +44,24 @@
     {
       "UserName": "saddi_86",
       "UserLogin": "saddi_86",
-      "Gesamt": "16",
-      "Gewonnen": "7",
-      "Verloren": "9",
-      "PunkteGewonnen": "391",
-      "PunkteVerloren": "137",
+      "Gesamt": "18",
+      "Gewonnen": "8",
+      "Verloren": "10",
+      "PunkteGewonnen": "393",
+      "PunkteVerloren": "138",
       "HoechsterSieg": "250",
       "HoechsteNiederlage": "100"
+    },
+    {
+      "UserName": "FlyingTrinker_Bell",
+      "UserLogin": "flyingtrinker_bell",
+      "Gesamt": "9",
+      "Gewonnen": "3",
+      "Verloren": "6",
+      "PunkteGewonnen": "390",
+      "PunkteVerloren": "890",
+      "HoechsterSieg": "220",
+      "HoechsteNiederlage": "400"
     },
     {
       "UserName": "xph1lo",
@@ -62,17 +73,6 @@
       "PunkteVerloren": "87500",
       "HoechsterSieg": "25000",
       "HoechsteNiederlage": "41500"
-    },
-    {
-      "UserName": "FlyingTrinker_Bell",
-      "UserLogin": "flyingtrinker_bell",
-      "Gesamt": "7",
-      "Gewonnen": "3",
-      "Verloren": "4",
-      "PunkteGewonnen": "390",
-      "PunkteVerloren": "450",
-      "HoechsterSieg": "220",
-      "HoechsteNiederlage": "200"
     },
     {
       "UserName": "GrinchiSC",
@@ -108,6 +108,17 @@
       "HoechsteNiederlage": "25000"
     },
     {
+      "UserName": "Skytecc",
+      "UserLogin": "skytecc",
+      "Gesamt": "5",
+      "Gewonnen": "3",
+      "Verloren": "2",
+      "PunkteGewonnen": "75000",
+      "PunkteVerloren": "75000",
+      "HoechsterSieg": "25000",
+      "HoechsteNiederlage": "50000"
+    },
+    {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
       "Gesamt": "5",
@@ -137,17 +148,6 @@
       "Verloren": "2",
       "PunkteGewonnen": "50000",
       "PunkteVerloren": "50000",
-      "HoechsterSieg": "25000",
-      "HoechsteNiederlage": "25000"
-    },
-    {
-      "UserName": "Skytecc",
-      "UserLogin": "skytecc",
-      "Gesamt": "4",
-      "Gewonnen": "3",
-      "Verloren": "1",
-      "PunkteGewonnen": "75000",
-      "PunkteVerloren": "25000",
       "HoechsterSieg": "25000",
       "HoechsteNiederlage": "25000"
     },
