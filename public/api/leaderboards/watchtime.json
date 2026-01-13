@@ -38,7 +38,7 @@
       "Wochen": 6,
       "Tage": 47,
       "Stunden": 1132,
-      "WatchtimeSek": 4077960
+      "WatchtimeSek": 4078260
     },
     {
       "UserName": "SrA86",
@@ -55,8 +55,8 @@
       "Monate": 1,
       "Wochen": 5,
       "Tage": 35,
-      "Stunden": 849,
-      "WatchtimeSek": 3059820
+      "Stunden": 850,
+      "WatchtimeSek": 3060120
     },
     {
       "UserName": "ToxicMonsti",
@@ -74,7 +74,7 @@
       "Wochen": 3,
       "Tage": 22,
       "Stunden": 548,
-      "WatchtimeSek": 1974240
+      "WatchtimeSek": 1974540
     },
     {
       "UserName": "Pandavii_",
@@ -200,7 +200,7 @@
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 49,
-      "WatchtimeSek": 178800
+      "WatchtimeSek": 179100
     },
     {
       "UserName": "bloodycruel",
@@ -218,7 +218,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 47,
-      "WatchtimeSek": 170100
+      "WatchtimeSek": 170400
     },
     {
       "UserName": "CallMeAdrk",
@@ -290,7 +290,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 34,
-      "WatchtimeSek": 123600
+      "WatchtimeSek": 123900
     },
     {
       "UserName": "Shendrasil",
@@ -326,7 +326,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 30,
-      "WatchtimeSek": 108600
+      "WatchtimeSek": 108900
     },
     {
       "UserName": "kensg0908",
@@ -371,7 +371,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 22,
-      "WatchtimeSek": 81300
+      "WatchtimeSek": 81600
     },
     {
       "UserName": "Daniel__1976",
@@ -2120,6 +2120,15 @@
       "WatchtimeSek": 1800
     },
     {
+      "UserName": "Brokken88",
+      "UserLogin": "brokken88",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 1800
+    },
+    {
       "UserName": "lockpower1996",
       "UserLogin": "lockpower1996",
       "Monate": 0,
@@ -2199,15 +2208,6 @@
       "Tage": 0,
       "Stunden": 0,
       "WatchtimeSek": 1800
-    },
-    {
-      "UserName": "Brokken88",
-      "UserLogin": "brokken88",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 1500
     },
     {
       "UserName": "vetownvetown",
@@ -3119,6 +3119,15 @@
       "WatchtimeSek": 600
     },
     {
+      "UserName": "daddel_dennis",
+      "UserLogin": "daddel_dennis",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 600
+    },
+    {
       "UserName": "Mandaria24",
       "UserLogin": "mandaria24",
       "Monate": 0,
@@ -3821,6 +3830,15 @@
       "WatchtimeSek": 300
     },
     {
+      "UserName": "KETZGAR",
+      "UserLogin": "ketzgar",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 300
+    },
+    {
       "UserName": "fascinatedmaho",
       "UserLogin": "fascinatedmaho",
       "Monate": 0,
@@ -4327,15 +4345,6 @@
     {
       "UserName": "Sandmanndi",
       "UserLogin": "sandmanndi",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 300
-    },
-    {
-      "UserName": "daddel_dennis",
-      "UserLogin": "daddel_dennis",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
