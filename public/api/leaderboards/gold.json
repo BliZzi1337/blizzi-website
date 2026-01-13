@@ -102,11 +102,6 @@
       "Gold": "97500"
     },
     {
-      "UserName": "Skytecc",
-      "UserLogin": "skytecc",
-      "Gold": "96500"
-    },
-    {
       "UserName": "palone",
       "UserLogin": "palone",
       "Gold": "66000"
@@ -139,7 +134,7 @@
     {
       "UserName": "FlyingTrinker_Bell",
       "UserLogin": "flyingtrinker_bell",
-      "Gold": "50440"
+      "Gold": "50000"
     },
     {
       "UserName": "Mantanismus",
@@ -175,6 +170,11 @@
       "UserName": "chrabby_",
       "UserLogin": "chrabby_",
       "Gold": "49000"
+    },
+    {
+      "UserName": "Skytecc",
+      "UserLogin": "skytecc",
+      "Gold": "46500"
     },
     {
       "UserName": "SrA86",
@@ -254,7 +254,7 @@
     {
       "UserName": "saddi_86",
       "UserLogin": "saddi_86",
-      "Gold": "821"
+      "Gold": "822"
     },
     {
       "UserName": "only_TK",
