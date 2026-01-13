@@ -38,7 +38,7 @@
       "Wochen": 6,
       "Tage": 47,
       "Stunden": 1132,
-      "WatchtimeSek": 4078260
+      "WatchtimeSek": 4078560
     },
     {
       "UserName": "SrA86",
@@ -56,7 +56,7 @@
       "Wochen": 5,
       "Tage": 35,
       "Stunden": 850,
-      "WatchtimeSek": 3060120
+      "WatchtimeSek": 3060420
     },
     {
       "UserName": "ToxicMonsti",
@@ -74,7 +74,7 @@
       "Wochen": 3,
       "Tage": 22,
       "Stunden": 548,
-      "WatchtimeSek": 1974540
+      "WatchtimeSek": 1974840
     },
     {
       "UserName": "Pandavii_",
@@ -146,7 +146,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 148,
-      "WatchtimeSek": 534600
+      "WatchtimeSek": 534900
     },
     {
       "UserName": "Skytecc",
@@ -167,6 +167,15 @@
       "WatchtimeSek": 295800
     },
     {
+      "UserName": "lucky_luki95",
+      "UserLogin": "lucky_luki95",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 3,
+      "Stunden": 77,
+      "WatchtimeSek": 280560
+    },
+    {
       "UserName": "saddi_86",
       "UserLogin": "saddi_86",
       "Monate": 0,
@@ -185,8 +194,8 @@
       "WatchtimeSek": 200100
     },
     {
-      "UserName": "chrabby_",
-      "UserLogin": "chrabby_",
+      "UserName": "only_TK",
+      "UserLogin": "only_tk",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 2,
@@ -194,13 +203,13 @@
       "WatchtimeSek": 179400
     },
     {
-      "UserName": "only_TK",
-      "UserLogin": "only_tk",
+      "UserName": "chrabby_",
+      "UserLogin": "chrabby_",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 49,
-      "WatchtimeSek": 179100
+      "WatchtimeSek": 179400
     },
     {
       "UserName": "bloodycruel",
@@ -218,7 +227,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 47,
-      "WatchtimeSek": 170400
+      "WatchtimeSek": 170700
     },
     {
       "UserName": "CallMeAdrk",
@@ -284,15 +293,6 @@
       "WatchtimeSek": 124200
     },
     {
-      "UserName": "lucky_luki95",
-      "UserLogin": "lucky_luki95",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 1,
-      "Stunden": 34,
-      "WatchtimeSek": 123900
-    },
-    {
       "UserName": "Shendrasil",
       "UserLogin": "shendrasil",
       "Monate": 0,
@@ -326,7 +326,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 30,
-      "WatchtimeSek": 108900
+      "WatchtimeSek": 109200
     },
     {
       "UserName": "kensg0908",
@@ -371,7 +371,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 22,
-      "WatchtimeSek": 81600
+      "WatchtimeSek": 81900
     },
     {
       "UserName": "Daniel__1976",
@@ -416,7 +416,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 18,
-      "WatchtimeSek": 66000
+      "WatchtimeSek": 66300
     },
     {
       "UserName": "miss_divinestorm",
@@ -2543,6 +2543,15 @@
       "WatchtimeSek": 900
     },
     {
+      "UserName": "chillerdood",
+      "UserLogin": "chillerdood",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 900
+    },
+    {
       "UserName": "nael1990",
       "UserLogin": "nael1990",
       "Monate": 0,
@@ -2671,6 +2680,15 @@
     {
       "UserName": "N4xR3d",
       "UserLogin": "n4xr3d",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 900
+    },
+    {
+      "UserName": "daddel_dennis",
+      "UserLogin": "daddel_dennis",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -2912,15 +2930,6 @@
       "WatchtimeSek": 600
     },
     {
-      "UserName": "chillerdood",
-      "UserLogin": "chillerdood",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 600
-    },
-    {
       "UserName": "isuliax",
       "UserLogin": "isuliax",
       "Monate": 0,
@@ -3112,15 +3121,6 @@
     {
       "UserName": "stani696",
       "UserLogin": "stani696",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 600
-    },
-    {
-      "UserName": "daddel_dennis",
-      "UserLogin": "daddel_dennis",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
