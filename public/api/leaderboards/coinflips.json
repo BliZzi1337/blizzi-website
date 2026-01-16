@@ -42,6 +42,17 @@
   },
   "data": [
     {
+      "UserName": "91pitt91",
+      "UserLogin": "91pitt91",
+      "Gesamt": "41",
+      "Gewonnen": "16",
+      "Verloren": "25",
+      "PunkteGewonnen": "28890",
+      "PunkteVerloren": "30610",
+      "HoechsterSieg": "9000",
+      "HoechsteNiederlage": "6000"
+    },
+    {
       "UserName": "saddi_86",
       "UserLogin": "saddi_86",
       "Gesamt": "21",
@@ -128,17 +139,6 @@
       "PunkteVerloren": "100000",
       "HoechsterSieg": "50000",
       "HoechsteNiederlage": "50000"
-    },
-    {
-      "UserName": "91pitt91",
-      "UserLogin": "91pitt91",
-      "Gesamt": "5",
-      "Gewonnen": "2",
-      "Verloren": "3",
-      "PunkteGewonnen": "3500",
-      "PunkteVerloren": "6000",
-      "HoechsterSieg": "2500",
-      "HoechsteNiederlage": "3000"
     },
     {
       "UserName": "Jenny_Eleyna",
