@@ -34,11 +34,20 @@
     {
       "UserName": "x_kinglouie_x",
       "UserLogin": "x_kinglouie_x",
-      "Gesamt": "1",
-      "Gewonnen": "0",
+      "Gesamt": "5",
+      "Gewonnen": "1",
+      "Verloren": "3",
+      "PunkteGewonnen": "25000",
+      "PunkteVerloren": "40000"
+    },
+    {
+      "UserName": "91pitt91",
+      "UserLogin": "91pitt91",
+      "Gesamt": "4",
+      "Gewonnen": "2",
       "Verloren": "1",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "20000"
+      "PunkteGewonnen": "20000",
+      "PunkteVerloren": "25000"
     },
     {
       "UserName": "xph1lo",
