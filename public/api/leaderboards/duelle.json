@@ -32,31 +32,40 @@
   },
   "data": [
     {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gesamt": "22",
+      "Gewonnen": "11",
+      "Verloren": "11",
+      "PunkteGewonnen": "154740",
+      "PunkteVerloren": "179800"
+    },
+    {
       "UserName": "x_kinglouie_x",
       "UserLogin": "x_kinglouie_x",
-      "Gesamt": "11",
-      "Gewonnen": "4",
-      "Verloren": "5",
-      "PunkteGewonnen": "103000",
-      "PunkteVerloren": "75000"
+      "Gesamt": "21",
+      "Gewonnen": "10",
+      "Verloren": "9",
+      "PunkteGewonnen": "256400",
+      "PunkteVerloren": "159100"
     },
     {
       "UserName": "91pitt91",
       "UserLogin": "91pitt91",
-      "Gesamt": "10",
-      "Gewonnen": "4",
-      "Verloren": "4",
-      "PunkteGewonnen": "55000",
-      "PunkteVerloren": "93000"
+      "Gesamt": "21",
+      "Gewonnen": "9",
+      "Verloren": "10",
+      "PunkteGewonnen": "81720",
+      "PunkteVerloren": "162640"
     },
     {
-      "UserName": "xph1lo",
-      "UserLogin": "xph1lo",
+      "UserName": "SrH_x",
+      "UserLogin": "srh_x",
       "Gesamt": "3",
-      "Gewonnen": "2",
-      "Verloren": "1",
-      "PunkteGewonnen": "11000",
-      "PunkteVerloren": "20000"
+      "Gewonnen": "1",
+      "Verloren": "2",
+      "PunkteGewonnen": "10000",
+      "PunkteVerloren": "21320"
     },
     {
       "UserName": "SrA86",
@@ -66,15 +75,6 @@
       "Verloren": "0",
       "PunkteGewonnen": "20000",
       "PunkteVerloren": "0"
-    },
-    {
-      "UserName": "SrH_x",
-      "UserLogin": "srh_x",
-      "Gesamt": "1",
-      "Gewonnen": "0",
-      "Verloren": "1",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "1000"
     }
   ]
 }
