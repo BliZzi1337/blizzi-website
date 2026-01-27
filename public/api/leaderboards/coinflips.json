@@ -44,11 +44,11 @@
     {
       "UserName": "91pitt91",
       "UserLogin": "91pitt91",
-      "Gesamt": "92",
-      "Gewonnen": "33",
-      "Verloren": "59",
-      "PunkteGewonnen": "88010",
-      "PunkteVerloren": "136590",
+      "Gesamt": "97",
+      "Gewonnen": "34",
+      "Verloren": "63",
+      "PunkteGewonnen": "88210",
+      "PunkteVerloren": "139290",
       "HoechsterSieg": "20000",
       "HoechsteNiederlage": "20000"
     },
@@ -66,11 +66,11 @@
     {
       "UserName": "Skytecc",
       "UserLogin": "skytecc",
-      "Gesamt": "23",
-      "Gewonnen": "11",
-      "Verloren": "12",
-      "PunkteGewonnen": "166000",
-      "PunkteVerloren": "225000",
+      "Gesamt": "25",
+      "Gewonnen": "12",
+      "Verloren": "13",
+      "PunkteGewonnen": "180000",
+      "PunkteVerloren": "235000",
       "HoechsterSieg": "25000",
       "HoechsteNiederlage": "50000"
     },
@@ -99,12 +99,12 @@
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Gesamt": "13",
-      "Gewonnen": "4",
+      "Gesamt": "14",
+      "Gewonnen": "5",
       "Verloren": "9",
-      "PunkteGewonnen": "100000",
+      "PunkteGewonnen": "150000",
       "PunkteVerloren": "225000",
-      "HoechsterSieg": "25000",
+      "HoechsterSieg": "50000",
       "HoechsteNiederlage": "25000"
     },
     {
@@ -152,6 +152,17 @@
       "HoechsteNiederlage": "30000"
     },
     {
+      "UserName": "x_kinglouie_x",
+      "UserLogin": "x_kinglouie_x",
+      "Gesamt": "10",
+      "Gewonnen": "3",
+      "Verloren": "7",
+      "PunkteGewonnen": "150000",
+      "PunkteVerloren": "300240",
+      "HoechsterSieg": "50000",
+      "HoechsteNiederlage": "50000"
+    },
+    {
       "UserName": "FlyingTrinker_Bell",
       "UserLogin": "flyingtrinker_bell",
       "Gesamt": "9",
@@ -161,17 +172,6 @@
       "PunkteVerloren": "890",
       "HoechsterSieg": "220",
       "HoechsteNiederlage": "400"
-    },
-    {
-      "UserName": "x_kinglouie_x",
-      "UserLogin": "x_kinglouie_x",
-      "Gesamt": "9",
-      "Gewonnen": "3",
-      "Verloren": "6",
-      "PunkteGewonnen": "150000",
-      "PunkteVerloren": "300000",
-      "HoechsterSieg": "50000",
-      "HoechsteNiederlage": "50000"
     },
     {
       "UserName": "chrabby_",
