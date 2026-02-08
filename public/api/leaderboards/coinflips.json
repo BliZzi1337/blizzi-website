@@ -108,6 +108,17 @@
       "HoechsteNiederlage": "25000"
     },
     {
+      "UserName": "xfalk1337",
+      "UserLogin": "xfalk1337",
+      "Gesamt": "17",
+      "Gewonnen": "5",
+      "Verloren": "12",
+      "PunkteGewonnen": "4750",
+      "PunkteVerloren": "6750",
+      "HoechsterSieg": "2500",
+      "HoechsteNiederlage": "1412"
+    },
+    {
       "UserName": "J3loodyFe4r",
       "UserLogin": "j3loodyfe4r",
       "Gesamt": "17",
@@ -205,17 +216,6 @@
       "PunkteVerloren": "85000",
       "HoechsterSieg": "50000",
       "HoechsteNiederlage": "50000"
-    },
-    {
-      "UserName": "xfalk1337",
-      "UserLogin": "xfalk1337",
-      "Gesamt": "4",
-      "Gewonnen": "0",
-      "Verloren": "4",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "1877",
-      "HoechsterSieg": "0",
-      "HoechsteNiederlage": "777"
     },
     {
       "UserName": "duese19931",
