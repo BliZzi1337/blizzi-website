@@ -44,11 +44,11 @@
     {
       "UserName": "91pitt91",
       "UserLogin": "91pitt91",
-      "Gesamt": "143",
-      "Gewonnen": "55",
-      "Verloren": "88",
-      "PunkteGewonnen": "143110",
-      "PunkteVerloren": "234090",
+      "Gesamt": "148",
+      "Gewonnen": "56",
+      "Verloren": "92",
+      "PunkteGewonnen": "143310",
+      "PunkteVerloren": "272590",
       "HoechsterSieg": "20000",
       "HoechsteNiederlage": "25000"
     },
@@ -66,44 +66,44 @@
     {
       "UserName": "Skytecc",
       "UserLogin": "skytecc",
-      "Gesamt": "35",
+      "Gesamt": "37",
       "Gewonnen": "19",
-      "Verloren": "16",
+      "Verloren": "18",
       "PunkteGewonnen": "356000",
-      "PunkteVerloren": "310000",
+      "PunkteVerloren": "360000",
       "HoechsterSieg": "26000",
       "HoechsteNiederlage": "50000"
     },
     {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
-      "Gesamt": "28",
+      "Gesamt": "29",
       "Gewonnen": "6",
-      "Verloren": "22",
+      "Verloren": "23",
       "PunkteGewonnen": "102000",
-      "PunkteVerloren": "340001",
+      "PunkteVerloren": "370001",
       "HoechsterSieg": "25000",
       "HoechsteNiederlage": "50000"
     },
     {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
-      "Gesamt": "25",
+      "Gesamt": "27",
       "Gewonnen": "11",
-      "Verloren": "14",
+      "Verloren": "16",
       "PunkteGewonnen": "300000",
-      "PunkteVerloren": "350000",
+      "PunkteVerloren": "400000",
       "HoechsterSieg": "50000",
       "HoechsteNiederlage": "25000"
     },
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Gesamt": "22",
-      "Gewonnen": "12",
-      "Verloren": "10",
-      "PunkteGewonnen": "310000",
-      "PunkteVerloren": "250000",
+      "Gesamt": "24",
+      "Gewonnen": "13",
+      "Verloren": "11",
+      "PunkteGewonnen": "335000",
+      "PunkteVerloren": "275000",
       "HoechsterSieg": "50000",
       "HoechsteNiederlage": "25000"
     },
@@ -176,10 +176,10 @@
     {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
-      "Gesamt": "10",
-      "Gewonnen": "3",
+      "Gesamt": "11",
+      "Gewonnen": "4",
       "Verloren": "7",
-      "PunkteGewonnen": "150000",
+      "PunkteGewonnen": "200000",
       "PunkteVerloren": "270500",
       "HoechsterSieg": "50000",
       "HoechsteNiederlage": "50000"
@@ -251,6 +251,17 @@
       "HoechsteNiederlage": "49900"
     },
     {
+      "UserName": "Mantanismus",
+      "UserLogin": "mantanismus",
+      "Gesamt": "2",
+      "Gewonnen": "0",
+      "Verloren": "2",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "100000",
+      "HoechsterSieg": "0",
+      "HoechsteNiederlage": "50000"
+    },
+    {
       "UserName": "tamiiina",
       "UserLogin": "tamiiina",
       "Gesamt": "2",
@@ -273,6 +284,17 @@
       "HoechsteNiederlage": "0"
     },
     {
+      "UserName": "xDarkNiiqht",
+      "UserLogin": "xdarkniiqht",
+      "Gesamt": "2",
+      "Gewonnen": "1",
+      "Verloren": "1",
+      "PunkteGewonnen": "2500",
+      "PunkteVerloren": "10000",
+      "HoechsterSieg": "2500",
+      "HoechsteNiederlage": "10000"
+    },
+    {
       "UserName": "rina_deepy",
       "UserLogin": "rina_deepy",
       "Gesamt": "1",
@@ -284,17 +306,6 @@
       "HoechsteNiederlage": "0"
     },
     {
-      "UserName": "Mantanismus",
-      "UserLogin": "mantanismus",
-      "Gesamt": "1",
-      "Gewonnen": "0",
-      "Verloren": "1",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "50000",
-      "HoechsterSieg": "0",
-      "HoechsteNiederlage": "50000"
-    },
-    {
       "UserName": "82Shinigami",
       "UserLogin": "82shinigami",
       "Gesamt": "1",
@@ -304,17 +315,6 @@
       "PunkteVerloren": "25000",
       "HoechsterSieg": "0",
       "HoechsteNiederlage": "25000"
-    },
-    {
-      "UserName": "xDarkNiiqht",
-      "UserLogin": "xdarkniiqht",
-      "Gesamt": "1",
-      "Gewonnen": "0",
-      "Verloren": "1",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "10000",
-      "HoechsterSieg": "0",
-      "HoechsteNiederlage": "10000"
     },
     {
       "UserName": "Panu_No1",
