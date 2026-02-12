@@ -61,11 +61,29 @@
     {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
-      "Gesamt": "6",
-      "Gewonnen": "3",
+      "Gesamt": "7",
+      "Gewonnen": "4",
       "Verloren": "3",
-      "PunkteGewonnen": "35200",
+      "PunkteGewonnen": "45200",
       "PunkteVerloren": "62220"
+    },
+    {
+      "UserName": "SrA86",
+      "UserLogin": "sra86",
+      "Gesamt": "2",
+      "Gewonnen": "1",
+      "Verloren": "1",
+      "PunkteGewonnen": "20000",
+      "PunkteVerloren": "5"
+    },
+    {
+      "UserName": "saddi_86",
+      "UserLogin": "saddi_86",
+      "Gesamt": "1",
+      "Gewonnen": "1",
+      "Verloren": "0",
+      "PunkteGewonnen": "5",
+      "PunkteVerloren": "0"
     },
     {
       "UserName": "BliZzi1337",
@@ -86,13 +104,13 @@
       "PunkteVerloren": "5000"
     },
     {
-      "UserName": "SrA86",
-      "UserLogin": "sra86",
+      "UserName": "Skytecc",
+      "UserLogin": "skytecc",
       "Gesamt": "1",
-      "Gewonnen": "1",
-      "Verloren": "0",
-      "PunkteGewonnen": "20000",
-      "PunkteVerloren": "0"
+      "Gewonnen": "0",
+      "Verloren": "1",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "10000"
     }
   ]
 }
