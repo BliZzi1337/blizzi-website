@@ -19,12 +19,12 @@
       },
       {
         "key": "PunkteGewonnen",
-        "label": "Punkte Gewonnen",
+        "label": "Gold Gewonnen",
         "format": "number"
       },
       {
         "key": "PunkteVerloren",
-        "label": "Punkte Verloren",
+        "label": "Gold Verloren",
         "format": "number"
       }
     ],
