@@ -38,7 +38,7 @@
       "Wochen": 7,
       "Tage": 50,
       "Stunden": 1211,
-      "WatchtimeSek": 4360860
+      "WatchtimeSek": 4361460
     },
     {
       "UserName": "SrA86",
@@ -47,7 +47,7 @@
       "Wochen": 5,
       "Tage": 39,
       "Stunden": 955,
-      "WatchtimeSek": 3438360
+      "WatchtimeSek": 3438960
     },
     {
       "UserName": "Jenny_Eleyna",
@@ -65,7 +65,7 @@
       "Wochen": 4,
       "Tage": 33,
       "Stunden": 803,
-      "WatchtimeSek": 2892720
+      "WatchtimeSek": 2893320
     },
     {
       "UserName": "ruuuuby",
@@ -92,7 +92,7 @@
       "Wochen": 2,
       "Tage": 19,
       "Stunden": 456,
-      "WatchtimeSek": 1642560
+      "WatchtimeSek": 1643160
     },
     {
       "UserName": "schmidiiii",
@@ -110,7 +110,7 @@
       "Wochen": 1,
       "Tage": 13,
       "Stunden": 315,
-      "WatchtimeSek": 1136040
+      "WatchtimeSek": 1136640
     },
     {
       "UserName": "xph1lo",
@@ -119,7 +119,7 @@
       "Wochen": 1,
       "Tage": 10,
       "Stunden": 257,
-      "WatchtimeSek": 925980
+      "WatchtimeSek": 926580
     },
     {
       "UserName": "GrinchiSC",
@@ -128,7 +128,7 @@
       "Wochen": 1,
       "Tage": 8,
       "Stunden": 196,
-      "WatchtimeSek": 706380
+      "WatchtimeSek": 706980
     },
     {
       "UserName": "rivorium",
@@ -155,7 +155,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 147,
-      "WatchtimeSek": 531120
+      "WatchtimeSek": 531720
     },
     {
       "UserName": "x_kinglouie_x",
@@ -164,7 +164,7 @@
       "Wochen": 0,
       "Tage": 5,
       "Stunden": 137,
-      "WatchtimeSek": 493500
+      "WatchtimeSek": 494100
     },
     {
       "UserName": "saddi_86",
@@ -182,7 +182,7 @@
       "Wochen": 0,
       "Tage": 5,
       "Stunden": 128,
-      "WatchtimeSek": 461400
+      "WatchtimeSek": 462000
     },
     {
       "UserName": "only_TK",
@@ -200,7 +200,7 @@
       "Wochen": 0,
       "Tage": 4,
       "Stunden": 98,
-      "WatchtimeSek": 355500
+      "WatchtimeSek": 356100
     },
     {
       "UserName": "lucky_luki95",
@@ -218,7 +218,7 @@
       "Wochen": 0,
       "Tage": 3,
       "Stunden": 74,
-      "WatchtimeSek": 268500
+      "WatchtimeSek": 269100
     },
     {
       "UserName": "Shendrasil",
@@ -227,7 +227,7 @@
       "Wochen": 0,
       "Tage": 3,
       "Stunden": 73,
-      "WatchtimeSek": 264000
+      "WatchtimeSek": 264600
     },
     {
       "UserName": "chrabby_",
@@ -253,8 +253,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 2,
-      "Stunden": 58,
-      "WatchtimeSek": 211900
+      "Stunden": 59,
+      "WatchtimeSek": 212500
     },
     {
       "UserName": "Ahriman1234",
@@ -353,7 +353,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 41,
-      "WatchtimeSek": 150300
+      "WatchtimeSek": 150900
     },
     {
       "UserName": "kensg0908",
@@ -398,7 +398,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 34,
-      "WatchtimeSek": 123300
+      "WatchtimeSek": 123900
     },
     {
       "UserName": "snoweye_",
@@ -407,7 +407,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 33,
-      "WatchtimeSek": 121500
+      "WatchtimeSek": 122100
     },
     {
       "UserName": "aryaa_qt",
@@ -452,7 +452,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 24,
-      "WatchtimeSek": 88800
+      "WatchtimeSek": 89100
     },
     {
       "UserName": "miss_divinestorm",
@@ -1211,6 +1211,15 @@
       "WatchtimeSek": 10500
     },
     {
+      "UserName": "OttenTV_",
+      "UserLogin": "ottentv_",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 2,
+      "WatchtimeSek": 10500
+    },
+    {
       "UserName": "xLinguPingu",
       "UserLogin": "xlingupingu",
       "Monate": 0,
@@ -1240,15 +1249,6 @@
     {
       "UserName": "krokoklaus",
       "UserLogin": "krokoklaus",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 2,
-      "WatchtimeSek": 9900
-    },
-    {
-      "UserName": "OttenTV_",
-      "UserLogin": "ottentv_",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
