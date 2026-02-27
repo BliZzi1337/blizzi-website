@@ -194,6 +194,15 @@
       "PunkteVerloren": "4000"
     },
     {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
+      "Gesamt": "2",
+      "Gewonnen": "1",
+      "Verloren": "1",
+      "PunkteGewonnen": "1000",
+      "PunkteVerloren": "2000"
+    },
+    {
       "UserName": "tamiiina",
       "UserLogin": "tamiiina",
       "Gesamt": "2",
@@ -210,6 +219,15 @@
       "Verloren": "2",
       "PunkteGewonnen": "0",
       "PunkteVerloren": "50000"
+    },
+    {
+      "UserName": "frittenchef_",
+      "UserLogin": "frittenchef_",
+      "Gesamt": "2",
+      "Gewonnen": "0",
+      "Verloren": "2",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "49500"
     },
     {
       "UserName": "Mantanismus",
