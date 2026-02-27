@@ -25,13 +25,13 @@
     {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
-      "Gold": "652480",
+      "Gold": "601980",
       "Ausgezahlt": "0"
     },
     {
       "UserName": "J3loodyFe4r",
       "UserLogin": "j3loodyfe4r",
-      "Gold": "523499",
+      "Gold": "518499",
       "Ausgezahlt": "0"
     },
     {
@@ -311,12 +311,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "vanock_",
-      "UserLogin": "vanock_",
-      "Gold": "1000",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "CallMeAdrk",
       "UserLogin": "callmeadrk",
       "Gold": "1000",
@@ -353,6 +347,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
+      "Gold": "0",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "bloodycruel",
       "UserLogin": "bloodycruel",
       "Gold": "0",
@@ -369,6 +369,12 @@
       "UserLogin": "thule1291",
       "Gold": "0",
       "Ausgezahlt": "1"
+    },
+    {
+      "UserName": "frittenchef_",
+      "UserLogin": "frittenchef_",
+      "Gold": "0",
+      "Ausgezahlt": "0"
     },
     {
       "UserName": "Furizawa",
