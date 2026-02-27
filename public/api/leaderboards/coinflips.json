@@ -61,11 +61,20 @@
     {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
-      "Gesamt": "33",
+      "Gesamt": "34",
       "Gewonnen": "13",
-      "Verloren": "20",
+      "Verloren": "21",
       "PunkteGewonnen": "375000",
-      "PunkteVerloren": "525000"
+      "PunkteVerloren": "575000"
+    },
+    {
+      "UserName": "Jenny_Eleyna",
+      "UserLogin": "jenny_eleyna",
+      "Gesamt": "29",
+      "Gewonnen": "16",
+      "Verloren": "13",
+      "PunkteGewonnen": "410000",
+      "PunkteVerloren": "325000"
     },
     {
       "UserName": "xph1lo",
@@ -75,15 +84,6 @@
       "Verloren": "23",
       "PunkteGewonnen": "102000",
       "PunkteVerloren": "370001"
-    },
-    {
-      "UserName": "Jenny_Eleyna",
-      "UserLogin": "jenny_eleyna",
-      "Gesamt": "27",
-      "Gewonnen": "15",
-      "Verloren": "12",
-      "PunkteGewonnen": "385000",
-      "PunkteVerloren": "300000"
     },
     {
       "UserName": "xfalk1337",
