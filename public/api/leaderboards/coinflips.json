@@ -52,20 +52,20 @@
     {
       "UserName": "Skytecc",
       "UserLogin": "skytecc",
-      "Gesamt": "42",
-      "Gewonnen": "23",
+      "Gesamt": "43",
+      "Gewonnen": "24",
       "Verloren": "19",
-      "PunkteGewonnen": "483500",
+      "PunkteGewonnen": "533500",
       "PunkteVerloren": "382500"
     },
     {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
-      "Gesamt": "34",
+      "Gesamt": "35",
       "Gewonnen": "13",
-      "Verloren": "21",
+      "Verloren": "22",
       "PunkteGewonnen": "375000",
-      "PunkteVerloren": "575000"
+      "PunkteVerloren": "625000"
     },
     {
       "UserName": "xph1lo",
@@ -95,6 +95,15 @@
       "PunkteVerloren": "9027"
     },
     {
+      "UserName": "J3loodyFe4r",
+      "UserLogin": "j3loodyfe4r",
+      "Gesamt": "20",
+      "Gewonnen": "12",
+      "Verloren": "8",
+      "PunkteGewonnen": "350000",
+      "PunkteVerloren": "200000"
+    },
+    {
       "UserName": "SrA86",
       "UserLogin": "sra86",
       "Gesamt": "20",
@@ -102,15 +111,6 @@
       "Verloren": "13",
       "PunkteGewonnen": "70025",
       "PunkteVerloren": "212029"
-    },
-    {
-      "UserName": "J3loodyFe4r",
-      "UserLogin": "j3loodyfe4r",
-      "Gesamt": "19",
-      "Gewonnen": "11",
-      "Verloren": "8",
-      "PunkteGewonnen": "300000",
-      "PunkteVerloren": "200000"
     },
     {
       "UserName": "schmidiiii",
@@ -176,6 +176,15 @@
       "PunkteVerloren": "85000"
     },
     {
+      "UserName": "frittenchef_",
+      "UserLogin": "frittenchef_",
+      "Gesamt": "5",
+      "Gewonnen": "0",
+      "Verloren": "5",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "100000"
+    },
+    {
       "UserName": "duese19931",
       "UserLogin": "duese19931",
       "Gesamt": "3",
@@ -183,15 +192,6 @@
       "Verloren": "2",
       "PunkteGewonnen": "2000",
       "PunkteVerloren": "4000"
-    },
-    {
-      "UserName": "frittenchef_",
-      "UserLogin": "frittenchef_",
-      "Gesamt": "3",
-      "Gewonnen": "0",
-      "Verloren": "3",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "50000"
     },
     {
       "UserName": "spindi_86",
