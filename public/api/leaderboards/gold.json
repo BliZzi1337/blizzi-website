@@ -31,7 +31,7 @@
     {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
-      "Gold": "551980",
+      "Gold": "501980",
       "Ausgezahlt": "0"
     },
     {
@@ -123,6 +123,12 @@
       "UserLogin": "phil_aka_albi",
       "Gold": "108000",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gold": "100000",
+      "Ausgezahlt": "100000"
     },
     {
       "UserName": "palone",
@@ -393,12 +399,6 @@
       "UserLogin": "moonfeder4",
       "Gold": "0",
       "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "xph1lo",
-      "UserLogin": "xph1lo",
-      "Gold": "0",
-      "Ausgezahlt": "100000"
     },
     {
       "UserName": "frittenchef_",
