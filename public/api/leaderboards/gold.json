@@ -191,6 +191,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "frittenchef_",
+      "UserLogin": "frittenchef_",
+      "Gold": "50000",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "Actraiser7",
       "UserLogin": "actraiser7",
       "Gold": "50000",
@@ -375,12 +381,6 @@
       "UserLogin": "thule1291",
       "Gold": "0",
       "Ausgezahlt": "1"
-    },
-    {
-      "UserName": "frittenchef_",
-      "UserLogin": "frittenchef_",
-      "Gold": "0",
-      "Ausgezahlt": "0"
     },
     {
       "UserName": "Furizawa",
