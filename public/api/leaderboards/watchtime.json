@@ -38,7 +38,7 @@
       "Wochen": 7,
       "Tage": 50,
       "Stunden": 1218,
-      "WatchtimeSek": 4385760
+      "WatchtimeSek": 4386360
     },
     {
       "UserName": "SrA86",
@@ -47,7 +47,7 @@
       "Wochen": 5,
       "Tage": 40,
       "Stunden": 961,
-      "WatchtimeSek": 3461460
+      "WatchtimeSek": 3462060
     },
     {
       "UserName": "Jenny_Eleyna",
@@ -56,7 +56,7 @@
       "Wochen": 5,
       "Tage": 38,
       "Stunden": 914,
-      "WatchtimeSek": 3291120
+      "WatchtimeSek": 3291720
     },
     {
       "UserName": "ToxicMonsti",
@@ -82,8 +82,8 @@
       "Monate": 0,
       "Wochen": 2,
       "Tage": 19,
-      "Stunden": 478,
-      "WatchtimeSek": 1724160
+      "Stunden": 479,
+      "WatchtimeSek": 1724760
     },
     {
       "UserName": "thule1291",
@@ -91,8 +91,8 @@
       "Monate": 0,
       "Wochen": 2,
       "Tage": 19,
-      "Stunden": 463,
-      "WatchtimeSek": 1669860
+      "Stunden": 464,
+      "WatchtimeSek": 1670460
     },
     {
       "UserName": "schmidiiii",
@@ -110,7 +110,7 @@
       "Wochen": 1,
       "Tage": 13,
       "Stunden": 321,
-      "WatchtimeSek": 1157340
+      "WatchtimeSek": 1157940
     },
     {
       "UserName": "xph1lo",
@@ -119,7 +119,7 @@
       "Wochen": 1,
       "Tage": 11,
       "Stunden": 264,
-      "WatchtimeSek": 953280
+      "WatchtimeSek": 953880
     },
     {
       "UserName": "GrinchiSC",
@@ -137,7 +137,7 @@
       "Wochen": 1,
       "Tage": 8,
       "Stunden": 195,
-      "WatchtimeSek": 704100
+      "WatchtimeSek": 704700
     },
     {
       "UserName": "Talarock",
@@ -173,7 +173,7 @@
       "Wochen": 0,
       "Tage": 5,
       "Stunden": 136,
-      "WatchtimeSek": 489600
+      "WatchtimeSek": 490200
     },
     {
       "UserName": "saddi_86",
@@ -181,8 +181,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 5,
-      "Stunden": 132,
-      "WatchtimeSek": 478500
+      "Stunden": 133,
+      "WatchtimeSek": 479100
     },
     {
       "UserName": "only_TK",
@@ -209,7 +209,7 @@
       "Wochen": 0,
       "Tage": 4,
       "Stunden": 97,
-      "WatchtimeSek": 349860
+      "WatchtimeSek": 350460
     },
     {
       "UserName": "Minathron00",
@@ -245,7 +245,7 @@
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 64,
-      "WatchtimeSek": 231100
+      "WatchtimeSek": 231700
     },
     {
       "UserName": "bloodycruel",
@@ -443,7 +443,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 27,
-      "WatchtimeSek": 99300
+      "WatchtimeSek": 99600
     },
     {
       "UserName": "calyypsoolein",
@@ -470,7 +470,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 21,
-      "WatchtimeSek": 75900
+      "WatchtimeSek": 76500
     },
     {
       "UserName": "Panu_No1",
@@ -1247,6 +1247,15 @@
       "WatchtimeSek": 10500
     },
     {
+      "UserName": "Kapeykii",
+      "UserLogin": "kapeykii",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 2,
+      "WatchtimeSek": 10200
+    },
+    {
       "UserName": "xLinguPingu",
       "UserLogin": "xlingupingu",
       "Monate": 0,
@@ -1303,15 +1312,6 @@
     {
       "UserName": "melmk91",
       "UserLogin": "melmk91",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 2,
-      "WatchtimeSek": 9600
-    },
-    {
-      "UserName": "Kapeykii",
-      "UserLogin": "kapeykii",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -2939,6 +2939,15 @@
       "WatchtimeSek": 1800
     },
     {
+      "UserName": "FearchillaTV",
+      "UserLogin": "fearchillatv",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 1800
+    },
+    {
       "UserName": "fuxx09",
       "UserLogin": "fuxx09",
       "Monate": 0,
@@ -3072,15 +3081,6 @@
       "Tage": 0,
       "Stunden": 0,
       "WatchtimeSek": 1800
-    },
-    {
-      "UserName": "FearchillaTV",
-      "UserLogin": "fearchillatv",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 1500
     },
     {
       "UserName": "gormgrimm",
