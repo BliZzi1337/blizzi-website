@@ -38,7 +38,7 @@
       "Wochen": 7,
       "Tage": 50,
       "Stunden": 1219,
-      "WatchtimeSek": 4389960
+      "WatchtimeSek": 4390560
     },
     {
       "UserName": "SrA86",
@@ -47,7 +47,7 @@
       "Wochen": 5,
       "Tage": 40,
       "Stunden": 962,
-      "WatchtimeSek": 3465660
+      "WatchtimeSek": 3466260
     },
     {
       "UserName": "Jenny_Eleyna",
@@ -56,7 +56,7 @@
       "Wochen": 5,
       "Tage": 38,
       "Stunden": 915,
-      "WatchtimeSek": 3295620
+      "WatchtimeSek": 3296220
     },
     {
       "UserName": "ToxicMonsti",
@@ -83,7 +83,7 @@
       "Wochen": 2,
       "Tage": 20,
       "Stunden": 480,
-      "WatchtimeSek": 1728660
+      "WatchtimeSek": 1729260
     },
     {
       "UserName": "thule1291",
@@ -92,7 +92,7 @@
       "Wochen": 2,
       "Tage": 19,
       "Stunden": 465,
-      "WatchtimeSek": 1674060
+      "WatchtimeSek": 1674660
     },
     {
       "UserName": "schmidiiii",
@@ -101,7 +101,7 @@
       "Wochen": 2,
       "Tage": 14,
       "Stunden": 336,
-      "WatchtimeSek": 1210440
+      "WatchtimeSek": 1211040
     },
     {
       "UserName": "J3loodyFe4r",
@@ -110,7 +110,7 @@
       "Wochen": 1,
       "Tage": 13,
       "Stunden": 322,
-      "WatchtimeSek": 1161840
+      "WatchtimeSek": 1162440
     },
     {
       "UserName": "xph1lo",
@@ -119,7 +119,7 @@
       "Wochen": 1,
       "Tage": 11,
       "Stunden": 266,
-      "WatchtimeSek": 957780
+      "WatchtimeSek": 958380
     },
     {
       "UserName": "GrinchiSC",
@@ -136,8 +136,8 @@
       "Monate": 0,
       "Wochen": 1,
       "Tage": 8,
-      "Stunden": 196,
-      "WatchtimeSek": 708600
+      "Stunden": 197,
+      "WatchtimeSek": 709200
     },
     {
       "UserName": "Talarock",
@@ -173,7 +173,7 @@
       "Wochen": 0,
       "Tage": 5,
       "Stunden": 137,
-      "WatchtimeSek": 494100
+      "WatchtimeSek": 494700
     },
     {
       "UserName": "saddi_86",
@@ -182,7 +182,7 @@
       "Wochen": 0,
       "Tage": 5,
       "Stunden": 133,
-      "WatchtimeSek": 481500
+      "WatchtimeSek": 482100
     },
     {
       "UserName": "only_TK",
@@ -200,7 +200,7 @@
       "Wochen": 0,
       "Tage": 4,
       "Stunden": 105,
-      "WatchtimeSek": 378900
+      "WatchtimeSek": 379200
     },
     {
       "UserName": "lucky_luki95",
@@ -209,7 +209,7 @@
       "Wochen": 0,
       "Tage": 4,
       "Stunden": 98,
-      "WatchtimeSek": 353160
+      "WatchtimeSek": 353760
     },
     {
       "UserName": "Minathron00",
@@ -227,7 +227,7 @@
       "Wochen": 0,
       "Tage": 3,
       "Stunden": 74,
-      "WatchtimeSek": 269100
+      "WatchtimeSek": 269700
     },
     {
       "UserName": "chrabby_",
@@ -308,7 +308,7 @@
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 52,
-      "WatchtimeSek": 187800
+      "WatchtimeSek": 188400
     },
     {
       "UserName": "morimo87",
@@ -389,7 +389,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 36,
-      "WatchtimeSek": 131700
+      "WatchtimeSek": 132300
     },
     {
       "UserName": "snoweye_",
@@ -461,7 +461,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 22,
-      "WatchtimeSek": 80400
+      "WatchtimeSek": 81000
     },
     {
       "UserName": "miss_divinestorm",
@@ -632,7 +632,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 9,
-      "WatchtimeSek": 34200
+      "WatchtimeSek": 34800
     },
     {
       "UserName": "Xtreme391",
@@ -2309,6 +2309,15 @@
       "WatchtimeSek": 3300
     },
     {
+      "UserName": "i_like_turtleees",
+      "UserLogin": "i_like_turtleees",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 3300
+    },
+    {
       "UserName": "kokaintiger",
       "UserLogin": "kokaintiger",
       "Monate": 0,
@@ -2635,15 +2644,6 @@
     {
       "UserName": "mishstreamss",
       "UserLogin": "mishstreamss",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 2700
-    },
-    {
-      "UserName": "i_like_turtleees",
-      "UserLogin": "i_like_turtleees",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
