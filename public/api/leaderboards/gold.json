@@ -323,6 +323,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "BliZzi1337",
+      "UserLogin": "blizzi1337",
+      "Gold": "1000",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "CallMeAdrk",
       "UserLogin": "callmeadrk",
       "Gold": "1000",
@@ -367,12 +373,6 @@
     {
       "UserName": "bloodycruel",
       "UserLogin": "bloodycruel",
-      "Gold": "0",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "BliZzi1337",
-      "UserLogin": "blizzi1337",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
