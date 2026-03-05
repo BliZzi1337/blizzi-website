@@ -113,6 +113,15 @@
       "PunkteVerloren": "212029"
     },
     {
+      "UserName": "BliZzi1337",
+      "UserLogin": "blizzi1337",
+      "Gesamt": "18",
+      "Gewonnen": "6",
+      "Verloren": "12",
+      "PunkteGewonnen": "21200",
+      "PunkteVerloren": "95100"
+    },
+    {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
       "Gesamt": "17",
@@ -138,15 +147,6 @@
       "Verloren": "9",
       "PunkteGewonnen": "165000",
       "PunkteVerloren": "389740"
-    },
-    {
-      "UserName": "BliZzi1337",
-      "UserLogin": "blizzi1337",
-      "Gesamt": "12",
-      "Gewonnen": "2",
-      "Verloren": "10",
-      "PunkteGewonnen": "20000",
-      "PunkteVerloren": "95000"
     },
     {
       "UserName": "FlyingTrinker_Bell",
