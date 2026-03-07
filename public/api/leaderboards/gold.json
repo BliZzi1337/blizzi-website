@@ -19,13 +19,13 @@
     {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
-      "Gold": "1564995",
+      "Gold": "1512495",
       "Ausgezahlt": "0"
     },
     {
       "UserName": "J3loodyFe4r",
       "UserLogin": "j3loodyfe4r",
-      "Gold": "658499",
+      "Gold": "686499",
       "Ausgezahlt": "0"
     },
     {
@@ -53,6 +53,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "Skytecc",
+      "UserLogin": "skytecc",
+      "Gold": "237500",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "spindi_86",
       "UserLogin": "spindi_86",
       "Gold": "212500",
@@ -69,12 +75,6 @@
       "UserLogin": "morimo87",
       "Gold": "199500",
       "Ausgezahlt": "50000"
-    },
-    {
-      "UserName": "Skytecc",
-      "UserLogin": "skytecc",
-      "Gold": "192500",
-      "Ausgezahlt": "0"
     },
     {
       "UserName": "xTheBroxon",
@@ -129,6 +129,12 @@
       "UserLogin": "duese19931",
       "Gold": "103000",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gold": "70000",
+      "Ausgezahlt": "100000"
     },
     {
       "UserName": "palone",
@@ -195,12 +201,6 @@
       "UserLogin": "mr_martin_live",
       "Gold": "50000",
       "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "xph1lo",
-      "UserLogin": "xph1lo",
-      "Gold": "50000",
-      "Ausgezahlt": "100000"
     },
     {
       "UserName": "frittenchef_",
@@ -278,6 +278,12 @@
       "UserName": "gnomenpresse",
       "UserLogin": "gnomenpresse",
       "Gold": "10000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "zergoogler",
+      "UserLogin": "zergoogler",
+      "Gold": "9000",
       "Ausgezahlt": "0"
     },
     {
@@ -403,12 +409,6 @@
     {
       "UserName": "Moonfeder4",
       "UserLogin": "moonfeder4",
-      "Gold": "0",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "zergoogler",
-      "UserLogin": "zergoogler",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
