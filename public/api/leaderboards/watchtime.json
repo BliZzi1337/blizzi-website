@@ -47,7 +47,7 @@
       "Wochen": 5,
       "Tage": 40,
       "Stunden": 971,
-      "WatchtimeSek": 3497160
+      "WatchtimeSek": 3498960
     },
     {
       "UserName": "Jenny_Eleyna",
@@ -64,8 +64,8 @@
       "Monate": 1,
       "Wochen": 4,
       "Tage": 34,
-      "Stunden": 817,
-      "WatchtimeSek": 2943720
+      "Stunden": 818,
+      "WatchtimeSek": 2945520
     },
     {
       "UserName": "ruuuuby",
@@ -83,7 +83,7 @@
       "Wochen": 2,
       "Tage": 20,
       "Stunden": 485,
-      "WatchtimeSek": 1746060
+      "WatchtimeSek": 1746360
     },
     {
       "UserName": "thule1291",
@@ -92,7 +92,7 @@
       "Wochen": 2,
       "Tage": 19,
       "Stunden": 475,
-      "WatchtimeSek": 1711560
+      "WatchtimeSek": 1713360
     },
     {
       "UserName": "schmidiiii",
@@ -110,7 +110,7 @@
       "Wochen": 1,
       "Tage": 13,
       "Stunden": 333,
-      "WatchtimeSek": 1199340
+      "WatchtimeSek": 1201140
     },
     {
       "UserName": "xph1lo",
@@ -127,8 +127,8 @@
       "Monate": 0,
       "Wochen": 1,
       "Tage": 8,
-      "Stunden": 206,
-      "WatchtimeSek": 744600
+      "Stunden": 207,
+      "WatchtimeSek": 745800
     },
     {
       "UserName": "GrinchiSC",
@@ -155,7 +155,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 155,
-      "WatchtimeSek": 558720
+      "WatchtimeSek": 559020
     },
     {
       "UserName": "lalalalalands",
@@ -163,8 +163,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 6,
-      "Stunden": 147,
-      "WatchtimeSek": 532200
+      "Stunden": 148,
+      "WatchtimeSek": 534000
     },
     {
       "UserName": "saddi_86",
@@ -257,6 +257,15 @@
       "WatchtimeSek": 233400
     },
     {
+      "UserName": "eluutz",
+      "UserLogin": "eluutz",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 2,
+      "Stunden": 58,
+      "WatchtimeSek": 211800
+    },
+    {
       "UserName": "Ahriman1234",
       "UserLogin": "ahriman1234",
       "Monate": 0,
@@ -264,15 +273,6 @@
       "Tage": 2,
       "Stunden": 58,
       "WatchtimeSek": 211500
-    },
-    {
-      "UserName": "eluutz",
-      "UserLogin": "eluutz",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 2,
-      "Stunden": 58,
-      "WatchtimeSek": 211200
     },
     {
       "UserName": "Daniel__1976",
@@ -4291,6 +4291,15 @@
     {
       "UserName": "bibbo97",
       "UserLogin": "bibbo97",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 600
+    },
+    {
+      "UserName": "cataclysm_97",
+      "UserLogin": "cataclysm_97",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
