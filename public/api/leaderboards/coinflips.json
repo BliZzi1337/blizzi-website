@@ -52,10 +52,10 @@
     {
       "UserName": "Skytecc",
       "UserLogin": "skytecc",
-      "Gesamt": "44",
-      "Gewonnen": "24",
+      "Gesamt": "45",
+      "Gewonnen": "25",
       "Verloren": "20",
-      "PunkteGewonnen": "533500",
+      "PunkteGewonnen": "583500",
       "PunkteVerloren": "432500"
     },
     {
@@ -79,10 +79,10 @@
     {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
-      "Gesamt": "32",
-      "Gewonnen": "8",
+      "Gesamt": "33",
+      "Gewonnen": "9",
       "Verloren": "24",
-      "PunkteGewonnen": "177000",
+      "PunkteGewonnen": "202000",
       "PunkteVerloren": "395001"
     },
     {
@@ -97,11 +97,11 @@
     {
       "UserName": "J3loodyFe4r",
       "UserLogin": "j3loodyfe4r",
-      "Gesamt": "22",
+      "Gesamt": "23",
       "Gewonnen": "14",
-      "Verloren": "8",
+      "Verloren": "9",
       "PunkteGewonnen": "450000",
-      "PunkteVerloren": "200000"
+      "PunkteVerloren": "250000"
     },
     {
       "UserName": "SrA86",
@@ -115,11 +115,11 @@
     {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
-      "Gesamt": "18",
+      "Gesamt": "19",
       "Gewonnen": "8",
-      "Verloren": "10",
+      "Verloren": "11",
       "PunkteGewonnen": "400000",
-      "PunkteVerloren": "420500"
+      "PunkteVerloren": "470500"
     },
     {
       "UserName": "BliZzi1337",
@@ -174,6 +174,15 @@
       "Verloren": "3",
       "PunkteGewonnen": "115000",
       "PunkteVerloren": "85000"
+    },
+    {
+      "UserName": "zergoogler",
+      "UserLogin": "zergoogler",
+      "Gesamt": "7",
+      "Gewonnen": "3",
+      "Verloren": "4",
+      "PunkteGewonnen": "10000",
+      "PunkteVerloren": "6000"
     },
     {
       "UserName": "frittenchef_",
