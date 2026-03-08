@@ -70,11 +70,11 @@
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Gesamt": "34",
-      "Gewonnen": "19",
-      "Verloren": "15",
-      "PunkteGewonnen": "510000",
-      "PunkteVerloren": "375000"
+      "Gesamt": "36",
+      "Gewonnen": "20",
+      "Verloren": "16",
+      "PunkteGewonnen": "535000",
+      "PunkteVerloren": "400000"
     },
     {
       "UserName": "xph1lo",
@@ -115,11 +115,11 @@
     {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
-      "Gesamt": "19",
+      "Gesamt": "20",
       "Gewonnen": "8",
-      "Verloren": "11",
+      "Verloren": "12",
       "PunkteGewonnen": "400000",
-      "PunkteVerloren": "470500"
+      "PunkteVerloren": "520500"
     },
     {
       "UserName": "BliZzi1337",
@@ -149,6 +149,15 @@
       "PunkteVerloren": "389740"
     },
     {
+      "UserName": "zergoogler",
+      "UserLogin": "zergoogler",
+      "Gesamt": "9",
+      "Gewonnen": "3",
+      "Verloren": "6",
+      "PunkteGewonnen": "10000",
+      "PunkteVerloren": "10000"
+    },
+    {
       "UserName": "FlyingTrinker_Bell",
       "UserLogin": "flyingtrinker_bell",
       "Gesamt": "9",
@@ -174,15 +183,6 @@
       "Verloren": "3",
       "PunkteGewonnen": "115000",
       "PunkteVerloren": "85000"
-    },
-    {
-      "UserName": "zergoogler",
-      "UserLogin": "zergoogler",
-      "Gesamt": "7",
-      "Gewonnen": "3",
-      "Verloren": "4",
-      "PunkteGewonnen": "10000",
-      "PunkteVerloren": "6000"
     },
     {
       "UserName": "frittenchef_",
