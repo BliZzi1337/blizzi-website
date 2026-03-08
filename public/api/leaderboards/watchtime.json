@@ -37,8 +37,8 @@
       "Monate": 1,
       "Wochen": 7,
       "Tage": 51,
-      "Stunden": 1229,
-      "WatchtimeSek": 4427160
+      "Stunden": 1230,
+      "WatchtimeSek": 4428960
     },
     {
       "UserName": "SrA86",
@@ -56,7 +56,7 @@
       "Wochen": 5,
       "Tage": 38,
       "Stunden": 927,
-      "WatchtimeSek": 3339120
+      "WatchtimeSek": 3340020
     },
     {
       "UserName": "ToxicMonsti",
@@ -65,7 +65,7 @@
       "Wochen": 4,
       "Tage": 34,
       "Stunden": 821,
-      "WatchtimeSek": 2956320
+      "WatchtimeSek": 2958120
     },
     {
       "UserName": "ruuuuby",
@@ -83,16 +83,16 @@
       "Wochen": 2,
       "Tage": 20,
       "Stunden": 488,
-      "WatchtimeSek": 1758660
+      "WatchtimeSek": 1758960
     },
     {
       "UserName": "thule1291",
       "UserLogin": "thule1291",
       "Monate": 0,
       "Wochen": 2,
-      "Tage": 19,
-      "Stunden": 479,
-      "WatchtimeSek": 1726560
+      "Tage": 20,
+      "Stunden": 480,
+      "WatchtimeSek": 1728360
     },
     {
       "UserName": "schmidiiii",
@@ -101,7 +101,7 @@
       "Wochen": 2,
       "Tage": 14,
       "Stunden": 349,
-      "WatchtimeSek": 1257240
+      "WatchtimeSek": 1259040
     },
     {
       "UserName": "J3loodyFe4r",
@@ -110,7 +110,7 @@
       "Wochen": 2,
       "Tage": 14,
       "Stunden": 337,
-      "WatchtimeSek": 1214040
+      "WatchtimeSek": 1215540
     },
     {
       "UserName": "xph1lo",
@@ -118,8 +118,8 @@
       "Monate": 0,
       "Wochen": 1,
       "Tage": 11,
-      "Stunden": 275,
-      "WatchtimeSek": 992280
+      "Stunden": 276,
+      "WatchtimeSek": 993780
     },
     {
       "UserName": "rivorium",
@@ -155,7 +155,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 156,
-      "WatchtimeSek": 564420
+      "WatchtimeSek": 564720
     },
     {
       "UserName": "lalalalalands",
@@ -164,7 +164,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 152,
-      "WatchtimeSek": 547500
+      "WatchtimeSek": 549300
     },
     {
       "UserName": "saddi_86",
@@ -1184,6 +1184,15 @@
       "WatchtimeSek": 11700
     },
     {
+      "UserName": "rufy300",
+      "UserLogin": "rufy300",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 3,
+      "WatchtimeSek": 11400
+    },
+    {
       "UserName": "ThisIsExuri",
       "UserLogin": "thisisexuri",
       "Monate": 0,
@@ -1200,15 +1209,6 @@
       "Tage": 0,
       "Stunden": 3,
       "WatchtimeSek": 11100
-    },
-    {
-      "UserName": "rufy300",
-      "UserLogin": "rufy300",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 3,
-      "WatchtimeSek": 10800
     },
     {
       "UserName": "xfalk1337",
