@@ -32,15 +32,6 @@
   },
   "data": [
     {
-      "UserName": "xph1lo",
-      "UserLogin": "xph1lo",
-      "Gesamt": "28",
-      "Gewonnen": "17",
-      "Verloren": "11",
-      "PunkteGewonnen": "238240",
-      "PunkteVerloren": "179800"
-    },
-    {
       "UserName": "91pitt91",
       "UserLogin": "91pitt91",
       "Gesamt": "28",
@@ -48,6 +39,15 @@
       "Verloren": "14",
       "PunkteGewonnen": "132620",
       "PunkteVerloren": "201340"
+    },
+    {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gesamt": "28",
+      "Gewonnen": "17",
+      "Verloren": "11",
+      "PunkteGewonnen": "238240",
+      "PunkteVerloren": "179800"
     },
     {
       "UserName": "x_kinglouie_x",
@@ -77,17 +77,8 @@
       "PunkteVerloren": "5"
     },
     {
-      "UserName": "saddi_86",
-      "UserLogin": "saddi_86",
-      "Gesamt": "1",
-      "Gewonnen": "1",
-      "Verloren": "0",
-      "PunkteGewonnen": "5",
-      "PunkteVerloren": "0"
-    },
-    {
-      "UserName": "BliZzi1337",
-      "UserLogin": "blizzi1337",
+      "UserName": "82Shinigami",
+      "UserLogin": "82shinigami",
       "Gesamt": "1",
       "Gewonnen": "0",
       "Verloren": "1",
@@ -95,8 +86,8 @@
       "PunkteVerloren": "5000"
     },
     {
-      "UserName": "82Shinigami",
-      "UserLogin": "82shinigami",
+      "UserName": "BliZzi1337",
+      "UserLogin": "blizzi1337",
       "Gesamt": "1",
       "Gewonnen": "0",
       "Verloren": "1",
@@ -111,6 +102,15 @@
       "Verloren": "1",
       "PunkteGewonnen": "0",
       "PunkteVerloren": "10000"
+    },
+    {
+      "UserName": "saddi_86",
+      "UserLogin": "saddi_86",
+      "Gesamt": "1",
+      "Gewonnen": "1",
+      "Verloren": "0",
+      "PunkteGewonnen": "5",
+      "PunkteVerloren": "0"
     }
   ]
 }
