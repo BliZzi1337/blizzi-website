@@ -37,8 +37,8 @@
       "Monate": 1,
       "Wochen": 7,
       "Tage": 51,
-      "Stunden": 1235,
-      "WatchtimeSek": 4448460
+      "Stunden": 1236,
+      "WatchtimeSek": 4450260
     },
     {
       "UserName": "SrA86",
@@ -47,7 +47,7 @@
       "Wochen": 5,
       "Tage": 40,
       "Stunden": 980,
-      "WatchtimeSek": 3528360
+      "WatchtimeSek": 3528960
     },
     {
       "UserName": "Jenny_Eleyna",
@@ -55,8 +55,8 @@
       "Monate": 1,
       "Wochen": 5,
       "Tage": 38,
-      "Stunden": 932,
-      "WatchtimeSek": 3357720
+      "Stunden": 933,
+      "WatchtimeSek": 3359520
     },
     {
       "UserName": "ToxicMonsti",
@@ -65,7 +65,7 @@
       "Wochen": 4,
       "Tage": 34,
       "Stunden": 827,
-      "WatchtimeSek": 2977620
+      "WatchtimeSek": 2979420
     },
     {
       "UserName": "ruuuuby",
@@ -82,8 +82,8 @@
       "Monate": 0,
       "Wochen": 2,
       "Tage": 20,
-      "Stunden": 492,
-      "WatchtimeSek": 1773660
+      "Stunden": 493,
+      "WatchtimeSek": 1775460
     },
     {
       "UserName": "thule1291",
@@ -92,7 +92,7 @@
       "Wochen": 2,
       "Tage": 20,
       "Stunden": 485,
-      "WatchtimeSek": 1747560
+      "WatchtimeSek": 1749360
     },
     {
       "UserName": "schmidiiii",
@@ -110,7 +110,7 @@
       "Wochen": 2,
       "Tage": 14,
       "Stunden": 343,
-      "WatchtimeSek": 1235040
+      "WatchtimeSek": 1236840
     },
     {
       "UserName": "xph1lo",
@@ -119,7 +119,7 @@
       "Wochen": 1,
       "Tage": 11,
       "Stunden": 281,
-      "WatchtimeSek": 1012680
+      "WatchtimeSek": 1014480
     },
     {
       "UserName": "rivorium",
@@ -128,7 +128,7 @@
       "Wochen": 1,
       "Tage": 8,
       "Stunden": 211,
-      "WatchtimeSek": 760800
+      "WatchtimeSek": 762600
     },
     {
       "UserName": "GrinchiSC",
@@ -145,8 +145,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 6,
-      "Stunden": 159,
-      "WatchtimeSek": 575220
+      "Stunden": 160,
+      "WatchtimeSek": 576420
     },
     {
       "UserName": "Talarock",
@@ -164,7 +164,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 158,
-      "WatchtimeSek": 568800
+      "WatchtimeSek": 570600
     },
     {
       "UserName": "saddi_86",
@@ -173,7 +173,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 146,
-      "WatchtimeSek": 526500
+      "WatchtimeSek": 528300
     },
     {
       "UserName": "x_kinglouie_x",
@@ -190,8 +190,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 4,
-      "Stunden": 118,
-      "WatchtimeSek": 427500
+      "Stunden": 119,
+      "WatchtimeSek": 429300
     },
     {
       "UserName": "only_TK",
@@ -209,7 +209,7 @@
       "Wochen": 0,
       "Tage": 4,
       "Stunden": 104,
-      "WatchtimeSek": 375060
+      "WatchtimeSek": 376860
     },
     {
       "UserName": "Shendrasil",
@@ -244,8 +244,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 2,
-      "Stunden": 69,
-      "WatchtimeSek": 250900
+      "Stunden": 70,
+      "WatchtimeSek": 252700
     },
     {
       "UserName": "bloodycruel",
@@ -290,7 +290,7 @@
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 57,
-      "WatchtimeSek": 206100
+      "WatchtimeSek": 207300
     },
     {
       "UserName": "Daniel__1976",
@@ -298,8 +298,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 2,
-      "Stunden": 56,
-      "WatchtimeSek": 204300
+      "Stunden": 57,
+      "WatchtimeSek": 206100
     },
     {
       "UserName": "gremory_familie",
@@ -329,6 +329,15 @@
       "WatchtimeSek": 167700
     },
     {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 1,
+      "Stunden": 45,
+      "WatchtimeSek": 162600
+    },
+    {
       "UserName": "Lunng",
       "UserLogin": "lunng",
       "Monate": 0,
@@ -336,15 +345,6 @@
       "Tage": 1,
       "Stunden": 44,
       "WatchtimeSek": 161400
-    },
-    {
-      "UserName": "vanock_",
-      "UserLogin": "vanock_",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 1,
-      "Stunden": 44,
-      "WatchtimeSek": 160800
     },
     {
       "UserName": "91pitt91",
@@ -371,7 +371,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 42,
-      "WatchtimeSek": 153600
+      "WatchtimeSek": 154500
     },
     {
       "UserName": "astoooooo",
@@ -416,7 +416,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 35,
-      "WatchtimeSek": 126000
+      "WatchtimeSek": 127800
     },
     {
       "UserName": "anti_engel",
@@ -425,7 +425,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 33,
-      "WatchtimeSek": 119100
+      "WatchtimeSek": 120900
     },
     {
       "UserName": "aryaa_qt",
@@ -824,6 +824,15 @@
       "WatchtimeSek": 19500
     },
     {
+      "UserName": "kiwikiss2364",
+      "UserLogin": "kiwikiss2364",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 5,
+      "WatchtimeSek": 19200
+    },
+    {
       "UserName": "stella842",
       "UserLogin": "stella842",
       "Monate": 0,
@@ -851,13 +860,13 @@
       "WatchtimeSek": 19200
     },
     {
-      "UserName": "kiwikiss2364",
-      "UserLogin": "kiwikiss2364",
+      "UserName": "iWeebzsama",
+      "UserLogin": "iweebzsama",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 5,
-      "WatchtimeSek": 18900
+      "WatchtimeSek": 18300
     },
     {
       "UserName": "zero_given_14",
@@ -894,15 +903,6 @@
       "Tage": 0,
       "Stunden": 4,
       "WatchtimeSek": 17100
-    },
-    {
-      "UserName": "iWeebzsama",
-      "UserLogin": "iweebzsama",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 4,
-      "WatchtimeSek": 16800
     },
     {
       "UserName": "Cybax_xxx",
@@ -1193,6 +1193,15 @@
       "WatchtimeSek": 11700
     },
     {
+      "UserName": "forzaFlo",
+      "UserLogin": "forzaflo",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 3,
+      "WatchtimeSek": 11700
+    },
+    {
       "UserName": "rufy300",
       "UserLogin": "rufy300",
       "Monate": 0,
@@ -1285,15 +1294,6 @@
     {
       "UserName": "Angram42",
       "UserLogin": "angram42",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 2,
-      "WatchtimeSek": 9900
-    },
-    {
-      "UserName": "forzaFlo",
-      "UserLogin": "forzaflo",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -3238,6 +3238,15 @@
     {
       "UserName": "actionjackssn",
       "UserLogin": "actionjackssn",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 1500
+    },
+    {
+      "UserName": "bubbinger",
+      "UserLogin": "bubbinger",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -5317,15 +5326,6 @@
     {
       "UserName": "tonyem6",
       "UserLogin": "tonyem6",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 300
-    },
-    {
-      "UserName": "bubbinger",
-      "UserLogin": "bubbinger",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
