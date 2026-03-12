@@ -37,8 +37,8 @@
       "Monate": 1,
       "Wochen": 7,
       "Tage": 51,
-      "Stunden": 1238,
-      "WatchtimeSek": 4459860
+      "Stunden": 1239,
+      "WatchtimeSek": 4461660
     },
     {
       "UserName": "SrA86",
@@ -47,16 +47,16 @@
       "Wochen": 5,
       "Tage": 40,
       "Stunden": 981,
-      "WatchtimeSek": 3532260
+      "WatchtimeSek": 3534060
     },
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
       "Monate": 1,
       "Wochen": 5,
-      "Tage": 38,
-      "Stunden": 935,
-      "WatchtimeSek": 3368820
+      "Tage": 39,
+      "Stunden": 936,
+      "WatchtimeSek": 3370620
     },
     {
       "UserName": "ToxicMonsti",
@@ -65,7 +65,7 @@
       "Wochen": 4,
       "Tage": 34,
       "Stunden": 830,
-      "WatchtimeSek": 2989020
+      "WatchtimeSek": 2990820
     },
     {
       "UserName": "ruuuuby",
@@ -91,8 +91,8 @@
       "Monate": 0,
       "Wochen": 2,
       "Tage": 20,
-      "Stunden": 488,
-      "WatchtimeSek": 1758660
+      "Stunden": 489,
+      "WatchtimeSek": 1760460
     },
     {
       "UserName": "schmidiiii",
@@ -101,7 +101,7 @@
       "Wochen": 2,
       "Tage": 14,
       "Stunden": 355,
-      "WatchtimeSek": 1279440
+      "WatchtimeSek": 1281240
     },
     {
       "UserName": "J3loodyFe4r",
@@ -110,7 +110,7 @@
       "Wochen": 2,
       "Tage": 14,
       "Stunden": 346,
-      "WatchtimeSek": 1246440
+      "WatchtimeSek": 1248240
     },
     {
       "UserName": "xph1lo",
@@ -119,7 +119,7 @@
       "Wochen": 1,
       "Tage": 11,
       "Stunden": 284,
-      "WatchtimeSek": 1023480
+      "WatchtimeSek": 1025280
     },
     {
       "UserName": "rivorium",
@@ -136,8 +136,8 @@
       "Monate": 0,
       "Wochen": 1,
       "Tage": 8,
-      "Stunden": 203,
-      "WatchtimeSek": 733380
+      "Stunden": 204,
+      "WatchtimeSek": 734580
     },
     {
       "UserName": "Skytecc",
@@ -146,7 +146,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 161,
-      "WatchtimeSek": 581520
+      "WatchtimeSek": 583020
     },
     {
       "UserName": "lalalalalands",
@@ -155,7 +155,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 161,
-      "WatchtimeSek": 580200
+      "WatchtimeSek": 582000
     },
     {
       "UserName": "Talarock",
@@ -173,7 +173,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 149,
-      "WatchtimeSek": 537000
+      "WatchtimeSek": 538800
     },
     {
       "UserName": "x_kinglouie_x",
@@ -191,7 +191,7 @@
       "Wochen": 0,
       "Tage": 5,
       "Stunden": 121,
-      "WatchtimeSek": 436200
+      "WatchtimeSek": 436800
     },
     {
       "UserName": "only_TK",
@@ -209,7 +209,7 @@
       "Wochen": 0,
       "Tage": 4,
       "Stunden": 105,
-      "WatchtimeSek": 378660
+      "WatchtimeSek": 379860
     },
     {
       "UserName": "Shendrasil",
@@ -245,7 +245,7 @@
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 71,
-      "WatchtimeSek": 256900
+      "WatchtimeSek": 258400
     },
     {
       "UserName": "bloodycruel",
@@ -307,8 +307,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 2,
-      "Stunden": 54,
-      "WatchtimeSek": 197400
+      "Stunden": 55,
+      "WatchtimeSek": 198300
     },
     {
       "UserName": "morimo87",
@@ -398,7 +398,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 36,
-      "WatchtimeSek": 129900
+      "WatchtimeSek": 131700
     },
     {
       "UserName": "snoweye_",
@@ -424,8 +424,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 1,
-      "Stunden": 34,
-      "WatchtimeSek": 125700
+      "Stunden": 35,
+      "WatchtimeSek": 126600
     },
     {
       "UserName": "aryaa_qt",
@@ -2183,6 +2183,15 @@
       "WatchtimeSek": 3900
     },
     {
+      "UserName": "Kehrbesen_",
+      "UserLogin": "kehrbesen_",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 1,
+      "WatchtimeSek": 3900
+    },
+    {
       "UserName": "Horrorschatz",
       "UserLogin": "horrorschatz",
       "Monate": 0,
@@ -2959,15 +2968,6 @@
     {
       "UserName": "N4meDrop",
       "UserLogin": "n4medrop",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 2100
-    },
-    {
-      "UserName": "Kehrbesen_",
-      "UserLogin": "kehrbesen_",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
