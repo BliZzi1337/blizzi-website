@@ -37,8 +37,8 @@
       "Monate": 1,
       "Wochen": 7,
       "Tage": 51,
-      "Stunden": 1243,
-      "WatchtimeSek": 4476660
+      "Stunden": 1244,
+      "WatchtimeSek": 4478460
     },
     {
       "UserName": "SrA86",
@@ -65,7 +65,7 @@
       "Wochen": 4,
       "Tage": 34,
       "Stunden": 835,
-      "WatchtimeSek": 3006120
+      "WatchtimeSek": 3007920
     },
     {
       "UserName": "ruuuuby",
@@ -83,7 +83,7 @@
       "Wochen": 2,
       "Tage": 20,
       "Stunden": 498,
-      "WatchtimeSek": 1793460
+      "WatchtimeSek": 1795260
     },
     {
       "UserName": "thule1291",
@@ -92,7 +92,7 @@
       "Wochen": 2,
       "Tage": 20,
       "Stunden": 493,
-      "WatchtimeSek": 1775460
+      "WatchtimeSek": 1777260
     },
     {
       "UserName": "schmidiiii",
@@ -101,7 +101,7 @@
       "Wochen": 2,
       "Tage": 15,
       "Stunden": 360,
-      "WatchtimeSek": 1296540
+      "WatchtimeSek": 1298340
     },
     {
       "UserName": "J3loodyFe4r",
@@ -109,8 +109,8 @@
       "Monate": 0,
       "Wochen": 2,
       "Tage": 14,
-      "Stunden": 350,
-      "WatchtimeSek": 1263240
+      "Stunden": 351,
+      "WatchtimeSek": 1265040
     },
     {
       "UserName": "xph1lo",
@@ -128,7 +128,7 @@
       "Wochen": 1,
       "Tage": 8,
       "Stunden": 213,
-      "WatchtimeSek": 767400
+      "WatchtimeSek": 768000
     },
     {
       "UserName": "GrinchiSC",
@@ -145,8 +145,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 6,
-      "Stunden": 165,
-      "WatchtimeSek": 597300
+      "Stunden": 166,
+      "WatchtimeSek": 599100
     },
     {
       "UserName": "Skytecc",
@@ -190,8 +190,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 5,
-      "Stunden": 123,
-      "WatchtimeSek": 446100
+      "Stunden": 124,
+      "WatchtimeSek": 447300
     },
     {
       "UserName": "only_TK",
@@ -236,7 +236,7 @@
       "Wochen": 0,
       "Tage": 3,
       "Stunden": 74,
-      "WatchtimeSek": 268900
+      "WatchtimeSek": 269500
     },
     {
       "UserName": "chrabby_",
@@ -326,7 +326,7 @@
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 48,
-      "WatchtimeSek": 175800
+      "WatchtimeSek": 176100
     },
     {
       "UserName": "vanock_",
@@ -362,7 +362,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 44,
-      "WatchtimeSek": 158400
+      "WatchtimeSek": 158700
     },
     {
       "UserName": "82Shinigami",
@@ -425,7 +425,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 35,
-      "WatchtimeSek": 128100
+      "WatchtimeSek": 128400
     },
     {
       "UserName": "aryaa_qt",
@@ -497,7 +497,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 17,
-      "WatchtimeSek": 62400
+      "WatchtimeSek": 63000
     },
     {
       "UserName": "spindi_86",
@@ -806,6 +806,15 @@
       "WatchtimeSek": 21000
     },
     {
+      "UserName": "Kehrbesen_",
+      "UserLogin": "kehrbesen_",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 5,
+      "WatchtimeSek": 20700
+    },
+    {
       "UserName": "InsaneLuke2k",
       "UserLogin": "insaneluke2k",
       "Monate": 0,
@@ -867,15 +876,6 @@
       "Tage": 0,
       "Stunden": 5,
       "WatchtimeSek": 19200
-    },
-    {
-      "UserName": "Kehrbesen_",
-      "UserLogin": "kehrbesen_",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 5,
-      "WatchtimeSek": 18900
     },
     {
       "UserName": "zero_given_14",
@@ -1085,6 +1085,15 @@
       "WatchtimeSek": 13200
     },
     {
+      "UserName": "pixaluna",
+      "UserLogin": "pixaluna",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 3,
+      "WatchtimeSek": 12900
+    },
+    {
       "UserName": "xzero_tvx",
       "UserLogin": "xzero_tvx",
       "Monate": 0,
@@ -1227,15 +1236,6 @@
       "Tage": 0,
       "Stunden": 3,
       "WatchtimeSek": 11400
-    },
-    {
-      "UserName": "pixaluna",
-      "UserLogin": "pixaluna",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 3,
-      "WatchtimeSek": 11100
     },
     {
       "UserName": "ThisIsExuri",
