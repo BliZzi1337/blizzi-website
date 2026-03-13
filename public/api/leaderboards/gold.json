@@ -215,12 +215,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "chrabby_",
-      "UserLogin": "chrabby_",
-      "Gold": "50000",
-      "Ausgezahlt": "337600"
-    },
-    {
       "UserName": "astoooooo",
       "UserLogin": "astoooooo",
       "Gold": "50000",
@@ -237,6 +231,12 @@
       "UserLogin": "mr_martin_live",
       "Gold": "50000",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "chrabby_",
+      "UserLogin": "chrabby_",
+      "Gold": "49000",
+      "Ausgezahlt": "337600"
     },
     {
       "UserName": "Ahriman1234",
