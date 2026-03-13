@@ -31,13 +31,13 @@
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Gold": "604000",
+      "Gold": "629000",
       "Ausgezahlt": "0"
     },
     {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
-      "Gold": "501480",
+      "Gold": "551480",
       "Ausgezahlt": "0"
     },
     {
@@ -239,12 +239,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "xph1lo",
-      "UserLogin": "xph1lo",
-      "Gold": "43000",
-      "Ausgezahlt": "100000"
-    },
-    {
       "UserName": "shaiken3d",
       "UserLogin": "shaiken3d",
       "Gold": "40000",
@@ -267,6 +261,12 @@
       "UserLogin": "82shinigami",
       "Gold": "20000",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gold": "20000",
+      "Ausgezahlt": "100000"
     },
     {
       "UserName": "rina_deepy",
