@@ -317,6 +317,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "CallMeAdrk",
+      "UserLogin": "callmeadrk",
+      "Gold": "3500",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "chrabby",
       "UserLogin": "chrabby",
       "Gold": "2000",
@@ -337,12 +343,6 @@
     {
       "UserName": "only_TK",
       "UserLogin": "only_tk",
-      "Gold": "500",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "CallMeAdrk",
-      "UserLogin": "callmeadrk",
       "Gold": "500",
       "Ausgezahlt": "0"
     },
