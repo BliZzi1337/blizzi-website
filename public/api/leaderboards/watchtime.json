@@ -37,8 +37,8 @@
       "Monate": 1,
       "Wochen": 7,
       "Tage": 51,
-      "Stunden": 1245,
-      "WatchtimeSek": 4485060
+      "Stunden": 1246,
+      "WatchtimeSek": 4486860
     },
     {
       "UserName": "SrA86",
@@ -47,7 +47,7 @@
       "Wochen": 5,
       "Tage": 41,
       "Stunden": 986,
-      "WatchtimeSek": 3550260
+      "WatchtimeSek": 3552060
     },
     {
       "UserName": "Jenny_Eleyna",
@@ -56,7 +56,7 @@
       "Wochen": 5,
       "Tage": 39,
       "Stunden": 941,
-      "WatchtimeSek": 3388920
+      "WatchtimeSek": 3390720
     },
     {
       "UserName": "ToxicMonsti",
@@ -65,7 +65,7 @@
       "Wochen": 4,
       "Tage": 34,
       "Stunden": 837,
-      "WatchtimeSek": 3014520
+      "WatchtimeSek": 3016320
     },
     {
       "UserName": "ruuuuby",
@@ -83,7 +83,7 @@
       "Wochen": 2,
       "Tage": 20,
       "Stunden": 500,
-      "WatchtimeSek": 1801260
+      "WatchtimeSek": 1803060
     },
     {
       "UserName": "thule1291",
@@ -92,7 +92,7 @@
       "Wochen": 2,
       "Tage": 20,
       "Stunden": 495,
-      "WatchtimeSek": 1783560
+      "WatchtimeSek": 1785360
     },
     {
       "UserName": "schmidiiii",
@@ -101,7 +101,7 @@
       "Wochen": 2,
       "Tage": 15,
       "Stunden": 362,
-      "WatchtimeSek": 1303740
+      "WatchtimeSek": 1305540
     },
     {
       "UserName": "J3loodyFe4r",
@@ -110,7 +110,7 @@
       "Wochen": 2,
       "Tage": 14,
       "Stunden": 353,
-      "WatchtimeSek": 1271340
+      "WatchtimeSek": 1273140
     },
     {
       "UserName": "xph1lo",
@@ -119,7 +119,7 @@
       "Wochen": 1,
       "Tage": 12,
       "Stunden": 289,
-      "WatchtimeSek": 1041180
+      "WatchtimeSek": 1042980
     },
     {
       "UserName": "rivorium",
@@ -127,8 +127,8 @@
       "Monate": 0,
       "Wochen": 1,
       "Tage": 8,
-      "Stunden": 213,
-      "WatchtimeSek": 769500
+      "Stunden": 214,
+      "WatchtimeSek": 771000
     },
     {
       "UserName": "GrinchiSC",
@@ -136,8 +136,8 @@
       "Monate": 0,
       "Wochen": 1,
       "Tage": 8,
-      "Stunden": 206,
-      "WatchtimeSek": 745080
+      "Stunden": 207,
+      "WatchtimeSek": 746880
     },
     {
       "UserName": "lalalalalands",
@@ -146,7 +146,7 @@
       "Wochen": 1,
       "Tage": 7,
       "Stunden": 168,
-      "WatchtimeSek": 605700
+      "WatchtimeSek": 607500
     },
     {
       "UserName": "Skytecc",
@@ -154,8 +154,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 6,
-      "Stunden": 163,
-      "WatchtimeSek": 589620
+      "Stunden": 164,
+      "WatchtimeSek": 591420
     },
     {
       "UserName": "Talarock",
@@ -191,7 +191,7 @@
       "Wochen": 0,
       "Tage": 5,
       "Stunden": 125,
-      "WatchtimeSek": 450000
+      "WatchtimeSek": 451800
     },
     {
       "UserName": "only_TK",
@@ -272,7 +272,7 @@
       "Wochen": 0,
       "Tage": 2,
       "Stunden": 62,
-      "WatchtimeSek": 223800
+      "WatchtimeSek": 225600
     },
     {
       "UserName": "Ahriman1234",
@@ -325,8 +325,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 2,
-      "Stunden": 49,
-      "WatchtimeSek": 178500
+      "Stunden": 50,
+      "WatchtimeSek": 180300
     },
     {
       "UserName": "Mantanismus",
@@ -470,7 +470,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 22,
-      "WatchtimeSek": 80700
+      "WatchtimeSek": 82500
     },
     {
       "UserName": "Panu_No1",
@@ -3040,6 +3040,15 @@
     {
       "UserName": "kenike_1",
       "UserLogin": "kenike_1",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 2100
+    },
+    {
+      "UserName": "DonSchotti",
+      "UserLogin": "donschotti",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -6109,15 +6118,6 @@
     {
       "UserName": "Muse_91",
       "UserLogin": "muse_91",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 300
-    },
-    {
-      "UserName": "DonSchotti",
-      "UserLogin": "donschotti",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
