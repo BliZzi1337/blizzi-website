@@ -233,6 +233,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "snoweye_",
+      "UserLogin": "snoweye_",
+      "Gold": "50000",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "chrabby_",
       "UserLogin": "chrabby_",
       "Gold": "49000",
@@ -263,12 +269,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "xph1lo",
-      "UserLogin": "xph1lo",
-      "Gold": "20000",
-      "Ausgezahlt": "100000"
-    },
-    {
       "UserName": "82Shinigami",
       "UserLogin": "82shinigami",
       "Gold": "20000",
@@ -279,6 +279,12 @@
       "UserLogin": "rina_deepy",
       "Gold": "15833",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gold": "10000",
+      "Ausgezahlt": "100000"
     },
     {
       "UserName": "gnomenpresse",
