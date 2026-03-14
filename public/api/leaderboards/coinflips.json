@@ -59,6 +59,15 @@
       "PunkteVerloren": "632500"
     },
     {
+      "UserName": "Jenny_Eleyna",
+      "UserLogin": "jenny_eleyna",
+      "Gesamt": "43",
+      "Gewonnen": "25",
+      "Verloren": "18",
+      "PunkteGewonnen": "660000",
+      "PunkteVerloren": "450000"
+    },
+    {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
       "Gesamt": "43",
@@ -66,15 +75,6 @@
       "Verloren": "27",
       "PunkteGewonnen": "500000",
       "PunkteVerloren": "850000"
-    },
-    {
-      "UserName": "Jenny_Eleyna",
-      "UserLogin": "jenny_eleyna",
-      "Gesamt": "41",
-      "Gewonnen": "24",
-      "Verloren": "17",
-      "PunkteGewonnen": "635000",
-      "PunkteVerloren": "425000"
     },
     {
       "UserName": "xph1lo",
@@ -185,6 +185,15 @@
       "PunkteVerloren": "85000"
     },
     {
+      "UserName": "duese19931",
+      "UserLogin": "duese19931",
+      "Gesamt": "6",
+      "Gewonnen": "3",
+      "Verloren": "3",
+      "PunkteGewonnen": "102000",
+      "PunkteVerloren": "54000"
+    },
+    {
       "UserName": "frittenchef_",
       "UserLogin": "frittenchef_",
       "Gesamt": "6",
@@ -192,15 +201,6 @@
       "Verloren": "5",
       "PunkteGewonnen": "50000",
       "PunkteVerloren": "100000"
-    },
-    {
-      "UserName": "duese19931",
-      "UserLogin": "duese19931",
-      "Gesamt": "5",
-      "Gewonnen": "3",
-      "Verloren": "2",
-      "PunkteGewonnen": "102000",
-      "PunkteVerloren": "4000"
     },
     {
       "UserName": "spindi_86",
@@ -291,6 +291,15 @@
       "Verloren": "0",
       "PunkteGewonnen": "3333",
       "PunkteVerloren": "0"
+    },
+    {
+      "UserName": "ToxicMonsti",
+      "UserLogin": "toxicmonsti",
+      "Gesamt": "1",
+      "Gewonnen": "0",
+      "Verloren": "1",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "50000"
     },
     {
       "UserName": "Furizawa",
