@@ -191,12 +191,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "frittenchef_",
-      "UserLogin": "frittenchef_",
-      "Gold": "50000",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "Whatsnew0101",
       "UserLogin": "whatsnew0101",
       "Gold": "50000",
@@ -429,6 +423,12 @@
       "UserLogin": "xph1lo",
       "Gold": "0",
       "Ausgezahlt": "100000"
+    },
+    {
+      "UserName": "frittenchef_",
+      "UserLogin": "frittenchef_",
+      "Gold": "0",
+      "Ausgezahlt": "0"
     },
     {
       "UserName": "Mantanismus",
