@@ -50,6 +50,15 @@
       "PunkteVerloren": "10469"
     },
     {
+      "UserName": "Jenny_Eleyna",
+      "UserLogin": "jenny_eleyna",
+      "Gesamt": "51",
+      "Gewonnen": "29",
+      "Verloren": "22",
+      "PunkteGewonnen": "760000",
+      "PunkteVerloren": "550000"
+    },
+    {
       "UserName": "Skytecc",
       "UserLogin": "skytecc",
       "Gesamt": "51",
@@ -59,21 +68,12 @@
       "PunkteVerloren": "632500"
     },
     {
-      "UserName": "Jenny_Eleyna",
-      "UserLogin": "jenny_eleyna",
-      "Gesamt": "49",
-      "Gewonnen": "28",
-      "Verloren": "21",
-      "PunkteGewonnen": "735000",
-      "PunkteVerloren": "525000"
-    },
-    {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
-      "Gesamt": "46",
-      "Gewonnen": "16",
+      "Gesamt": "47",
+      "Gewonnen": "17",
       "Verloren": "30",
-      "PunkteGewonnen": "500000",
+      "PunkteGewonnen": "550000",
       "PunkteVerloren": "1000000"
     },
     {
@@ -187,20 +187,20 @@
     {
       "UserName": "frittenchef_",
       "UserLogin": "frittenchef_",
-      "Gesamt": "8",
+      "Gesamt": "9",
       "Gewonnen": "1",
-      "Verloren": "7",
+      "Verloren": "8",
       "PunkteGewonnen": "50000",
-      "PunkteVerloren": "200000"
+      "PunkteVerloren": "250000"
     },
     {
       "UserName": "duese19931",
       "UserLogin": "duese19931",
-      "Gesamt": "7",
+      "Gesamt": "8",
       "Gewonnen": "4",
-      "Verloren": "3",
+      "Verloren": "4",
       "PunkteGewonnen": "152000",
-      "PunkteVerloren": "54000"
+      "PunkteVerloren": "104000"
     },
     {
       "UserName": "spindi_86",
