@@ -52,11 +52,11 @@
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Gesamt": "54",
+      "Gesamt": "56",
       "Gewonnen": "30",
-      "Verloren": "24",
+      "Verloren": "26",
       "PunkteGewonnen": "785000",
-      "PunkteVerloren": "600000"
+      "PunkteVerloren": "650000"
     },
     {
       "UserName": "Skytecc",
@@ -70,11 +70,11 @@
     {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
-      "Gesamt": "48",
+      "Gesamt": "49",
       "Gewonnen": "18",
-      "Verloren": "30",
+      "Verloren": "31",
       "PunkteGewonnen": "600000",
-      "PunkteVerloren": "1000000"
+      "PunkteVerloren": "1050000"
     },
     {
       "UserName": "xph1lo",
@@ -88,20 +88,20 @@
     {
       "UserName": "J3loodyFe4r",
       "UserLogin": "j3loodyfe4r",
-      "Gesamt": "31",
-      "Gewonnen": "19",
+      "Gesamt": "32",
+      "Gewonnen": "20",
       "Verloren": "12",
-      "PunkteGewonnen": "700000",
+      "PunkteGewonnen": "750000",
       "PunkteVerloren": "400000"
     },
     {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
-      "Gesamt": "26",
+      "Gesamt": "27",
       "Gewonnen": "14",
-      "Verloren": "12",
+      "Verloren": "13",
       "PunkteGewonnen": "700000",
-      "PunkteVerloren": "520500"
+      "PunkteVerloren": "570500"
     },
     {
       "UserName": "xfalk1337",
@@ -113,6 +113,15 @@
       "PunkteVerloren": "9027"
     },
     {
+      "UserName": "SrA86",
+      "UserLogin": "sra86",
+      "Gesamt": "21",
+      "Gewonnen": "8",
+      "Verloren": "13",
+      "PunkteGewonnen": "120025",
+      "PunkteVerloren": "212029"
+    },
+    {
       "UserName": "GrinchiSC",
       "UserLogin": "grinchisc",
       "Gesamt": "20",
@@ -120,15 +129,6 @@
       "Verloren": "8",
       "PunkteGewonnen": "120000",
       "PunkteVerloren": "95000"
-    },
-    {
-      "UserName": "SrA86",
-      "UserLogin": "sra86",
-      "Gesamt": "20",
-      "Gewonnen": "7",
-      "Verloren": "13",
-      "PunkteGewonnen": "70025",
-      "PunkteVerloren": "212029"
     },
     {
       "UserName": "BliZzi1337",
