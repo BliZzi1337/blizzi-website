@@ -53,16 +53,16 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "GrinchiSC",
+      "UserLogin": "grinchisc",
+      "Gold": "267000",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "rivorium",
       "UserLogin": "rivorium",
       "Gold": "253000",
       "Ausgezahlt": "80000"
-    },
-    {
-      "UserName": "GrinchiSC",
-      "UserLogin": "grinchisc",
-      "Gold": "217000",
-      "Ausgezahlt": "0"
     },
     {
       "UserName": "spindi_86",
@@ -175,6 +175,12 @@
     {
       "UserName": "elkostic55",
       "UserLogin": "elkostic55",
+      "Gold": "51000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
       "Gold": "51000",
       "Ausgezahlt": "0"
     },
@@ -326,12 +332,6 @@
       "UserName": "chrabby",
       "UserLogin": "chrabby",
       "Gold": "2000",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "vanock_",
-      "UserLogin": "vanock_",
-      "Gold": "1000",
       "Ausgezahlt": "0"
     },
     {
