@@ -329,6 +329,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
+      "Gold": "1000",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "only_TK",
       "UserLogin": "only_tk",
       "Gold": "500",
@@ -469,12 +475,6 @@
     {
       "UserName": "Furizawa",
       "UserLogin": "furizawa",
-      "Gold": "0",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "vanock_",
-      "UserLogin": "vanock_",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
