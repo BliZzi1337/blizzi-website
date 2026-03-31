@@ -61,11 +61,11 @@
     {
       "UserName": "Skytecc",
       "UserLogin": "skytecc",
-      "Gesamt": "51",
+      "Gesamt": "52",
       "Gewonnen": "25",
-      "Verloren": "26",
+      "Verloren": "27",
       "PunkteGewonnen": "583500",
-      "PunkteVerloren": "632500"
+      "PunkteVerloren": "682500"
     },
     {
       "UserName": "SrH_x",
@@ -113,15 +113,6 @@
       "PunkteVerloren": "9027"
     },
     {
-      "UserName": "SrA86",
-      "UserLogin": "sra86",
-      "Gesamt": "20",
-      "Gewonnen": "7",
-      "Verloren": "13",
-      "PunkteGewonnen": "70025",
-      "PunkteVerloren": "212029"
-    },
-    {
       "UserName": "GrinchiSC",
       "UserLogin": "grinchisc",
       "Gesamt": "20",
@@ -129,6 +120,15 @@
       "Verloren": "8",
       "PunkteGewonnen": "120000",
       "PunkteVerloren": "95000"
+    },
+    {
+      "UserName": "SrA86",
+      "UserLogin": "sra86",
+      "Gesamt": "20",
+      "Gewonnen": "7",
+      "Verloren": "13",
+      "PunkteGewonnen": "70025",
+      "PunkteVerloren": "212029"
     },
     {
       "UserName": "BliZzi1337",
@@ -176,15 +176,6 @@
       "PunkteVerloren": "185000"
     },
     {
-      "UserName": "frittenchef_",
-      "UserLogin": "frittenchef_",
-      "Gesamt": "9",
-      "Gewonnen": "1",
-      "Verloren": "8",
-      "PunkteGewonnen": "50000",
-      "PunkteVerloren": "250000"
-    },
-    {
       "UserName": "FlyingTrinker_Bell",
       "UserLogin": "flyingtrinker_bell",
       "Gesamt": "9",
@@ -192,6 +183,15 @@
       "Verloren": "6",
       "PunkteGewonnen": "390",
       "PunkteVerloren": "890"
+    },
+    {
+      "UserName": "frittenchef_",
+      "UserLogin": "frittenchef_",
+      "Gesamt": "9",
+      "Gewonnen": "1",
+      "Verloren": "8",
+      "PunkteGewonnen": "50000",
+      "PunkteVerloren": "250000"
     },
     {
       "UserName": "duese19931",
@@ -212,24 +212,6 @@
       "PunkteVerloren": "20000"
     },
     {
-      "UserName": "vanock_",
-      "UserLogin": "vanock_",
-      "Gesamt": "2",
-      "Gewonnen": "1",
-      "Verloren": "1",
-      "PunkteGewonnen": "1000",
-      "PunkteVerloren": "2000"
-    },
-    {
-      "UserName": "tamiiina",
-      "UserLogin": "tamiiina",
-      "Gesamt": "2",
-      "Gewonnen": "0",
-      "Verloren": "2",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "3500"
-    },
-    {
       "UserName": "bloodycruel",
       "UserLogin": "bloodycruel",
       "Gesamt": "2",
@@ -248,13 +230,13 @@
       "PunkteVerloren": "100000"
     },
     {
-      "UserName": "CallMeAdrk",
-      "UserLogin": "callmeadrk",
+      "UserName": "tamiiina",
+      "UserLogin": "tamiiina",
       "Gesamt": "2",
       "Gewonnen": "0",
       "Verloren": "2",
       "PunkteGewonnen": "0",
-      "PunkteVerloren": "50000"
+      "PunkteVerloren": "3500"
     },
     {
       "UserName": "lucky_luki95",
@@ -266,6 +248,24 @@
       "PunkteVerloren": "0"
     },
     {
+      "UserName": "CallMeAdrk",
+      "UserLogin": "callmeadrk",
+      "Gesamt": "2",
+      "Gewonnen": "0",
+      "Verloren": "2",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "50000"
+    },
+    {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
+      "Gesamt": "2",
+      "Gewonnen": "1",
+      "Verloren": "1",
+      "PunkteGewonnen": "1000",
+      "PunkteVerloren": "2000"
+    },
+    {
       "UserName": "xDarkNiiqht",
       "UserLogin": "xdarkniiqht",
       "Gesamt": "2",
@@ -275,21 +275,21 @@
       "PunkteVerloren": "10000"
     },
     {
-      "UserName": "82Shinigami",
-      "UserLogin": "82shinigami",
+      "UserName": "Shendrasil",
+      "UserLogin": "shendrasil",
       "Gesamt": "1",
       "Gewonnen": "0",
       "Verloren": "1",
       "PunkteGewonnen": "0",
-      "PunkteVerloren": "25000"
+      "PunkteVerloren": "50000"
     },
     {
-      "UserName": "Furizawa",
-      "UserLogin": "furizawa",
+      "UserName": "rina_deepy",
+      "UserLogin": "rina_deepy",
       "Gesamt": "1",
       "Gewonnen": "1",
       "Verloren": "0",
-      "PunkteGewonnen": "50000",
+      "PunkteGewonnen": "3333",
       "PunkteVerloren": "0"
     },
     {
@@ -302,6 +302,24 @@
       "PunkteVerloren": "50000"
     },
     {
+      "UserName": "Furizawa",
+      "UserLogin": "furizawa",
+      "Gesamt": "1",
+      "Gewonnen": "1",
+      "Verloren": "0",
+      "PunkteGewonnen": "50000",
+      "PunkteVerloren": "0"
+    },
+    {
+      "UserName": "82Shinigami",
+      "UserLogin": "82shinigami",
+      "Gesamt": "1",
+      "Gewonnen": "0",
+      "Verloren": "1",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "25000"
+    },
+    {
       "UserName": "Panu_No1",
       "UserLogin": "panu_no1",
       "Gesamt": "1",
@@ -309,24 +327,6 @@
       "Verloren": "0",
       "PunkteGewonnen": "2000",
       "PunkteVerloren": "0"
-    },
-    {
-      "UserName": "rina_deepy",
-      "UserLogin": "rina_deepy",
-      "Gesamt": "1",
-      "Gewonnen": "1",
-      "Verloren": "0",
-      "PunkteGewonnen": "3333",
-      "PunkteVerloren": "0"
-    },
-    {
-      "UserName": "Shendrasil",
-      "UserLogin": "shendrasil",
-      "Gesamt": "1",
-      "Gewonnen": "0",
-      "Verloren": "1",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "50000"
     }
   ]
 }
