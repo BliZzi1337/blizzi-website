@@ -137,12 +137,6 @@
       "Ausgezahlt": "337600"
     },
     {
-      "UserName": "palone",
-      "UserLogin": "palone",
-      "Gold": "66000",
-      "Ausgezahlt": "170000"
-    },
-    {
       "UserName": "xDarkNiiqht",
       "UserLogin": "xdarkniiqht",
       "Gold": "60500",
@@ -159,6 +153,12 @@
       "UserLogin": "vitkee94",
       "Gold": "55000",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "palone",
+      "UserLogin": "palone",
+      "Gold": "55000",
+      "Ausgezahlt": "170000"
     },
     {
       "UserName": "aryaa_qt",
@@ -275,12 +275,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "CallMeAdrk",
-      "UserLogin": "callmeadrk",
-      "Gold": "11470",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "SrA86",
       "UserLogin": "sra86",
       "Gold": "10050",
@@ -335,10 +329,10 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "xph1lo",
-      "UserLogin": "xph1lo",
-      "Gold": "680",
-      "Ausgezahlt": "100000"
+      "UserName": "CallMeAdrk",
+      "UserLogin": "callmeadrk",
+      "Gold": "1470",
+      "Ausgezahlt": "0"
     },
     {
       "UserName": "only_TK",
@@ -429,6 +423,12 @@
       "UserLogin": "moonfeder4",
       "Gold": "0",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gold": "0",
+      "Ausgezahlt": "100000"
     },
     {
       "UserName": "frittenchef_",
