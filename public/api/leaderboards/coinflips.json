@@ -61,11 +61,11 @@
     {
       "UserName": "Skytecc",
       "UserLogin": "skytecc",
-      "Gesamt": "54",
+      "Gesamt": "55",
       "Gewonnen": "27",
-      "Verloren": "27",
+      "Verloren": "28",
       "PunkteGewonnen": "613500",
-      "PunkteVerloren": "682500"
+      "PunkteVerloren": "702500"
     },
     {
       "UserName": "SrH_x",
@@ -167,6 +167,15 @@
       "PunkteVerloren": "166502"
     },
     {
+      "UserName": "frittenchef_",
+      "UserLogin": "frittenchef_",
+      "Gesamt": "10",
+      "Gewonnen": "1",
+      "Verloren": "9",
+      "PunkteGewonnen": "50000",
+      "PunkteVerloren": "300000"
+    },
+    {
       "UserName": "kensg0908",
       "UserLogin": "kensg0908",
       "Gesamt": "10",
@@ -183,15 +192,6 @@
       "Verloren": "6",
       "PunkteGewonnen": "390",
       "PunkteVerloren": "890"
-    },
-    {
-      "UserName": "frittenchef_",
-      "UserLogin": "frittenchef_",
-      "Gesamt": "9",
-      "Gewonnen": "1",
-      "Verloren": "8",
-      "PunkteGewonnen": "50000",
-      "PunkteVerloren": "250000"
     },
     {
       "UserName": "duese19931",
