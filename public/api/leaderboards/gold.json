@@ -143,6 +143,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "palone",
+      "UserLogin": "palone",
+      "Gold": "60000",
+      "Ausgezahlt": "170000"
+    },
+    {
       "UserName": "Artea12",
       "UserLogin": "artea12",
       "Gold": "56000",
@@ -153,12 +159,6 @@
       "UserLogin": "vitkee94",
       "Gold": "55000",
       "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "palone",
-      "UserLogin": "palone",
-      "Gold": "55000",
-      "Ausgezahlt": "170000"
     },
     {
       "UserName": "aryaa_qt",
