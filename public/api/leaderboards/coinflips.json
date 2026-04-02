@@ -212,6 +212,15 @@
       "PunkteVerloren": "70000"
     },
     {
+      "UserName": "palone",
+      "UserLogin": "palone",
+      "Gesamt": "3",
+      "Gewonnen": "1",
+      "Verloren": "2",
+      "PunkteGewonnen": "5000",
+      "PunkteVerloren": "11000"
+    },
+    {
       "UserName": "spindi_86",
       "UserLogin": "spindi_86",
       "Gesamt": "3",
@@ -237,15 +246,6 @@
       "Verloren": "2",
       "PunkteGewonnen": "0",
       "PunkteVerloren": "100000"
-    },
-    {
-      "UserName": "palone",
-      "UserLogin": "palone",
-      "Gesamt": "2",
-      "Gewonnen": "0",
-      "Verloren": "2",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "11000"
     },
     {
       "UserName": "tamiiina",
