@@ -79,11 +79,11 @@
     {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
-      "Gesamt": "39",
+      "Gesamt": "40",
       "Gewonnen": "10",
-      "Verloren": "29",
+      "Verloren": "30",
       "PunkteGewonnen": "227000",
-      "PunkteVerloren": "491501"
+      "PunkteVerloren": "492181"
     },
     {
       "UserName": "J3loodyFe4r",
@@ -203,6 +203,15 @@
       "PunkteVerloren": "104000"
     },
     {
+      "UserName": "CallMeAdrk",
+      "UserLogin": "callmeadrk",
+      "Gesamt": "4",
+      "Gewonnen": "1",
+      "Verloren": "3",
+      "PunkteGewonnen": "10000",
+      "PunkteVerloren": "70000"
+    },
+    {
       "UserName": "spindi_86",
       "UserLogin": "spindi_86",
       "Gesamt": "3",
@@ -230,6 +239,15 @@
       "PunkteVerloren": "100000"
     },
     {
+      "UserName": "palone",
+      "UserLogin": "palone",
+      "Gesamt": "2",
+      "Gewonnen": "0",
+      "Verloren": "2",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "11000"
+    },
+    {
       "UserName": "tamiiina",
       "UserLogin": "tamiiina",
       "Gesamt": "2",
@@ -246,15 +264,6 @@
       "Verloren": "0",
       "PunkteGewonnen": "45000",
       "PunkteVerloren": "0"
-    },
-    {
-      "UserName": "CallMeAdrk",
-      "UserLogin": "callmeadrk",
-      "Gesamt": "2",
-      "Gewonnen": "0",
-      "Verloren": "2",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "50000"
     },
     {
       "UserName": "vanock_",
