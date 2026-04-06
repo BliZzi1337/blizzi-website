@@ -25,19 +25,13 @@
     {
       "UserName": "J3loodyFe4r",
       "UserLogin": "j3loodyfe4r",
-      "Gold": "981799",
+      "Gold": "1031799",
       "Ausgezahlt": "0"
     },
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Gold": "605500",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "SrH_x",
-      "UserLogin": "srh_x",
-      "Gold": "393580",
+      "Gold": "555500",
       "Ausgezahlt": "0"
     },
     {
@@ -49,7 +43,13 @@
     {
       "UserName": "Daniel__1976",
       "UserLogin": "daniel__1976",
-      "Gold": "311000",
+      "Gold": "361000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "SrH_x",
+      "UserLogin": "srh_x",
+      "Gold": "343580",
       "Ausgezahlt": "0"
     },
     {
@@ -131,6 +131,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "doedchen",
+      "UserLogin": "doedchen",
+      "Gold": "100500",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "chrabby_",
       "UserLogin": "chrabby_",
       "Gold": "74000",
@@ -176,12 +182,6 @@
       "UserName": "elkostic55",
       "UserLogin": "elkostic55",
       "Gold": "51000",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "doedchen",
-      "UserLogin": "doedchen",
-      "Gold": "50500",
       "Ausgezahlt": "0"
     },
     {
@@ -272,12 +272,6 @@
       "UserName": "rina_deepy",
       "UserLogin": "rina_deepy",
       "Gold": "15833",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "SrA86",
-      "UserLogin": "sra86",
-      "Gold": "10050",
       "Ausgezahlt": "0"
     },
     {
@@ -487,6 +481,12 @@
     {
       "UserName": "liltrx12",
       "UserLogin": "liltrx12",
+      "Gold": "0",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "SrA86",
+      "UserLogin": "sra86",
       "Gold": "0",
       "Ausgezahlt": "0"
     }
