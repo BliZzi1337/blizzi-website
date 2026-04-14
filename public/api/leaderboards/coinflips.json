@@ -106,11 +106,11 @@
     {
       "UserName": "SrA86",
       "UserLogin": "sra86",
-      "Gesamt": "26",
+      "Gesamt": "27",
       "Gewonnen": "10",
-      "Verloren": "16",
+      "Verloren": "17",
       "PunkteGewonnen": "149925",
-      "PunkteVerloren": "296979"
+      "PunkteVerloren": "346979"
     },
     {
       "UserName": "xfalk1337",
@@ -149,6 +149,15 @@
       "PunkteVerloren": "95100"
     },
     {
+      "UserName": "chrabby_",
+      "UserLogin": "chrabby_",
+      "Gesamt": "15",
+      "Gewonnen": "7",
+      "Verloren": "8",
+      "PunkteGewonnen": "150000",
+      "PunkteVerloren": "216502"
+    },
+    {
       "UserName": "x_kinglouie_x",
       "UserLogin": "x_kinglouie_x",
       "Gesamt": "14",
@@ -156,15 +165,6 @@
       "Verloren": "9",
       "PunkteGewonnen": "165000",
       "PunkteVerloren": "389740"
-    },
-    {
-      "UserName": "chrabby_",
-      "UserLogin": "chrabby_",
-      "Gesamt": "14",
-      "Gewonnen": "7",
-      "Verloren": "7",
-      "PunkteGewonnen": "150000",
-      "PunkteVerloren": "166502"
     },
     {
       "UserName": "frittenchef_",
