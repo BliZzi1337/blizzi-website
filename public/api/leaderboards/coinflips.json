@@ -79,11 +79,11 @@
     {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
-      "Gesamt": "40",
+      "Gesamt": "41",
       "Gewonnen": "10",
-      "Verloren": "30",
+      "Verloren": "31",
       "PunkteGewonnen": "227000",
-      "PunkteVerloren": "492181"
+      "PunkteVerloren": "542181"
     },
     {
       "UserName": "J3loodyFe4r",
@@ -246,6 +246,15 @@
       "Verloren": "2",
       "PunkteGewonnen": "0",
       "PunkteVerloren": "50000"
+    },
+    {
+      "UserName": "wonderboom12345",
+      "UserLogin": "wonderboom12345",
+      "Gesamt": "2",
+      "Gewonnen": "1",
+      "Verloren": "1",
+      "PunkteGewonnen": "40000",
+      "PunkteVerloren": "10000"
     },
     {
       "UserName": "Mantanismus",
