@@ -113,12 +113,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "chrabby_",
-      "UserLogin": "chrabby_",
-      "Gold": "123500",
-      "Ausgezahlt": "337600"
-    },
-    {
       "UserName": "saddi_86",
       "UserLogin": "saddi_86",
       "Gold": "121005",
@@ -141,6 +135,12 @@
       "UserLogin": "doedchen",
       "Gold": "100500",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "chrabby_",
+      "UserLogin": "chrabby_",
+      "Gold": "73500",
+      "Ausgezahlt": "337600"
     },
     {
       "UserName": "xDarkNiiqht",
