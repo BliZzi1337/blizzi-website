@@ -19,19 +19,19 @@
     {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
-      "Gold": "1860495",
+      "Gold": "1855495",
       "Ausgezahlt": "0"
     },
     {
       "UserName": "J3loodyFe4r",
       "UserLogin": "j3loodyfe4r",
-      "Gold": "931799",
+      "Gold": "919799",
       "Ausgezahlt": "0"
     },
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Gold": "505500",
+      "Gold": "505000",
       "Ausgezahlt": "0"
     },
     {
@@ -109,7 +109,7 @@
     {
       "UserName": "da_Hosch",
       "UserLogin": "da_hosch",
-      "Gold": "131050",
+      "Gold": "130550",
       "Ausgezahlt": "0"
     },
     {
@@ -203,12 +203,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "pandavii_99",
-      "UserLogin": "pandavii_99",
-      "Gold": "50000",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "Actraiser7",
       "UserLogin": "actraiser7",
       "Gold": "50000",
@@ -251,6 +245,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "pandavii_99",
+      "UserLogin": "pandavii_99",
+      "Gold": "45000",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "shaiken3d",
       "UserLogin": "shaiken3d",
       "Gold": "40000",
@@ -283,6 +283,12 @@
     {
       "UserName": "gnomenpresse",
       "UserLogin": "gnomenpresse",
+      "Gold": "10000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "stardust_1984",
+      "UserLogin": "stardust_1984",
       "Gold": "10000",
       "Ausgezahlt": "0"
     },
@@ -341,12 +347,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "vanock_",
-      "UserLogin": "vanock_",
-      "Gold": "1198",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "only_TK",
       "UserLogin": "only_tk",
       "Gold": "500",
@@ -374,6 +374,12 @@
       "UserName": "lalalalalands",
       "UserLogin": "lalalalalands",
       "Gold": "500",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
+      "Gold": "198",
       "Ausgezahlt": "0"
     },
     {
