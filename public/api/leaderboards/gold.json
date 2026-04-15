@@ -137,6 +137,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "SrA86",
+      "UserLogin": "sra86",
+      "Gold": "100000",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "wonderboom12345",
       "UserLogin": "wonderboom12345",
       "Gold": "78500",
@@ -439,12 +445,6 @@
     {
       "UserName": "Moonfeder4",
       "UserLogin": "moonfeder4",
-      "Gold": "0",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "SrA86",
-      "UserLogin": "sra86",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
