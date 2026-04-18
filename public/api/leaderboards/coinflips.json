@@ -203,15 +203,6 @@
       "PunkteVerloren": "104000"
     },
     {
-      "UserName": "CallMeAdrk",
-      "UserLogin": "callmeadrk",
-      "Gesamt": "4",
-      "Gewonnen": "1",
-      "Verloren": "3",
-      "PunkteGewonnen": "10000",
-      "PunkteVerloren": "70000"
-    },
-    {
       "UserName": "palone",
       "UserLogin": "palone",
       "Gesamt": "4",
@@ -221,13 +212,13 @@
       "PunkteVerloren": "21000"
     },
     {
-      "UserName": "spindi_86",
-      "UserLogin": "spindi_86",
-      "Gesamt": "3",
-      "Gewonnen": "2",
-      "Verloren": "1",
-      "PunkteGewonnen": "35000",
-      "PunkteVerloren": "20000"
+      "UserName": "CallMeAdrk",
+      "UserLogin": "callmeadrk",
+      "Gesamt": "4",
+      "Gewonnen": "1",
+      "Verloren": "3",
+      "PunkteGewonnen": "10000",
+      "PunkteVerloren": "70000"
     },
     {
       "UserName": "vanock_",
@@ -239,13 +230,13 @@
       "PunkteVerloren": "52000"
     },
     {
-      "UserName": "tamiiina",
-      "UserLogin": "tamiiina",
-      "Gesamt": "2",
-      "Gewonnen": "0",
-      "Verloren": "2",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "3500"
+      "UserName": "spindi_86",
+      "UserLogin": "spindi_86",
+      "Gesamt": "3",
+      "Gewonnen": "2",
+      "Verloren": "1",
+      "PunkteGewonnen": "35000",
+      "PunkteVerloren": "20000"
     },
     {
       "UserName": "bloodycruel",
@@ -257,6 +248,15 @@
       "PunkteVerloren": "50000"
     },
     {
+      "UserName": "wonderboom12345",
+      "UserLogin": "wonderboom12345",
+      "Gesamt": "2",
+      "Gewonnen": "1",
+      "Verloren": "1",
+      "PunkteGewonnen": "40000",
+      "PunkteVerloren": "10000"
+    },
+    {
       "UserName": "Mantanismus",
       "UserLogin": "mantanismus",
       "Gesamt": "2",
@@ -266,13 +266,13 @@
       "PunkteVerloren": "100000"
     },
     {
-      "UserName": "wonderboom12345",
-      "UserLogin": "wonderboom12345",
+      "UserName": "tamiiina",
+      "UserLogin": "tamiiina",
       "Gesamt": "2",
-      "Gewonnen": "1",
-      "Verloren": "1",
-      "PunkteGewonnen": "40000",
-      "PunkteVerloren": "10000"
+      "Gewonnen": "0",
+      "Verloren": "2",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "3500"
     },
     {
       "UserName": "lucky_luki95",
@@ -302,40 +302,13 @@
       "PunkteVerloren": "50000"
     },
     {
-      "UserName": "82Shinigami",
-      "UserLogin": "82shinigami",
-      "Gesamt": "1",
-      "Gewonnen": "0",
-      "Verloren": "1",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "25000"
-    },
-    {
-      "UserName": "Furizawa",
-      "UserLogin": "furizawa",
-      "Gesamt": "1",
-      "Gewonnen": "1",
-      "Verloren": "0",
-      "PunkteGewonnen": "50000",
-      "PunkteVerloren": "0"
-    },
-    {
-      "UserName": "ToxicMonsti",
-      "UserLogin": "toxicmonsti",
+      "UserName": "Shendrasil",
+      "UserLogin": "shendrasil",
       "Gesamt": "1",
       "Gewonnen": "0",
       "Verloren": "1",
       "PunkteGewonnen": "0",
       "PunkteVerloren": "50000"
-    },
-    {
-      "UserName": "Panu_No1",
-      "UserLogin": "panu_no1",
-      "Gesamt": "1",
-      "Gewonnen": "1",
-      "Verloren": "0",
-      "PunkteGewonnen": "2000",
-      "PunkteVerloren": "0"
     },
     {
       "UserName": "rina_deepy",
@@ -347,8 +320,8 @@
       "PunkteVerloren": "0"
     },
     {
-      "UserName": "Shendrasil",
-      "UserLogin": "shendrasil",
+      "UserName": "ToxicMonsti",
+      "UserLogin": "toxicmonsti",
       "Gesamt": "1",
       "Gewonnen": "0",
       "Verloren": "1",
@@ -362,6 +335,33 @@
       "Gewonnen": "1",
       "Verloren": "0",
       "PunkteGewonnen": "10000",
+      "PunkteVerloren": "0"
+    },
+    {
+      "UserName": "Furizawa",
+      "UserLogin": "furizawa",
+      "Gesamt": "1",
+      "Gewonnen": "1",
+      "Verloren": "0",
+      "PunkteGewonnen": "50000",
+      "PunkteVerloren": "0"
+    },
+    {
+      "UserName": "82Shinigami",
+      "UserLogin": "82shinigami",
+      "Gesamt": "1",
+      "Gewonnen": "0",
+      "Verloren": "1",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "25000"
+    },
+    {
+      "UserName": "Panu_No1",
+      "UserLogin": "panu_no1",
+      "Gesamt": "1",
+      "Gewonnen": "1",
+      "Verloren": "0",
+      "PunkteGewonnen": "2000",
       "PunkteVerloren": "0"
     }
   ]
