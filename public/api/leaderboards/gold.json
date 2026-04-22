@@ -19,7 +19,7 @@
     {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
-      "Gold": "1800245",
+      "Gold": "1855245",
       "Ausgezahlt": "0"
     },
     {
@@ -101,12 +101,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "SrA86",
-      "UserLogin": "sra86",
-      "Gold": "150000",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "phil_aka_albi",
       "UserLogin": "phil_aka_albi",
       "Gold": "139500",
@@ -140,6 +134,12 @@
       "UserName": "doedchen",
       "UserLogin": "doedchen",
       "Gold": "100500",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "SrA86",
+      "UserLogin": "sra86",
+      "Gold": "95000",
       "Ausgezahlt": "0"
     },
     {
