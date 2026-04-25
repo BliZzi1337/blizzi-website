@@ -203,15 +203,6 @@
       "PunkteVerloren": "104000"
     },
     {
-      "UserName": "palone",
-      "UserLogin": "palone",
-      "Gesamt": "4",
-      "Gewonnen": "1",
-      "Verloren": "3",
-      "PunkteGewonnen": "5000",
-      "PunkteVerloren": "21000"
-    },
-    {
       "UserName": "CallMeAdrk",
       "UserLogin": "callmeadrk",
       "Gesamt": "4",
@@ -221,22 +212,13 @@
       "PunkteVerloren": "70000"
     },
     {
-      "UserName": "wonderboom12345",
-      "UserLogin": "wonderboom12345",
-      "Gesamt": "3",
+      "UserName": "palone",
+      "UserLogin": "palone",
+      "Gesamt": "4",
       "Gewonnen": "1",
-      "Verloren": "2",
-      "PunkteGewonnen": "40000",
-      "PunkteVerloren": "60000"
-    },
-    {
-      "UserName": "vanock_",
-      "UserLogin": "vanock_",
-      "Gesamt": "3",
-      "Gewonnen": "1",
-      "Verloren": "2",
-      "PunkteGewonnen": "1000",
-      "PunkteVerloren": "52000"
+      "Verloren": "3",
+      "PunkteGewonnen": "5000",
+      "PunkteVerloren": "21000"
     },
     {
       "UserName": "spindi_86",
@@ -248,6 +230,33 @@
       "PunkteVerloren": "20000"
     },
     {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
+      "Gesamt": "3",
+      "Gewonnen": "1",
+      "Verloren": "2",
+      "PunkteGewonnen": "1000",
+      "PunkteVerloren": "52000"
+    },
+    {
+      "UserName": "wonderboom12345",
+      "UserLogin": "wonderboom12345",
+      "Gesamt": "3",
+      "Gewonnen": "1",
+      "Verloren": "2",
+      "PunkteGewonnen": "40000",
+      "PunkteVerloren": "60000"
+    },
+    {
+      "UserName": "tamiiina",
+      "UserLogin": "tamiiina",
+      "Gesamt": "2",
+      "Gewonnen": "0",
+      "Verloren": "2",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "3500"
+    },
+    {
       "UserName": "bloodycruel",
       "UserLogin": "bloodycruel",
       "Gesamt": "2",
@@ -255,15 +264,6 @@
       "Verloren": "2",
       "PunkteGewonnen": "0",
       "PunkteVerloren": "50000"
-    },
-    {
-      "UserName": "Shendrasil",
-      "UserLogin": "shendrasil",
-      "Gesamt": "2",
-      "Gewonnen": "0",
-      "Verloren": "2",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "100000"
     },
     {
       "UserName": "Mantanismus",
@@ -275,13 +275,13 @@
       "PunkteVerloren": "100000"
     },
     {
-      "UserName": "tamiiina",
-      "UserLogin": "tamiiina",
+      "UserName": "Shendrasil",
+      "UserLogin": "shendrasil",
       "Gesamt": "2",
       "Gewonnen": "0",
       "Verloren": "2",
       "PunkteGewonnen": "0",
-      "PunkteVerloren": "3500"
+      "PunkteVerloren": "100000"
     },
     {
       "UserName": "lucky_luki95",
@@ -311,12 +311,21 @@
       "PunkteVerloren": "50000"
     },
     {
-      "UserName": "rina_deepy",
-      "UserLogin": "rina_deepy",
+      "UserName": "82Shinigami",
+      "UserLogin": "82shinigami",
+      "Gesamt": "1",
+      "Gewonnen": "0",
+      "Verloren": "1",
+      "PunkteGewonnen": "0",
+      "PunkteVerloren": "25000"
+    },
+    {
+      "UserName": "Furizawa",
+      "UserLogin": "furizawa",
       "Gesamt": "1",
       "Gewonnen": "1",
       "Verloren": "0",
-      "PunkteGewonnen": "3333",
+      "PunkteGewonnen": "50000",
       "PunkteVerloren": "0"
     },
     {
@@ -329,39 +338,30 @@
       "PunkteVerloren": "50000"
     },
     {
-      "UserName": "Whatsnew0101",
-      "UserLogin": "whatsnew0101",
-      "Gesamt": "1",
-      "Gewonnen": "1",
-      "Verloren": "0",
-      "PunkteGewonnen": "10000",
-      "PunkteVerloren": "0"
-    },
-    {
-      "UserName": "Furizawa",
-      "UserLogin": "furizawa",
-      "Gesamt": "1",
-      "Gewonnen": "1",
-      "Verloren": "0",
-      "PunkteGewonnen": "50000",
-      "PunkteVerloren": "0"
-    },
-    {
-      "UserName": "82Shinigami",
-      "UserLogin": "82shinigami",
-      "Gesamt": "1",
-      "Gewonnen": "0",
-      "Verloren": "1",
-      "PunkteGewonnen": "0",
-      "PunkteVerloren": "25000"
-    },
-    {
       "UserName": "Panu_No1",
       "UserLogin": "panu_no1",
       "Gesamt": "1",
       "Gewonnen": "1",
       "Verloren": "0",
       "PunkteGewonnen": "2000",
+      "PunkteVerloren": "0"
+    },
+    {
+      "UserName": "rina_deepy",
+      "UserLogin": "rina_deepy",
+      "Gesamt": "1",
+      "Gewonnen": "1",
+      "Verloren": "0",
+      "PunkteGewonnen": "3333",
+      "PunkteVerloren": "0"
+    },
+    {
+      "UserName": "Whatsnew0101",
+      "UserLogin": "whatsnew0101",
+      "Gesamt": "1",
+      "Gewonnen": "1",
+      "Verloren": "0",
+      "PunkteGewonnen": "10000",
       "PunkteVerloren": "0"
     }
   ]
