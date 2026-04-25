@@ -221,6 +221,15 @@
       "PunkteVerloren": "70000"
     },
     {
+      "UserName": "wonderboom12345",
+      "UserLogin": "wonderboom12345",
+      "Gesamt": "3",
+      "Gewonnen": "1",
+      "Verloren": "2",
+      "PunkteGewonnen": "40000",
+      "PunkteVerloren": "60000"
+    },
+    {
       "UserName": "vanock_",
       "UserLogin": "vanock_",
       "Gesamt": "3",
@@ -255,15 +264,6 @@
       "Verloren": "2",
       "PunkteGewonnen": "0",
       "PunkteVerloren": "100000"
-    },
-    {
-      "UserName": "wonderboom12345",
-      "UserLogin": "wonderboom12345",
-      "Gesamt": "2",
-      "Gewonnen": "1",
-      "Verloren": "1",
-      "PunkteGewonnen": "40000",
-      "PunkteVerloren": "10000"
     },
     {
       "UserName": "Mantanismus",
