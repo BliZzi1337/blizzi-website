@@ -233,12 +233,6 @@
       "Ausgezahlt": "170000"
     },
     {
-      "UserName": "wonderboom12345",
-      "UserLogin": "wonderboom12345",
-      "Gold": "46500",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "Ahriman1234",
       "UserLogin": "ahriman1234",
       "Gold": "45000",
@@ -247,6 +241,12 @@
     {
       "UserName": "pandavii_99",
       "UserLogin": "pandavii_99",
+      "Gold": "45000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "wonderboom12345",
+      "UserLogin": "wonderboom12345",
       "Gold": "45000",
       "Ausgezahlt": "0"
     },
