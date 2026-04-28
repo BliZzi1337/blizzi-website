@@ -88,10 +88,10 @@
     {
       "UserName": "J3loodyFe4r",
       "UserLogin": "j3loodyfe4r",
-      "Gesamt": "41",
-      "Gewonnen": "25",
+      "Gesamt": "42",
+      "Gewonnen": "26",
       "Verloren": "16",
-      "PunkteGewonnen": "1000000",
+      "PunkteGewonnen": "1050000",
       "PunkteVerloren": "600000"
     },
     {
@@ -185,6 +185,15 @@
       "PunkteVerloren": "235000"
     },
     {
+      "UserName": "duese19931",
+      "UserLogin": "duese19931",
+      "Gesamt": "10",
+      "Gewonnen": "6",
+      "Verloren": "4",
+      "PunkteGewonnen": "252000",
+      "PunkteVerloren": "104000"
+    },
+    {
       "UserName": "FlyingTrinker_Bell",
       "UserLogin": "flyingtrinker_bell",
       "Gesamt": "9",
@@ -194,13 +203,13 @@
       "PunkteVerloren": "890"
     },
     {
-      "UserName": "duese19931",
-      "UserLogin": "duese19931",
-      "Gesamt": "9",
-      "Gewonnen": "5",
-      "Verloren": "4",
-      "PunkteGewonnen": "202000",
-      "PunkteVerloren": "104000"
+      "UserName": "wonderboom12345",
+      "UserLogin": "wonderboom12345",
+      "Gesamt": "4",
+      "Gewonnen": "1",
+      "Verloren": "3",
+      "PunkteGewonnen": "40000",
+      "PunkteVerloren": "88500"
     },
     {
       "UserName": "CallMeAdrk",
@@ -237,15 +246,6 @@
       "Verloren": "2",
       "PunkteGewonnen": "1000",
       "PunkteVerloren": "52000"
-    },
-    {
-      "UserName": "wonderboom12345",
-      "UserLogin": "wonderboom12345",
-      "Gesamt": "3",
-      "Gewonnen": "1",
-      "Verloren": "2",
-      "PunkteGewonnen": "40000",
-      "PunkteVerloren": "60000"
     },
     {
       "UserName": "tamiiina",
@@ -291,6 +291,15 @@
       "Verloren": "0",
       "PunkteGewonnen": "45000",
       "PunkteVerloren": "0"
+    },
+    {
+      "UserName": "Whatsnew0101",
+      "UserLogin": "whatsnew0101",
+      "Gesamt": "2",
+      "Gewonnen": "1",
+      "Verloren": "1",
+      "PunkteGewonnen": "10000",
+      "PunkteVerloren": "20000"
     },
     {
       "UserName": "xDarkNiiqht",
@@ -353,15 +362,6 @@
       "Gewonnen": "1",
       "Verloren": "0",
       "PunkteGewonnen": "3333",
-      "PunkteVerloren": "0"
-    },
-    {
-      "UserName": "Whatsnew0101",
-      "UserLogin": "whatsnew0101",
-      "Gesamt": "1",
-      "Gewonnen": "1",
-      "Verloren": "0",
-      "PunkteGewonnen": "10000",
       "PunkteVerloren": "0"
     }
   ]
