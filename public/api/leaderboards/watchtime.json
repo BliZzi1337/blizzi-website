@@ -37,8 +37,8 @@
       "Monate": 1,
       "Wochen": 7,
       "Tage": 54,
-      "Stunden": 1312,
-      "WatchtimeSek": 4725900
+      "Stunden": 1313,
+      "WatchtimeSek": 4727640
     },
     {
       "UserName": "SrA86",
@@ -47,7 +47,7 @@
       "Wochen": 6,
       "Tage": 43,
       "Stunden": 1038,
-      "WatchtimeSek": 3737460
+      "WatchtimeSek": 3738660
     },
     {
       "UserName": "Jenny_Eleyna",
@@ -55,8 +55,8 @@
       "Monate": 1,
       "Wochen": 5,
       "Tage": 41,
-      "Stunden": 988,
-      "WatchtimeSek": 3559980
+      "Stunden": 989,
+      "WatchtimeSek": 3561720
     },
     {
       "UserName": "ToxicMonsti",
@@ -65,7 +65,7 @@
       "Wochen": 5,
       "Tage": 37,
       "Stunden": 906,
-      "WatchtimeSek": 3262380
+      "WatchtimeSek": 3264120
     },
     {
       "UserName": "ruuuuby",
@@ -83,7 +83,7 @@
       "Wochen": 3,
       "Tage": 23,
       "Stunden": 562,
-      "WatchtimeSek": 2025180
+      "WatchtimeSek": 2026560
     },
     {
       "UserName": "pandavii_99",
@@ -118,8 +118,8 @@
       "Monate": 0,
       "Wochen": 2,
       "Tage": 14,
-      "Stunden": 348,
-      "WatchtimeSek": 1255620
+      "Stunden": 349,
+      "WatchtimeSek": 1256940
     },
     {
       "UserName": "rivorium",
@@ -137,7 +137,7 @@
       "Wochen": 1,
       "Tage": 9,
       "Stunden": 237,
-      "WatchtimeSek": 853560
+      "WatchtimeSek": 855300
     },
     {
       "UserName": "GrinchiSC",
@@ -154,8 +154,8 @@
       "Monate": 0,
       "Wochen": 1,
       "Tage": 8,
-      "Stunden": 194,
-      "WatchtimeSek": 700860
+      "Stunden": 195,
+      "WatchtimeSek": 702360
     },
     {
       "UserName": "Skytecc",
@@ -173,7 +173,7 @@
       "Wochen": 0,
       "Tage": 6,
       "Stunden": 163,
-      "WatchtimeSek": 588900
+      "WatchtimeSek": 589980
     },
     {
       "UserName": "Talarock",
@@ -227,7 +227,7 @@
       "Wochen": 0,
       "Tage": 3,
       "Stunden": 91,
-      "WatchtimeSek": 330000
+      "WatchtimeSek": 330600
     },
     {
       "UserName": "KhaosK6",
@@ -488,7 +488,7 @@
       "Wochen": 0,
       "Tage": 1,
       "Stunden": 27,
-      "WatchtimeSek": 97980
+      "WatchtimeSek": 99480
     },
     {
       "UserName": "calyypsoolein",
@@ -551,7 +551,7 @@
       "Wochen": 0,
       "Tage": 0,
       "Stunden": 15,
-      "WatchtimeSek": 54720
+      "WatchtimeSek": 55140
     },
     {
       "UserName": "Kehrbesen_",
@@ -694,8 +694,8 @@
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
-      "Stunden": 10,
-      "WatchtimeSek": 39420
+      "Stunden": 11,
+      "WatchtimeSek": 39900
     },
     {
       "UserName": "Hai_Attack03",
@@ -9086,26 +9086,8 @@
       "WatchtimeSek": 300
     },
     {
-      "UserName": "Dragooniie",
-      "UserLogin": "dragooniie",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 300
-    },
-    {
-      "UserName": "Milby_san",
-      "UserLogin": "milby_san",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 300
-    },
-    {
-      "UserName": "trainztv",
-      "UserLogin": "trainztv",
+      "UserName": "old_greyhound",
+      "UserLogin": "old_greyhound",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -9122,8 +9104,26 @@
       "WatchtimeSek": 300
     },
     {
-      "UserName": "old_greyhound",
-      "UserLogin": "old_greyhound",
+      "UserName": "Dragooniie",
+      "UserLogin": "dragooniie",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 300
+    },
+    {
+      "UserName": "trainztv",
+      "UserLogin": "trainztv",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 300
+    },
+    {
+      "UserName": "Milby_san",
+      "UserLogin": "milby_san",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -9203,15 +9203,6 @@
       "WatchtimeSek": 240
     },
     {
-      "UserName": "TurqoiseBeam",
-      "UserLogin": "turqoisebeam",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 240
-    },
-    {
       "UserName": "Karnert83",
       "UserLogin": "karnert83",
       "Monate": 0,
@@ -9221,8 +9212,8 @@
       "WatchtimeSek": 240
     },
     {
-      "UserName": "dickoninho",
-      "UserLogin": "dickoninho",
+      "UserName": "kennysm17",
+      "UserLogin": "kennysm17",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -9239,8 +9230,17 @@
       "WatchtimeSek": 240
     },
     {
-      "UserName": "kennysm17",
-      "UserLogin": "kennysm17",
+      "UserName": "TurqoiseBeam",
+      "UserLogin": "turqoisebeam",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 240
+    },
+    {
+      "UserName": "dickoninho",
+      "UserLogin": "dickoninho",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -9554,8 +9554,8 @@
       "WatchtimeSek": 180
     },
     {
-      "UserName": "Tabaluga82",
-      "UserLogin": "tabaluga82",
+      "UserName": "Dullederbulle",
+      "UserLogin": "dullederbulle",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -9563,8 +9563,17 @@
       "WatchtimeSek": 180
     },
     {
-      "UserName": "Dullederbulle",
-      "UserLogin": "dullederbulle",
+      "UserName": "zackmortus",
+      "UserLogin": "zackmortus",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 180
+    },
+    {
+      "UserName": "STUART09130621",
+      "UserLogin": "stuart09130621",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -9590,8 +9599,8 @@
       "WatchtimeSek": 180
     },
     {
-      "UserName": "zackmortus",
-      "UserLogin": "zackmortus",
+      "UserName": "saneblazer",
+      "UserLogin": "saneblazer",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -9608,17 +9617,8 @@
       "WatchtimeSek": 180
     },
     {
-      "UserName": "saneblazer",
-      "UserLogin": "saneblazer",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 180
-    },
-    {
-      "UserName": "STUART09130621",
-      "UserLogin": "stuart09130621",
+      "UserName": "Tabaluga82",
+      "UserLogin": "tabaluga82",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -9950,71 +9950,8 @@
       "WatchtimeSek": 120
     },
     {
-      "UserName": "messieldominic",
-      "UserLogin": "messieldominic",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "sheranonixyt",
-      "UserLogin": "sheranonixyt",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "00kittyyy",
-      "UserLogin": "00kittyyy",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "Re_Bara",
-      "UserLogin": "re_bara",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "attatan_666",
-      "UserLogin": "attatan_666",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "classicqueen",
-      "UserLogin": "classicqueen",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "Syntaex97",
-      "UserLogin": "syntaex97",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "phoon41201",
-      "UserLogin": "phoon41201",
+      "UserName": "xDaaNL_",
+      "UserLogin": "xdaanl_",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -10031,98 +9968,8 @@
       "WatchtimeSek": 120
     },
     {
-      "UserName": "babyazcool",
-      "UserLogin": "babyazcool",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "gss2kkk",
-      "UserLogin": "gss2kkk",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "lopezwizzard",
-      "UserLogin": "lopezwizzard",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "zefirek_",
-      "UserLogin": "zefirek_",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "magnum_gameplays",
-      "UserLogin": "magnum_gameplays",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "xDaaNL_",
-      "UserLogin": "xdaanl_",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "elmulticuentasbancarias",
-      "UserLogin": "elmulticuentasbancarias",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "sp0oko",
-      "UserLogin": "sp0oko",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "trixpagode",
-      "UserLogin": "trixpagode",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "jusetsu_7",
-      "UserLogin": "jusetsu_7",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 120
-    },
-    {
-      "UserName": "Beatek_",
-      "UserLogin": "beatek_",
+      "UserName": "jesusdenazareth7",
+      "UserLogin": "jesusdenazareth7",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -10139,8 +9986,8 @@
       "WatchtimeSek": 120
     },
     {
-      "UserName": "patrickzxxxx",
-      "UserLogin": "patrickzxxxx",
+      "UserName": "messieldominic",
+      "UserLogin": "messieldominic",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -10148,8 +9995,8 @@
       "WatchtimeSek": 120
     },
     {
-      "UserName": "jesusdenazareth7",
-      "UserLogin": "jesusdenazareth7",
+      "UserName": "Syntaex97",
+      "UserLogin": "syntaex97",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -10166,8 +10013,161 @@
       "WatchtimeSek": 120
     },
     {
+      "UserName": "00kittyyy",
+      "UserLogin": "00kittyyy",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "babyazcool",
+      "UserLogin": "babyazcool",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "sheranonixyt",
+      "UserLogin": "sheranonixyt",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "Re_Bara",
+      "UserLogin": "re_bara",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "trixpagode",
+      "UserLogin": "trixpagode",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "elmulticuentasbancarias",
+      "UserLogin": "elmulticuentasbancarias",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "phoon41201",
+      "UserLogin": "phoon41201",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "sp0oko",
+      "UserLogin": "sp0oko",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "classicqueen",
+      "UserLogin": "classicqueen",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "zefirek_",
+      "UserLogin": "zefirek_",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "gss2kkk",
+      "UserLogin": "gss2kkk",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "attatan_666",
+      "UserLogin": "attatan_666",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "magnum_gameplays",
+      "UserLogin": "magnum_gameplays",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
       "UserName": "ninja_anger",
       "UserLogin": "ninja_anger",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "Beatek_",
+      "UserLogin": "beatek_",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "patrickzxxxx",
+      "UserLogin": "patrickzxxxx",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "jusetsu_7",
+      "UserLogin": "jusetsu_7",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 120
+    },
+    {
+      "UserName": "lopezwizzard",
+      "UserLogin": "lopezwizzard",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -10274,53 +10274,53 @@
       "WatchtimeSek": 60
     },
     {
-      "UserName": "queziavcd",
-      "UserLogin": "queziavcd",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 60
-    },
-    {
-      "UserName": "felcapela",
-      "UserLogin": "felcapela",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 60
-    },
-    {
-      "UserName": "akacoladj",
-      "UserLogin": "akacoladj",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 60
-    },
-    {
-      "UserName": "enixcore",
-      "UserLogin": "enixcore",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 60
-    },
-    {
-      "UserName": "AriEra__",
-      "UserLogin": "ariera__",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 60
-    },
-    {
       "UserName": "nzeqt",
       "UserLogin": "nzeqt",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 60
+    },
+    {
+      "UserName": "m0m0i",
+      "UserLogin": "m0m0i",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 60
+    },
+    {
+      "UserName": "inajka",
+      "UserLogin": "inajka",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 60
+    },
+    {
+      "UserName": "pirarucuatomico69000",
+      "UserLogin": "pirarucuatomico69000",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 60
+    },
+    {
+      "UserName": "griffin1192",
+      "UserLogin": "griffin1192",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 60
+    },
+    {
+      "UserName": "stickykeycap",
+      "UserLogin": "stickykeycap",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -10346,6 +10346,42 @@
       "WatchtimeSek": 60
     },
     {
+      "UserName": "benutzer50",
+      "UserLogin": "benutzer50",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 60
+    },
+    {
+      "UserName": "AriEra__",
+      "UserLogin": "ariera__",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 60
+    },
+    {
+      "UserName": "queziavcd",
+      "UserLogin": "queziavcd",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 60
+    },
+    {
+      "UserName": "beneth01",
+      "UserLogin": "beneth01",
+      "Monate": 0,
+      "Wochen": 0,
+      "Tage": 0,
+      "Stunden": 0,
+      "WatchtimeSek": 60
+    },
+    {
       "UserName": "Mxnki",
       "UserLogin": "mxnki",
       "Monate": 0,
@@ -10355,8 +10391,8 @@
       "WatchtimeSek": 60
     },
     {
-      "UserName": "griffin1192",
-      "UserLogin": "griffin1192",
+      "UserName": "akacoladj",
+      "UserLogin": "akacoladj",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -10364,17 +10400,8 @@
       "WatchtimeSek": 60
     },
     {
-      "UserName": "inajka",
-      "UserLogin": "inajka",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 60
-    },
-    {
-      "UserName": "stickykeycap",
-      "UserLogin": "stickykeycap",
+      "UserName": "felcapela",
+      "UserLogin": "felcapela",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
@@ -10391,35 +10418,8 @@
       "WatchtimeSek": 60
     },
     {
-      "UserName": "benutzer50",
-      "UserLogin": "benutzer50",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 60
-    },
-    {
-      "UserName": "m0m0i",
-      "UserLogin": "m0m0i",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 60
-    },
-    {
-      "UserName": "pirarucuatomico69000",
-      "UserLogin": "pirarucuatomico69000",
-      "Monate": 0,
-      "Wochen": 0,
-      "Tage": 0,
-      "Stunden": 0,
-      "WatchtimeSek": 60
-    },
-    {
-      "UserName": "beneth01",
-      "UserLogin": "beneth01",
+      "UserName": "enixcore",
+      "UserLogin": "enixcore",
       "Monate": 0,
       "Wochen": 0,
       "Tage": 0,
