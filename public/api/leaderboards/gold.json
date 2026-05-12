@@ -31,7 +31,7 @@
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Gold": "450125",
+      "Gold": "500125",
       "Ausgezahlt": "0"
     },
     {
@@ -41,15 +41,15 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "SrH_x",
-      "UserLogin": "srh_x",
-      "Gold": "317955",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "kensg0908",
       "UserLogin": "kensg0908",
       "Gold": "294750",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "SrH_x",
+      "UserLogin": "srh_x",
+      "Gold": "267955",
       "Ausgezahlt": "0"
     },
     {
@@ -187,12 +187,6 @@
     {
       "UserName": "Mr_Martin_Live",
       "UserLogin": "mr_martin_live",
-      "Gold": "50000",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "frittenchef_",
-      "UserLogin": "frittenchef_",
       "Gold": "50000",
       "Ausgezahlt": "0"
     },
@@ -447,6 +441,12 @@
       "UserLogin": "xph1lo",
       "Gold": "0",
       "Ausgezahlt": "100000"
+    },
+    {
+      "UserName": "frittenchef_",
+      "UserLogin": "frittenchef_",
+      "Gold": "0",
+      "Ausgezahlt": "0"
     },
     {
       "UserName": "Mantanismus",
