@@ -19,7 +19,7 @@
     {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
-      "Gold": "1797245",
+      "Gold": "1746245",
       "Ausgezahlt": "0"
     },
     {
@@ -31,7 +31,7 @@
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Gold": "550125",
+      "Gold": "500125",
       "Ausgezahlt": "0"
     },
     {
@@ -173,12 +173,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "vanock_",
-      "UserLogin": "vanock_",
-      "Gold": "50198",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "Athurius23",
       "UserLogin": "athurius23",
       "Gold": "50000",
@@ -231,6 +225,12 @@
       "UserLogin": "palone",
       "Gold": "49500",
       "Ausgezahlt": "170000"
+    },
+    {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
+      "Gold": "48861",
+      "Ausgezahlt": "0"
     },
     {
       "UserName": "Ahriman1234",
@@ -467,8 +467,8 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "91pitt91",
-      "UserLogin": "91pitt91",
+      "UserName": "icebeiin",
+      "UserLogin": "icebeiin",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
