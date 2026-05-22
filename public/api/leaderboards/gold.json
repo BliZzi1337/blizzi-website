@@ -107,6 +107,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "Skytecc",
+      "UserLogin": "skytecc",
+      "Gold": "150000",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "phil_aka_albi",
       "UserLogin": "phil_aka_albi",
       "Gold": "139500",
@@ -140,12 +146,6 @@
       "UserName": "doedchen",
       "UserLogin": "doedchen",
       "Gold": "100500",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "Skytecc",
-      "UserLogin": "skytecc",
-      "Gold": "100000",
       "Ausgezahlt": "0"
     },
     {
