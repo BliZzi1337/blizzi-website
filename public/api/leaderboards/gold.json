@@ -31,7 +31,7 @@
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Gold": "490125",
+      "Gold": "489625",
       "Ausgezahlt": "10000"
     },
     {
@@ -65,6 +65,12 @@
       "Ausgezahlt": "80000"
     },
     {
+      "UserName": "duese19931",
+      "UserLogin": "duese19931",
+      "Gold": "246000",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "spindi_86",
       "UserLogin": "spindi_86",
       "Gold": "208500",
@@ -89,6 +95,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
+      "Gold": "183861",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "tamiiina",
       "UserLogin": "tamiiina",
       "Gold": "182500",
@@ -98,18 +110,6 @@
       "UserName": "lucky_luki95",
       "UserLogin": "lucky_luki95",
       "Gold": "166000",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "vanock_",
-      "UserLogin": "vanock_",
-      "Gold": "163861",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "duese19931",
-      "UserLogin": "duese19931",
-      "Gold": "146500",
       "Ausgezahlt": "0"
     },
     {
@@ -205,6 +205,12 @@
     {
       "UserName": "Actraiser7",
       "UserLogin": "actraiser7",
+      "Gold": "50000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "Babusch_10",
+      "UserLogin": "babusch_10",
       "Gold": "50000",
       "Ausgezahlt": "0"
     },
@@ -493,12 +499,6 @@
     {
       "UserName": "Furizawa",
       "UserLogin": "furizawa",
-      "Gold": "0",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "Babusch_10",
-      "UserLogin": "babusch_10",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
