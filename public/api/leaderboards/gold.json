@@ -19,7 +19,7 @@
     {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
-      "Gold": "1795745",
+      "Gold": "1745745",
       "Ausgezahlt": "0"
     },
     {
@@ -31,19 +31,19 @@
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Gold": "488625",
+      "Gold": "438625",
       "Ausgezahlt": "10000"
+    },
+    {
+      "UserName": "SrH_x",
+      "UserLogin": "srh_x",
+      "Gold": "367955",
+      "Ausgezahlt": "0"
     },
     {
       "UserName": "Daniel__1976",
       "UserLogin": "daniel__1976",
       "Gold": "356000",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "SrH_x",
-      "UserLogin": "srh_x",
-      "Gold": "317955",
       "Ausgezahlt": "0"
     },
     {
@@ -71,16 +71,16 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "Skytecc",
-      "UserLogin": "skytecc",
-      "Gold": "200000",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "morimo87",
       "UserLogin": "morimo87",
       "Gold": "199500",
       "Ausgezahlt": "50000"
+    },
+    {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
+      "Gold": "193861",
+      "Ausgezahlt": "0"
     },
     {
       "UserName": "xTheBroxon",
@@ -101,15 +101,15 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "vanock_",
-      "UserLogin": "vanock_",
-      "Gold": "173861",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "lucky_luki95",
       "UserLogin": "lucky_luki95",
       "Gold": "166000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "Skytecc",
+      "UserLogin": "skytecc",
+      "Gold": "150000",
       "Ausgezahlt": "0"
     },
     {
@@ -153,12 +153,6 @@
       "UserLogin": "babusch_10",
       "Gold": "100000",
       "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "xph1lo",
-      "UserLogin": "xph1lo",
-      "Gold": "100000",
-      "Ausgezahlt": "100000"
     },
     {
       "UserName": "Athurius23",
@@ -231,6 +225,12 @@
       "UserLogin": "astoooooo",
       "Gold": "50000",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gold": "50000",
+      "Ausgezahlt": "100000"
     },
     {
       "UserName": "calyypsoolein",
