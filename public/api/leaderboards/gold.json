@@ -191,12 +191,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "extrouu",
-      "UserLogin": "extrouu",
-      "Gold": "50000",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "miss_divinestorm",
       "UserLogin": "miss_divinestorm",
       "Gold": "50000",
@@ -433,6 +427,12 @@
     {
       "UserName": "FlyingTrinker_Bell",
       "UserLogin": "flyingtrinker_bell",
+      "Gold": "0",
+      "Ausgezahlt": "50000"
+    },
+    {
+      "UserName": "extrouu",
+      "UserLogin": "extrouu",
       "Gold": "0",
       "Ausgezahlt": "50000"
     },
