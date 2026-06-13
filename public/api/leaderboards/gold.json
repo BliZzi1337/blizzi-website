@@ -149,12 +149,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "Babusch_10",
-      "UserLogin": "babusch_10",
-      "Gold": "100000",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "Athurius23",
       "UserLogin": "athurius23",
       "Gold": "99500",
@@ -195,6 +189,12 @@
       "UserLogin": "sali258",
       "Gold": "50000",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "Babusch_10",
+      "UserLogin": "babusch_10",
+      "Gold": "50000",
+      "Ausgezahlt": "50000"
     },
     {
       "UserName": "Actraiser7",
