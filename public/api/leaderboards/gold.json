@@ -47,6 +47,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
+      "Gold": "293861",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "GrinchiSC",
       "UserLogin": "grinchisc",
       "Gold": "266500",
@@ -75,12 +81,6 @@
       "UserLogin": "morimo87",
       "Gold": "199500",
       "Ausgezahlt": "50000"
-    },
-    {
-      "UserName": "vanock_",
-      "UserLogin": "vanock_",
-      "Gold": "193861",
-      "Ausgezahlt": "0"
     },
     {
       "UserName": "xTheBroxon",
@@ -329,12 +329,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "xph1lo",
-      "UserLogin": "xph1lo",
-      "Gold": "5000",
-      "Ausgezahlt": "100000"
-    },
-    {
       "UserName": "Tamiina",
       "UserLogin": "tamiina",
       "Gold": "5000",
@@ -465,6 +459,12 @@
       "UserLogin": "moonfeder4",
       "Gold": "0",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gold": "0",
+      "Ausgezahlt": "100000"
     },
     {
       "UserName": "frittenchef_",
