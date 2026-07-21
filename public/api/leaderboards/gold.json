@@ -209,6 +209,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "xph1lo",
+      "UserLogin": "xph1lo",
+      "Gold": "50000",
+      "Ausgezahlt": "100000"
+    },
+    {
       "UserName": "bl4ckyyy",
       "UserLogin": "bl4ckyyy",
       "Gold": "50000",
@@ -471,12 +477,6 @@
       "UserLogin": "insanefatmonsti",
       "Gold": "0",
       "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "xph1lo",
-      "UserLogin": "xph1lo",
-      "Gold": "0",
-      "Ausgezahlt": "100000"
     },
     {
       "UserName": "frittenchef_",
