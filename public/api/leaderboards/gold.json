@@ -37,7 +37,7 @@
     {
       "UserName": "vanock_",
       "UserLogin": "vanock_",
-      "Gold": "482861",
+      "Gold": "452861",
       "Ausgezahlt": "0"
     },
     {
@@ -101,6 +101,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "insaneToxicMonsti",
+      "UserLogin": "insanetoxicmonsti",
+      "Gold": "150000",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "phil_aka_albi",
       "UserLogin": "phil_aka_albi",
       "Gold": "139500",
@@ -140,12 +146,6 @@
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
       "Gold": "100455",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "insaneToxicMonsti",
-      "UserLogin": "insanetoxicmonsti",
-      "Gold": "100000",
       "Ausgezahlt": "0"
     },
     {
@@ -241,6 +241,12 @@
     {
       "UserName": "Actraiser7",
       "UserLogin": "actraiser7",
+      "Gold": "50000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "DiaLeeN",
+      "UserLogin": "dialeen",
       "Gold": "50000",
       "Ausgezahlt": "0"
     },
