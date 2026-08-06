@@ -19,26 +19,26 @@
     {
       "UserName": "schmidiiii",
       "UserLogin": "schmidiiii",
-      "Gold": "1958495",
+      "Gold": "1956995",
       "Ausgezahlt": "0"
     },
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Gold": "538125",
+      "Gold": "536125",
       "Ausgezahlt": "10000"
-    },
-    {
-      "UserName": "J3loodyFe4r",
-      "UserLogin": "j3loodyfe4r",
-      "Gold": "499799",
-      "Ausgezahlt": "500000"
     },
     {
       "UserName": "vanock_",
       "UserLogin": "vanock_",
-      "Gold": "452861",
+      "Gold": "452361",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "J3loodyFe4r",
+      "UserLogin": "j3loodyfe4r",
+      "Gold": "444799",
+      "Ausgezahlt": "500000"
     },
     {
       "UserName": "Daniel__1976",
@@ -103,7 +103,7 @@
     {
       "UserName": "insaneToxicMonsti",
       "UserLogin": "insanetoxicmonsti",
-      "Gold": "150000",
+      "Gold": "145000",
       "Ausgezahlt": "0"
     },
     {
@@ -121,7 +121,7 @@
     {
       "UserName": "saddi_86",
       "UserLogin": "saddi_86",
-      "Gold": "121005",
+      "Gold": "120505",
       "Ausgezahlt": "0"
     },
     {
@@ -215,6 +215,12 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "schmidiiii_bot",
+      "UserLogin": "schmidiiii_bot",
+      "Gold": "50000",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "Mr_Martin_Live",
       "UserLogin": "mr_martin_live",
       "Gold": "50000",
@@ -241,12 +247,6 @@
     {
       "UserName": "Actraiser7",
       "UserLogin": "actraiser7",
-      "Gold": "50000",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "DiaLeeN",
-      "UserLogin": "dialeen",
       "Gold": "50000",
       "Ausgezahlt": "0"
     },
@@ -479,12 +479,6 @@
       "Ausgezahlt": "100000"
     },
     {
-      "UserName": "schmidiiii_bot",
-      "UserLogin": "schmidiiii_bot",
-      "Gold": "0",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "frittenchef_",
       "UserLogin": "frittenchef_",
       "Gold": "0",
@@ -535,6 +529,12 @@
     {
       "UserName": "Furizawa",
       "UserLogin": "furizawa",
+      "Gold": "0",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "DiaLeeN",
+      "UserLogin": "dialeen",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
