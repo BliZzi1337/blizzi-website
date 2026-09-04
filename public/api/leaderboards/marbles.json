@@ -29,90 +29,90 @@
     {
       "UserName": "SrH_x",
       "UserLogin": "srh_x",
-      "Points": "684",
-      "Gesamt": "90",
-      "Wins": "8",
-      "Eliminations": "18"
+      "Points": "761",
+      "Gesamt": "98",
+      "Wins": "10",
+      "Eliminations": "20"
     },
     {
       "UserName": "J3loodyFe4r",
       "UserLogin": "j3loodyfe4r",
-      "Points": "479",
-      "Gesamt": "67",
-      "Wins": "11",
-      "Eliminations": "17"
+      "Points": "518",
+      "Gesamt": "72",
+      "Wins": "12",
+      "Eliminations": "19"
     },
     {
       "UserName": "schmidiiii_bot",
       "UserLogin": "schmidiiii_bot",
-      "Points": "450",
-      "Gesamt": "64",
-      "Wins": "4",
-      "Eliminations": "12"
+      "Points": "500",
+      "Gesamt": "71",
+      "Wins": "5",
+      "Eliminations": "15"
     },
     {
       "UserName": "xph1lo",
       "UserLogin": "xph1lo",
-      "Points": "419",
-      "Gesamt": "67",
+      "Points": "454",
+      "Gesamt": "70",
       "Wins": "5",
       "Eliminations": "14"
     },
     {
       "UserName": "SrA86",
       "UserLogin": "sra86",
-      "Points": "385",
-      "Gesamt": "57",
-      "Wins": "2",
-      "Eliminations": "13"
+      "Points": "445",
+      "Gesamt": "63",
+      "Wins": "3",
+      "Eliminations": "15"
     },
     {
       "UserName": "Jenny_Eleyna",
       "UserLogin": "jenny_eleyna",
-      "Points": "372",
-      "Gesamt": "70",
+      "Points": "422",
+      "Gesamt": "78",
       "Wins": "4",
-      "Eliminations": "20"
+      "Eliminations": "23"
+    },
+    {
+      "UserName": "vanock_",
+      "UserLogin": "vanock_",
+      "Points": "293",
+      "Gesamt": "35",
+      "Wins": "4",
+      "Eliminations": "7"
     },
     {
       "UserName": "saddi_86",
       "UserLogin": "saddi_86",
-      "Points": "253",
-      "Gesamt": "48",
+      "Points": "267",
+      "Gesamt": "52",
       "Wins": "2",
-      "Eliminations": "12"
+      "Eliminations": "14"
     },
     {
       "UserName": "Skytecc",
       "UserLogin": "skytecc",
       "Points": "223",
-      "Gesamt": "37",
+      "Gesamt": "39",
       "Wins": "3",
-      "Eliminations": "8"
+      "Eliminations": "10"
     },
     {
       "UserName": "x_kinglouie_x",
       "UserLogin": "x_kinglouie_x",
-      "Points": "204",
-      "Gesamt": "26",
+      "Points": "222",
+      "Gesamt": "27",
       "Wins": "1",
-      "Eliminations": "6"
-    },
-    {
-      "UserName": "vanock_",
-      "UserLogin": "vanock_",
-      "Points": "194",
-      "Gesamt": "28",
-      "Wins": "3",
       "Eliminations": "6"
     },
     {
       "UserName": "CallMeAdrk",
       "UserLogin": "callmeadrk",
-      "Points": "193",
-      "Gesamt": "36",
+      "Points": "214",
+      "Gesamt": "40",
       "Wins": "0",
-      "Eliminations": "7"
+      "Eliminations": "9"
     },
     {
       "UserName": "duese19931",
@@ -139,6 +139,14 @@
       "Eliminations": "0"
     },
     {
+      "UserName": "chrabby_",
+      "UserLogin": "chrabby_",
+      "Points": "130",
+      "Gesamt": "26",
+      "Wins": "1",
+      "Eliminations": "6"
+    },
+    {
       "UserName": "GrinchiSC",
       "UserLogin": "grinchisc",
       "Points": "112",
@@ -147,12 +155,12 @@
       "Eliminations": "4"
     },
     {
-      "UserName": "chrabby_",
-      "UserLogin": "chrabby_",
-      "Points": "105",
-      "Gesamt": "24",
-      "Wins": "0",
-      "Eliminations": "5"
+      "UserName": "Babusch_10",
+      "UserLogin": "babusch_10",
+      "Points": "107",
+      "Gesamt": "8",
+      "Wins": "3",
+      "Eliminations": "2"
     },
     {
       "UserName": "91pitt91",
@@ -173,10 +181,10 @@
     {
       "UserName": "Moonfeder4",
       "UserLogin": "moonfeder4",
-      "Points": "98",
-      "Gesamt": "13",
+      "Points": "99",
+      "Gesamt": "16",
       "Wins": "1",
-      "Eliminations": "3"
+      "Eliminations": "5"
     },
     {
       "UserName": "ToxicMonsti",
@@ -198,17 +206,9 @@
       "UserName": "Whatsnew0101",
       "UserLogin": "whatsnew0101",
       "Points": "89",
-      "Gesamt": "17",
+      "Gesamt": "18",
       "Wins": "0",
-      "Eliminations": "3"
-    },
-    {
-      "UserName": "Babusch_10",
-      "UserLogin": "babusch_10",
-      "Points": "89",
-      "Gesamt": "7",
-      "Wins": "3",
-      "Eliminations": "2"
+      "Eliminations": "4"
     },
     {
       "UserName": "Athurius23",
@@ -221,10 +221,18 @@
     {
       "UserName": "bl4ckyyy",
       "UserLogin": "bl4ckyyy",
-      "Points": "77",
-      "Gesamt": "9",
+      "Points": "79",
+      "Gesamt": "10",
       "Wins": "2",
       "Eliminations": "1"
+    },
+    {
+      "UserName": "Shendrasil",
+      "UserLogin": "shendrasil",
+      "Points": "78",
+      "Gesamt": "16",
+      "Wins": "1",
+      "Eliminations": "3"
     },
     {
       "UserName": "tamiiina",
@@ -233,14 +241,6 @@
       "Gesamt": "9",
       "Wins": "1",
       "Eliminations": "2"
-    },
-    {
-      "UserName": "Shendrasil",
-      "UserLogin": "shendrasil",
-      "Points": "72",
-      "Gesamt": "15",
-      "Wins": "1",
-      "Eliminations": "3"
     },
     {
       "UserName": "InsaneFatMonsti",
@@ -273,6 +273,14 @@
       "Gesamt": "7",
       "Wins": "2",
       "Eliminations": "2"
+    },
+    {
+      "UserName": "davthebrave95",
+      "UserLogin": "davthebrave95",
+      "Points": "56",
+      "Gesamt": "9",
+      "Wins": "0",
+      "Eliminations": "3"
     },
     {
       "UserName": "thule1291",
@@ -355,18 +363,18 @@
       "Eliminations": "1"
     },
     {
+      "UserName": "da_Hosch",
+      "UserLogin": "da_hosch",
+      "Points": "42",
+      "Gesamt": "11",
+      "Wins": "0",
+      "Eliminations": "6"
+    },
+    {
       "UserName": "nico011210",
       "UserLogin": "nico011210",
       "Points": "39",
       "Gesamt": "6",
-      "Wins": "0",
-      "Eliminations": "3"
-    },
-    {
-      "UserName": "davthebrave95",
-      "UserLogin": "davthebrave95",
-      "Points": "38",
-      "Gesamt": "7",
       "Wins": "0",
       "Eliminations": "3"
     },
@@ -387,6 +395,14 @@
       "Eliminations": "0"
     },
     {
+      "UserName": "velarithas",
+      "UserLogin": "velarithas",
+      "Points": "35",
+      "Gesamt": "5",
+      "Wins": "0",
+      "Eliminations": "1"
+    },
+    {
       "UserName": "beviso_",
       "UserLogin": "beviso_",
       "Points": "35",
@@ -398,9 +414,9 @@
       "UserName": "DiaLeeN",
       "UserLogin": "dialeen",
       "Points": "35",
-      "Gesamt": "3",
+      "Gesamt": "4",
       "Wins": "1",
-      "Eliminations": "1"
+      "Eliminations": "2"
     },
     {
       "UserName": "zergoogler",
@@ -409,14 +425,6 @@
       "Gesamt": "8",
       "Wins": "1",
       "Eliminations": "1"
-    },
-    {
-      "UserName": "da_Hosch",
-      "UserLogin": "da_hosch",
-      "Points": "34",
-      "Gesamt": "7",
-      "Wins": "0",
-      "Eliminations": "3"
     },
     {
       "UserName": "82Shinigami",
@@ -433,14 +441,6 @@
       "Gesamt": "5",
       "Wins": "0",
       "Eliminations": "2"
-    },
-    {
-      "UserName": "velarithas",
-      "UserLogin": "velarithas",
-      "Points": "31",
-      "Gesamt": "4",
-      "Wins": "0",
-      "Eliminations": "1"
     },
     {
       "UserName": "Mantanismus",
@@ -505,6 +505,14 @@
       "Gesamt": "7",
       "Wins": "0",
       "Eliminations": "1"
+    },
+    {
+      "UserName": "KaddyKlaa",
+      "UserLogin": "kaddyklaa",
+      "Points": "25",
+      "Gesamt": "2",
+      "Wins": "1",
+      "Eliminations": "0"
     },
     {
       "UserName": "Mr_Martin_Live",
@@ -603,6 +611,14 @@
       "Eliminations": "4"
     },
     {
+      "UserName": "Sir_Bobo_",
+      "UserLogin": "sir_bobo_",
+      "Points": "18",
+      "Gesamt": "2",
+      "Wins": "0",
+      "Eliminations": "0"
+    },
+    {
       "UserName": "hollymollyolli",
       "UserLogin": "hollymollyolli",
       "Points": "18",
@@ -611,10 +627,26 @@
       "Eliminations": "0"
     },
     {
+      "UserName": "pandavii_99",
+      "UserLogin": "pandavii_99",
+      "Points": "16",
+      "Gesamt": "4",
+      "Wins": "0",
+      "Eliminations": "0"
+    },
+    {
       "UserName": "Totskiiii",
       "UserLogin": "totskiiii",
       "Points": "15",
       "Gesamt": "2",
+      "Wins": "0",
+      "Eliminations": "0"
+    },
+    {
+      "UserName": "LittleLea",
+      "UserLogin": "littlelea",
+      "Points": "15",
+      "Gesamt": "1",
       "Wins": "0",
       "Eliminations": "0"
     },
@@ -635,20 +667,20 @@
       "Eliminations": "2"
     },
     {
+      "UserName": "insaneToxicMonsti",
+      "UserLogin": "insanetoxicmonsti",
+      "Points": "12",
+      "Gesamt": "4",
+      "Wins": "0",
+      "Eliminations": "1"
+    },
+    {
       "UserName": "xDarkNiiqht",
       "UserLogin": "xdarkniiqht",
       "Points": "12",
       "Gesamt": "3",
       "Wins": "0",
       "Eliminations": "2"
-    },
-    {
-      "UserName": "insaneToxicMonsti",
-      "UserLogin": "insanetoxicmonsti",
-      "Points": "12",
-      "Gesamt": "2",
-      "Wins": "0",
-      "Eliminations": "0"
     },
     {
       "UserName": "OttenTV_",
@@ -659,16 +691,24 @@
       "Eliminations": "0"
     },
     {
-      "UserName": "SanTM",
-      "UserLogin": "santm",
+      "UserName": "Panu_No1",
+      "UserLogin": "panu_no1",
       "Points": "12",
       "Gesamt": "1",
       "Wins": "0",
       "Eliminations": "0"
     },
     {
-      "UserName": "Panu_No1",
-      "UserLogin": "panu_no1",
+      "UserName": "Celince",
+      "UserLogin": "celince",
+      "Points": "12",
+      "Gesamt": "1",
+      "Wins": "0",
+      "Eliminations": "0"
+    },
+    {
+      "UserName": "SanTM",
+      "UserLogin": "santm",
       "Points": "12",
       "Gesamt": "1",
       "Wins": "0",
@@ -693,14 +733,6 @@
     {
       "UserName": "phin_21",
       "UserLogin": "phin_21",
-      "Points": "10",
-      "Gesamt": "1",
-      "Wins": "0",
-      "Eliminations": "0"
-    },
-    {
-      "UserName": "Sir_Bobo_",
-      "UserLogin": "sir_bobo_",
       "Points": "10",
       "Gesamt": "1",
       "Wins": "0",
@@ -811,8 +843,8 @@
       "Eliminations": "3"
     },
     {
-      "UserName": "the_oldboy",
-      "UserLogin": "the_oldboy",
+      "UserName": "Actraiser7",
+      "UserLogin": "actraiser7",
       "Points": "0",
       "Gesamt": "2",
       "Wins": "0",
@@ -827,16 +859,8 @@
       "Eliminations": "0"
     },
     {
-      "UserName": "pandavii_99",
-      "UserLogin": "pandavii_99",
-      "Points": "0",
-      "Gesamt": "2",
-      "Wins": "0",
-      "Eliminations": "0"
-    },
-    {
-      "UserName": "Actraiser7",
-      "UserLogin": "actraiser7",
+      "UserName": "the_oldboy",
+      "UserLogin": "the_oldboy",
       "Points": "0",
       "Gesamt": "2",
       "Wins": "0",
@@ -851,48 +875,16 @@
       "Eliminations": "1"
     },
     {
+      "UserName": "overwhelming11",
+      "UserLogin": "overwhelming11",
+      "Points": "0",
+      "Gesamt": "1",
+      "Wins": "0",
+      "Eliminations": "0"
+    },
+    {
       "UserName": "PoiLive",
       "UserLogin": "poilive",
-      "Points": "0",
-      "Gesamt": "1",
-      "Wins": "0",
-      "Eliminations": "0"
-    },
-    {
-      "UserName": "Keksi79",
-      "UserLogin": "keksi79",
-      "Points": "0",
-      "Gesamt": "1",
-      "Wins": "0",
-      "Eliminations": "0"
-    },
-    {
-      "UserName": "Horrorschatz",
-      "UserLogin": "horrorschatz",
-      "Points": "0",
-      "Gesamt": "1",
-      "Wins": "0",
-      "Eliminations": "0"
-    },
-    {
-      "UserName": "KaddyKlaa",
-      "UserLogin": "kaddyklaa",
-      "Points": "0",
-      "Gesamt": "1",
-      "Wins": "0",
-      "Eliminations": "0"
-    },
-    {
-      "UserName": "Kehrbesen_",
-      "UserLogin": "kehrbesen_",
-      "Points": "0",
-      "Gesamt": "1",
-      "Wins": "0",
-      "Eliminations": "0"
-    },
-    {
-      "UserName": "HjackerX",
-      "UserLogin": "hjackerx",
       "Points": "0",
       "Gesamt": "1",
       "Wins": "0",
@@ -915,6 +907,38 @@
       "Eliminations": "0"
     },
     {
+      "UserName": "Horrorschatz",
+      "UserLogin": "horrorschatz",
+      "Points": "0",
+      "Gesamt": "1",
+      "Wins": "0",
+      "Eliminations": "0"
+    },
+    {
+      "UserName": "HjackerX",
+      "UserLogin": "hjackerx",
+      "Points": "0",
+      "Gesamt": "1",
+      "Wins": "0",
+      "Eliminations": "0"
+    },
+    {
+      "UserName": "Keksi79",
+      "UserLogin": "keksi79",
+      "Points": "0",
+      "Gesamt": "1",
+      "Wins": "0",
+      "Eliminations": "0"
+    },
+    {
+      "UserName": "Kehrbesen_",
+      "UserLogin": "kehrbesen_",
+      "Points": "0",
+      "Gesamt": "1",
+      "Wins": "0",
+      "Eliminations": "0"
+    },
+    {
       "UserName": "e_njoy_",
       "UserLogin": "e_njoy_",
       "Points": "0",
@@ -923,32 +947,8 @@
       "Eliminations": "0"
     },
     {
-      "UserName": "Grumpy911",
-      "UserLogin": "grumpy911",
-      "Points": "0",
-      "Gesamt": "1",
-      "Wins": "0",
-      "Eliminations": "1"
-    },
-    {
       "UserName": "matse22_",
       "UserLogin": "matse22_",
-      "Points": "0",
-      "Gesamt": "1",
-      "Wins": "0",
-      "Eliminations": "1"
-    },
-    {
-      "UserName": "Skyhunter0815",
-      "UserLogin": "skyhunter0815",
-      "Points": "0",
-      "Gesamt": "1",
-      "Wins": "0",
-      "Eliminations": "1"
-    },
-    {
-      "UserName": "Fischerfritz_91",
-      "UserLogin": "fischerfritz_91",
       "Points": "0",
       "Gesamt": "1",
       "Wins": "0",
@@ -971,6 +971,22 @@
       "Eliminations": "1"
     },
     {
+      "UserName": "Skyhunter0815",
+      "UserLogin": "skyhunter0815",
+      "Points": "0",
+      "Gesamt": "1",
+      "Wins": "0",
+      "Eliminations": "1"
+    },
+    {
+      "UserName": "Fischerfritz_91",
+      "UserLogin": "fischerfritz_91",
+      "Points": "0",
+      "Gesamt": "1",
+      "Wins": "0",
+      "Eliminations": "1"
+    },
+    {
       "UserName": "Fronter94",
       "UserLogin": "fronter94",
       "Points": "0",
@@ -987,8 +1003,8 @@
       "Eliminations": "1"
     },
     {
-      "UserName": "Ahriman1234",
-      "UserLogin": "ahriman1234",
+      "UserName": "Kapeykii",
+      "UserLogin": "kapeykii",
       "Points": "0",
       "Gesamt": "1",
       "Wins": "0",
@@ -1003,8 +1019,24 @@
       "Eliminations": "1"
     },
     {
-      "UserName": "Kapeykii",
-      "UserLogin": "kapeykii",
+      "UserName": "Ahriman1234",
+      "UserLogin": "ahriman1234",
+      "Points": "0",
+      "Gesamt": "1",
+      "Wins": "0",
+      "Eliminations": "1"
+    },
+    {
+      "UserName": "Grumpy911",
+      "UserLogin": "grumpy911",
+      "Points": "0",
+      "Gesamt": "1",
+      "Wins": "0",
+      "Eliminations": "1"
+    },
+    {
+      "UserName": "chrabby",
+      "UserLogin": "chrabby",
       "Points": "0",
       "Gesamt": "1",
       "Wins": "0",
