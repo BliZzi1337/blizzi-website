@@ -31,7 +31,7 @@
     {
       "UserName": "vanock_",
       "UserLogin": "vanock_",
-      "Gold": "519861",
+      "Gold": "529861",
       "Ausgezahlt": "0"
     },
     {
@@ -39,6 +39,12 @@
       "UserLogin": "daniel__1976",
       "Gold": "356000",
       "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "J3loodyFe4r",
+      "UserLogin": "j3loodyfe4r",
+      "Gold": "302299",
+      "Ausgezahlt": "500000"
     },
     {
       "UserName": "kensg0908",
@@ -63,12 +69,6 @@
       "UserLogin": "rivorium",
       "Gold": "253250",
       "Ausgezahlt": "80000"
-    },
-    {
-      "UserName": "J3loodyFe4r",
-      "UserLogin": "j3loodyfe4r",
-      "Gold": "252299",
-      "Ausgezahlt": "500000"
     },
     {
       "UserName": "spindi_86",
@@ -265,7 +265,7 @@
     {
       "UserName": "Babusch_10",
       "UserLogin": "babusch_10",
-      "Gold": "49000",
+      "Gold": "48500",
       "Ausgezahlt": "50000"
     },
     {
@@ -283,7 +283,7 @@
     {
       "UserName": "Moonfeder4",
       "UserLogin": "moonfeder4",
-      "Gold": "47000",
+      "Gold": "46000",
       "Ausgezahlt": "0"
     },
     {
@@ -407,8 +407,8 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "chrabby_",
-      "UserLogin": "chrabby_",
+      "UserName": "chrabby",
+      "UserLogin": "chrabby",
       "Gold": "500",
       "Ausgezahlt": "337600"
     },
