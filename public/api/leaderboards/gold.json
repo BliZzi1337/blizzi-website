@@ -283,7 +283,7 @@
     {
       "UserName": "Moonfeder4",
       "UserLogin": "moonfeder4",
-      "Gold": "46000",
+      "Gold": "45500",
       "Ausgezahlt": "0"
     },
     {
@@ -469,6 +469,12 @@
     {
       "UserName": "BliZzi1337",
       "UserLogin": "blizzi1337",
+      "Gold": "0",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "davthebrave95",
+      "UserLogin": "davthebrave95",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
