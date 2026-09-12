@@ -31,7 +31,7 @@
     {
       "UserName": "vanock_",
       "UserLogin": "vanock_",
-      "Gold": "581361",
+      "Gold": "531361",
       "Ausgezahlt": "0"
     },
     {
@@ -185,36 +185,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "miss_divinestorm",
-      "UserLogin": "miss_divinestorm",
-      "Gold": "50000",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "astoooooo",
-      "UserLogin": "astoooooo",
-      "Gold": "50000",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "schmidiiii_bot",
-      "UserLogin": "schmidiiii_bot",
-      "Gold": "50000",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "Grumpy911",
-      "UserLogin": "grumpy911",
-      "Gold": "50000",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "Actraiser7",
-      "UserLogin": "actraiser7",
-      "Gold": "50000",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "calyypsoolein",
       "UserLogin": "calyypsoolein",
       "Gold": "50000",
@@ -227,14 +197,38 @@
       "Ausgezahlt": "0"
     },
     {
+      "UserName": "schmidiiii_bot",
+      "UserLogin": "schmidiiii_bot",
+      "Gold": "50000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "Cybax_xxx",
+      "UserLogin": "cybax_xxx",
+      "Gold": "50000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "astoooooo",
+      "UserLogin": "astoooooo",
+      "Gold": "50000",
+      "Ausgezahlt": "0"
+    },
+    {
       "UserName": "bl4ckyyy",
       "UserLogin": "bl4ckyyy",
       "Gold": "50000",
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "sali258",
-      "UserLogin": "sali258",
+      "UserName": "miss_divinestorm",
+      "UserLogin": "miss_divinestorm",
+      "Gold": "50000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "Actraiser7",
+      "UserLogin": "actraiser7",
       "Gold": "50000",
       "Ausgezahlt": "0"
     },
@@ -245,8 +239,14 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "Cybax_xxx",
-      "UserLogin": "cybax_xxx",
+      "UserName": "Grumpy911",
+      "UserLogin": "grumpy911",
+      "Gold": "50000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "sali258",
+      "UserLogin": "sali258",
       "Gold": "50000",
       "Ausgezahlt": "0"
     },
@@ -371,12 +371,6 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "VallekTV",
-      "UserLogin": "vallektv",
-      "Gold": "5000",
-      "Ausgezahlt": "0"
-    },
-    {
       "UserName": "RipX_7_",
       "UserLogin": "ripx_7_",
       "Gold": "5000",
@@ -385,6 +379,12 @@
     {
       "UserName": "Tamiina",
       "UserLogin": "tamiina",
+      "Gold": "5000",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "VallekTV",
+      "UserLogin": "vallektv",
       "Gold": "5000",
       "Ausgezahlt": "0"
     },
@@ -413,26 +413,8 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "nexestime",
-      "UserLogin": "nexestime",
-      "Gold": "500",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "chrabby",
-      "UserLogin": "chrabby",
-      "Gold": "500",
-      "Ausgezahlt": "337600"
-    },
-    {
-      "UserName": "leynarii",
-      "UserLogin": "leynarii",
-      "Gold": "500",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "Angram42",
-      "UserLogin": "angram42",
+      "UserName": "lalalalalands",
+      "UserLogin": "lalalalalands",
       "Gold": "500",
       "Ausgezahlt": "0"
     },
@@ -443,10 +425,10 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "lalalalalands",
-      "UserLogin": "lalalalalands",
+      "UserName": "chrabby",
+      "UserLogin": "chrabby",
       "Gold": "500",
-      "Ausgezahlt": "0"
+      "Ausgezahlt": "337600"
     },
     {
       "UserName": "only_TK",
@@ -455,32 +437,62 @@
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "botzi1337",
-      "UserLogin": "botzi1337",
+      "UserName": "Angram42",
+      "UserLogin": "angram42",
+      "Gold": "500",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "leynarii",
+      "UserLogin": "leynarii",
+      "Gold": "500",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "nexestime",
+      "UserLogin": "nexestime",
+      "Gold": "500",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "mozzarellamandy",
+      "UserLogin": "mozzarellamandy",
+      "Gold": "0",
+      "Ausgezahlt": "450000"
+    },
+    {
+      "UserName": "Shendrasil",
+      "UserLogin": "shendrasil",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "insaneToxicMonsti",
-      "UserLogin": "insanetoxicmonsti",
+      "UserName": "Furizawa",
+      "UserLogin": "furizawa",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "FlyingTrinker_Bell",
-      "UserLogin": "flyingtrinker_bell",
+      "UserName": "morimo87",
+      "UserLogin": "morimo87",
+      "Gold": "0",
+      "Ausgezahlt": "199500"
+    },
+    {
+      "UserName": "frittenchef_",
+      "UserLogin": "frittenchef_",
+      "Gold": "0",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "x_kinglouie_x",
+      "UserLogin": "x_kinglouie_x",
       "Gold": "0",
       "Ausgezahlt": "50000"
     },
     {
-      "UserName": "Mantanismus",
-      "UserLogin": "mantanismus",
-      "Gold": "0",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "x91pitt91x",
-      "UserLogin": "x91pitt91x",
+      "UserName": "Glu3cifer",
+      "UserLogin": "glu3cifer",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
@@ -497,32 +509,14 @@
       "Ausgezahlt": "100000"
     },
     {
-      "UserName": "frittenchef_",
-      "UserLogin": "frittenchef_",
+      "UserName": "Mantanismus",
+      "UserLogin": "mantanismus",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "bloodycruel",
-      "UserLogin": "bloodycruel",
-      "Gold": "0",
-      "Ausgezahlt": "0"
-    },
-    {
-      "UserName": "x_kinglouie_x",
-      "UserLogin": "x_kinglouie_x",
-      "Gold": "0",
-      "Ausgezahlt": "50000"
-    },
-    {
-      "UserName": "mozzarellamandy",
-      "UserLogin": "mozzarellamandy",
-      "Gold": "0",
-      "Ausgezahlt": "450000"
-    },
-    {
-      "UserName": "Furizawa",
-      "UserLogin": "furizawa",
+      "UserName": "Leenxsi",
+      "UserLogin": "leenxsi",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
@@ -533,28 +527,22 @@
       "Ausgezahlt": "1"
     },
     {
-      "UserName": "Shendrasil",
-      "UserLogin": "shendrasil",
+      "UserName": "bloodycruel",
+      "UserLogin": "bloodycruel",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "morimo87",
-      "UserLogin": "morimo87",
-      "Gold": "0",
-      "Ausgezahlt": "199500"
-    },
-    {
-      "UserName": "Glu3cifer",
-      "UserLogin": "glu3cifer",
+      "UserName": "botzi1337",
+      "UserLogin": "botzi1337",
       "Gold": "0",
       "Ausgezahlt": "0"
     },
     {
-      "UserName": "BliZzi1337",
-      "UserLogin": "blizzi1337",
+      "UserName": "FlyingTrinker_Bell",
+      "UserLogin": "flyingtrinker_bell",
       "Gold": "0",
-      "Ausgezahlt": "0"
+      "Ausgezahlt": "50000"
     },
     {
       "UserName": "extrouu",
@@ -563,8 +551,20 @@
       "Ausgezahlt": "50000"
     },
     {
-      "UserName": "Leenxsi",
-      "UserLogin": "leenxsi",
+      "UserName": "insaneToxicMonsti",
+      "UserLogin": "insanetoxicmonsti",
+      "Gold": "0",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "x91pitt91x",
+      "UserLogin": "x91pitt91x",
+      "Gold": "0",
+      "Ausgezahlt": "0"
+    },
+    {
+      "UserName": "BliZzi1337",
+      "UserLogin": "blizzi1337",
       "Gold": "0",
       "Ausgezahlt": "0"
     }
